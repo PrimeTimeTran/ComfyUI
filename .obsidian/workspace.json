@@ -4,11 +4,44 @@
     "type": "split",
     "children": [
       {
-        "id": "a748e122bd76f062",
+        "id": "121aed47187ec69f",
         "type": "tabs",
         "children": [
           {
-            "id": "ffeea3ba718f92bc",
+            "id": "cf137451e727f03e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Courses/Prerequisites/MAC 2311 - Calculus 1.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "532258cf9de1fd7f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Courses/Concepts/Derivatives.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "b0fb0e64c793ca72",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "71e56b97a7d721db",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,22 +52,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "77ccc5d3bdbf2c45",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Journals/2024-03-05.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journals/2024-03-05.md",
+                "file": "Courses/Concepts/Derivatives.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journals/2024-03-05.md",
+                "file": "Courses/Concepts/Derivatives.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journals/2024-03-05.md"
+                "file": "Courses/Concepts/Derivatives.md"
               }
             }
           },
@@ -169,41 +188,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "77ccc5d3bdbf2c45",
+  "active": "93cbd1431b8f6fae",
   "lastOpenFiles": [
+    "CheatSheets.md",
+    "1. Table of Contents.md",
+    "2. Calculus 1.md",
+    "Courses/Concepts/Integrations.md",
+    "Courses/Concepts/Limit.md",
     "Courses/Concepts/Logarithmic.md",
+    "Courses/Core/2. Major Core.md",
+    "Courses/Prerequisites/0. Prerequisites.md",
+    "Courses/Prerequisites/1. Pre Calculus.md",
+    "Courses/Prerequisites/3. Calculus 2.md",
+    "Courses/Prerequisites/MAC 2311 - Calculus 1.md",
+    "Courses/Prerequisites/PHY 2048C - General Physics 1.md",
+    "Courses/Prerequisites/PHY X049C - General Physics 2.md",
+    "Courses/Prerequisites/Piece Wise Function.md",
+    "Docs/latex-example.pdf",
+    "Docs/Logarithmic.pdf",
+    "Courses/Concepts/Derivatives.md",
+    "Assets/calculus_score-sheet.png",
+    "Assets/definition of acceleration.png",
+    "Assets/demo-adding-up-sums.gif",
+    "Assets/displacement curve.png",
+    "Assets/integrals.png",
+    "Assets/livestream.jpeg",
+    "Assets/tagent.png",
     "Journals/2024-03-05.md",
     "Journals/2024-03-04.md",
-    "Courses/Prerequisites/PHY 2048C - General Physics 1.md",
-    "Assets/tagent.png",
-    "Assets/displacement curve.png",
-    "Assets/definition of acceleration.png",
     "Assets/Screenshot 2024-03-05 at 7.35.27 AM.png",
     "Assets/Screenshot 2024-03-05 at 7.34.53 AM.png",
-    "Courses/Concepts/Integrations.md",
-    "Courses/Prerequisites/MAC 2311 - Calculus 1.md",
     "Courses/Concepts/Integrals.md",
-    "Assets/integrals.png",
-    "Courses/Concepts/Limit.md",
-    "2. Calculus 1.md",
-    "Courses/Prerequisites/3. Calculus 2.md",
-    "Courses/Prerequisites/1. Pre Calculus.md",
     "Software/Setup Latex.md",
-    "Courses/Prerequisites/Piece Wise Function.md",
-    "CheatSheets.md",
     "General Physics 2.md",
     "Courses/Prerequisites/2. Calculus 1.md",
     "Software/CLI/Overview.md",
     "Software/CLI/OhMyZsh.md",
     "Journals/2024-03-03.md",
     "Journals/Template.md",
-    "1. Table of Contents.md",
-    "TurboshipTeaches/1. Objectives & Plan.md",
-    "Startups/1. CyberMetis.md",
-    "Software/CLI/Vim Shortcuts.md",
-    "Courses/Prerequisites/0. Prerequisites.md",
-    "Assets/calculus_score-sheet.png",
-    "Assets/demo-adding-up-sums.gif",
     "Assets/demo-adding-up-sums.gif.sb-7b1c7ca7-NLCMg7",
     "tmux",
     "foo.txt",
@@ -212,11 +234,8 @@
     "Software/CLI",
     "Software",
     "Startups/Meetings",
-    "Startups",
     "Overview.canvas",
-    "Playground/latex-builder.pdf",
     "Assets/Tagent.png",
-    "Assets/livestream.jpeg",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]

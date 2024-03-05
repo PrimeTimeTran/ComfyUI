@@ -19,8 +19,9 @@ Also
 		- Find slope of a **single** point by looking at nearby points.
 	- Use functions secants to ascertain slope at a **single** point.
 	- Describe the behavior of a function as the input approaches a certain value. Limits are used to define derivatives and integrals.
-- Derivatives
-	- Slope of the tangent line at a point, x. 
+- [[Derivatives]]
+	- Slope of the tangent line at a point, x.
+	- Usually expressed as a function.
 	- The derivative of a function represents its rate of change at any given point. Geometrically, it corresponds to the slope of the tangent line to the graph of the function at that point. Derivatives are used in various applications such as optimization, modeling rates of change, and determining the behavior of functions.
 - [[Integrations]]
 	- Adding up tiny bits of a quantity.
@@ -41,14 +42,12 @@ Also
 
 
 
-Ways to evaluate a limit
-Analytically
-Graphically
+Derivatives & integrations are opposites
 
-Evaluating limits analytically
-Try factoring
-If complex fraction then multiply top & bottom by common denominator of the numerator
-If fraction with a sqrt then multiply top & bottom by conjugate of the sqrt factor
+ $\frac{d}{dx}f(x) = f^1(x)$
+
+$\int_{a}^{b} x^2 \,dx$
+
 
 ### Resources
 - [Big Picture of Calculus by Eddie Woo](https://www.youtube.com/watch?v=tt2DGYOi3hc&ab_channel=EddieWoo)
