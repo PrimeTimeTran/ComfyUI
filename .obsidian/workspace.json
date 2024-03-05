@@ -26,7 +26,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/Concepts/Derivatives.md",
+                "file": "Courses/Prerequisites/MAC 2311 - Calculus 1.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "241f7d3bea68e550",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Courses/Concepts/Limits.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "b0fb0e64c793ca72",
@@ -119,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Courses/Concepts/Derivatives.md",
+                "file": "Courses/Concepts/Limits.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Courses/Concepts/Derivatives.md",
+                "file": "Courses/Concepts/Limits.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Courses/Concepts/Derivatives.md"
+                "file": "Courses/Concepts/Limits.md"
               }
             }
           },
@@ -188,25 +201,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "93cbd1431b8f6fae",
+  "active": "241f7d3bea68e550",
   "lastOpenFiles": [
+    "Courses/Prerequisites/MAC 2311 - Calculus 1.md",
+    "Courses/Concepts/Limits.md",
+    "Courses/Prerequisites/0. Prerequisites.md",
+    "Courses/Prerequisites/MAC 2312 - Calculus 2.md",
+    "Courses/Prerequisites/1. Pre Calculus.md",
+    "Courses/Prerequisites/3. Calculus 2.md",
+    "Courses/Concepts/Derivatives.md",
     "CheatSheets.md",
     "1. Table of Contents.md",
     "2. Calculus 1.md",
     "Courses/Concepts/Integrations.md",
-    "Courses/Concepts/Limit.md",
     "Courses/Concepts/Logarithmic.md",
     "Courses/Core/2. Major Core.md",
-    "Courses/Prerequisites/0. Prerequisites.md",
-    "Courses/Prerequisites/1. Pre Calculus.md",
-    "Courses/Prerequisites/3. Calculus 2.md",
-    "Courses/Prerequisites/MAC 2311 - Calculus 1.md",
     "Courses/Prerequisites/PHY 2048C - General Physics 1.md",
     "Courses/Prerequisites/PHY X049C - General Physics 2.md",
     "Courses/Prerequisites/Piece Wise Function.md",
     "Docs/latex-example.pdf",
     "Docs/Logarithmic.pdf",
-    "Courses/Concepts/Derivatives.md",
     "Assets/calculus_score-sheet.png",
     "Assets/definition of acceleration.png",
     "Assets/demo-adding-up-sums.gif",

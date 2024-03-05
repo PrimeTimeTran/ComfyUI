@@ -11,7 +11,7 @@ Also
 - Find the gradient(slope or `m` or $dy/dx$) of tangent.
 ![[Tagent.png]]
 ### Concrete
-- Limits
+- [[Limits]]
 	- Learn how to find "incalculable" values.
 		- Cannot divide by $0$.
 		- $2/0$ is not possible
