@@ -13,6 +13,6 @@ $$\lim_{x \to 0} $$
 - Graphically
 
 Analytically
-- Try factoring
+- Try factoring 
 If complex fraction then multiply top & bottom by common denominator of the numerator
 If fraction with a sqrt then multiply top & bottom by conjugate of the sqrt factor
