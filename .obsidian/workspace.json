@@ -1,0 +1,223 @@
+{
+  "main": {
+    "id": "cd5bbe740f97172e",
+    "type": "split",
+    "children": [
+      {
+        "id": "a748e122bd76f062",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ffeea3ba718f92bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Courses/Concepts/Logarithmic.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "77ccc5d3bdbf2c45",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Journals/2024-03-05.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "397d0ef7e3d35602",
+    "type": "split",
+    "children": [
+      {
+        "id": "fb20d692da40d90c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "93cbd1431b8f6fae",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "facb7e5fa8ba9bd0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7176f88bf8c811d2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 293.5
+  },
+  "right": {
+    "id": "a25c65a9be484658",
+    "type": "split",
+    "children": [
+      {
+        "id": "7a83fb7e154da7b2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "99d33555ecc87372",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Journals/2024-03-05.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1713a25a72f856b5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Journals/2024-03-05.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7b636b378a86417e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "dfeec98fc806c576",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Journals/2024-03-05.md"
+              }
+            }
+          },
+          {
+            "id": "2a59fdfdf498d522",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "77ccc5d3bdbf2c45",
+  "lastOpenFiles": [
+    "Courses/Concepts/Logarithmic.md",
+    "Journals/2024-03-05.md",
+    "Journals/2024-03-04.md",
+    "Courses/Prerequisites/PHY 2048C - General Physics 1.md",
+    "Assets/tagent.png",
+    "Assets/displacement curve.png",
+    "Assets/definition of acceleration.png",
+    "Assets/Screenshot 2024-03-05 at 7.35.27 AM.png",
+    "Assets/Screenshot 2024-03-05 at 7.34.53 AM.png",
+    "Courses/Concepts/Integrations.md",
+    "Courses/Prerequisites/MAC 2311 - Calculus 1.md",
+    "Courses/Concepts/Integrals.md",
+    "Assets/integrals.png",
+    "Courses/Concepts/Limit.md",
+    "2. Calculus 1.md",
+    "Courses/Prerequisites/3. Calculus 2.md",
+    "Courses/Prerequisites/1. Pre Calculus.md",
+    "Software/Setup Latex.md",
+    "Courses/Prerequisites/Piece Wise Function.md",
+    "CheatSheets.md",
+    "General Physics 2.md",
+    "Courses/Prerequisites/2. Calculus 1.md",
+    "Software/CLI/Overview.md",
+    "Software/CLI/OhMyZsh.md",
+    "Journals/2024-03-03.md",
+    "Journals/Template.md",
+    "1. Table of Contents.md",
+    "TurboshipTeaches/1. Objectives & Plan.md",
+    "Startups/1. CyberMetis.md",
+    "Software/CLI/Vim Shortcuts.md",
+    "Courses/Prerequisites/0. Prerequisites.md",
+    "Assets/calculus_score-sheet.png",
+    "Assets/demo-adding-up-sums.gif",
+    "Assets/demo-adding-up-sums.gif.sb-7b1c7ca7-NLCMg7",
+    "tmux",
+    "foo.txt",
+    "test.txt",
+    "text.txt",
+    "Software/CLI",
+    "Software",
+    "Startups/Meetings",
+    "Startups",
+    "Overview.canvas",
+    "Playground/latex-builder.pdf",
+    "Assets/Tagent.png",
+    "Assets/livestream.jpeg",
+    "Untitled.canvas",
+    "Untitled 1.canvas"
+  ]
+}
