@@ -6,6 +6,7 @@
       {
         "id": "121aed47187ec69f",
         "type": "tabs",
+        "dimension": 41.07913669064748,
         "children": [
           {
             "id": "cf137451e727f03e",
@@ -14,6 +15,19 @@
               "type": "markdown",
               "state": {
                 "file": "Courses/Prerequisites/MAC 2311 - Calculus 1.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ed6e6ef2d0739e09",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Courses/Concepts/Limits.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,12 +48,25 @@
             }
           },
           {
+            "id": "6b7a56e8faf2d289",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Life Goals.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "241f7d3bea68e550",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/Concepts/Limits.md",
+                "file": "Courses/Concepts/Derivatives.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -47,11 +74,12 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "b0fb0e64c793ca72",
         "type": "tabs",
+        "dimension": 58.92086330935252,
         "children": [
           {
             "id": "71e56b97a7d721db",
@@ -95,7 +123,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Plugin",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -132,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Courses/Concepts/Limits.md",
+                "file": "Life Goals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Courses/Concepts/Limits.md",
+                "file": "Life Goals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Courses/Concepts/Limits.md"
+                "file": "Life Goals.md"
               }
             }
           },
@@ -201,20 +229,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "241f7d3bea68e550",
+  "active": "6b7a56e8faf2d289",
   "lastOpenFiles": [
     "Courses/Prerequisites/MAC 2311 - Calculus 1.md",
+    "Life Goals.md",
     "Courses/Concepts/Limits.md",
-    "Courses/Prerequisites/0. Prerequisites.md",
-    "Courses/Prerequisites/MAC 2312 - Calculus 2.md",
+    "Fundamental Theorem of Calculus.md",
+    "Courses/Concepts/Logarithmic.md",
     "Courses/Prerequisites/1. Pre Calculus.md",
-    "Courses/Prerequisites/3. Calculus 2.md",
+    "Courses/Prerequisites/0. Prerequisites.md",
+    "foobar.txt",
     "Courses/Concepts/Derivatives.md",
+    "Courses/Prerequisites/MAC 2312 - Calculus 2.md",
+    "Courses/Prerequisites/3. Calculus 2.md",
     "CheatSheets.md",
     "1. Table of Contents.md",
     "2. Calculus 1.md",
     "Courses/Concepts/Integrations.md",
-    "Courses/Concepts/Logarithmic.md",
     "Courses/Core/2. Major Core.md",
     "Courses/Prerequisites/PHY 2048C - General Physics 1.md",
     "Courses/Prerequisites/PHY X049C - General Physics 2.md",
@@ -238,8 +269,6 @@
     "Courses/Prerequisites/2. Calculus 1.md",
     "Software/CLI/Overview.md",
     "Software/CLI/OhMyZsh.md",
-    "Journals/2024-03-03.md",
-    "Journals/Template.md",
     "Assets/demo-adding-up-sums.gif.sb-7b1c7ca7-NLCMg7",
     "tmux",
     "foo.txt",
@@ -247,7 +276,6 @@
     "text.txt",
     "Software/CLI",
     "Software",
-    "Startups/Meetings",
     "Overview.canvas",
     "Assets/Tagent.png",
     "Untitled.canvas",

@@ -11,6 +11,6 @@ To find the the derivative of a monomial.
 #### Formula
 Derivative function for a tangent.
 
-$f^1(x) = \frac{lim}{h->0}(\frac{f(x+h)-f(x)}{h})$
+$f^1(x) = \frac{lim}{h\to0}(\frac{f(x+h)-f(x)}{h})$
 
 #### The Chain Rule

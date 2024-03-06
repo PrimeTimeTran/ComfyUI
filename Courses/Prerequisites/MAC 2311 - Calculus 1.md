@@ -12,19 +12,35 @@ Also
 ![[Tagent.png]]
 ### Concrete
 - [[Limits]]
-	- Learn how to find "incalculable" values.
-		- Cannot divide by $0$.
-		- $2/0$ is not possible
+	- Replaces "incalculable" functions: $2/0$
 	- An equation which can be graphed. 
 		- Find slope of a **single** point by looking at nearby points.
-	- Use functions secants to ascertain slope at a **single** point.
+	- Use secants to ascertain slope at a **single** point.
 	- Describe the behavior of a function as the input approaches a certain value. Limits are used to define derivatives and integrals.
+	- "What happens to a function as we approach a value"
 - [[Derivatives]]
+	- Functions that evaluate to slope of an original function at some value, usually x. 
+		- Original Function: $f(x)$
+		- Derivative: $f^1(x)$ 
+			- Evalutes to slope of $f(x)$
 	- Slope of the tangent line at a point, x.
 	- Usually expressed as a function.
 	- The derivative of a function represents its rate of change at any given point. Geometrically, it corresponds to the slope of the tangent line to the graph of the function at that point. Derivatives are used in various applications such as optimization, modeling rates of change, and determining the behavior of functions.
+
+- [[Integrals]]:
+	- Derivatives & integrations are opposites
+	- "The derivative of the function f of x is equal to x prime of x"
+		$\frac{d}{dx}f(x) = f^1(x)$
+
+	- "The integral of f prime of x is f of x"
+		$\int{f}^1(x)dx = f(x)$
+
+	- "antiderivative of f prime"
+
 - [[Integrations]]
+  $\int_{a}^{b} x^2 \,dx$
 	- Adding up tiny bits of a quantity.
+	- 
 	- The process of computing an integral.
 	- Integration is the process of finding the accumulated area under a curve. The integral of a function represents the net accumulation of the function's values over a given interval. It has applications in computing areas, volumes, and solving differential equations.
 	![[demo-adding-up-sums.gif]]
@@ -34,19 +50,12 @@ Also
 	- An antiderivative of a function is a function whose derivative is equal to the original function. Antiderivatives are essentially the reverse process of differentiation and are crucial in solving differential equations and evaluating integrals.
 - **Applications of Calculus**: 
 	- Calculus has numerous applications across various fields such as physics, engineering, economics, biology, and computer science. Examples include optimization, motion analysis, population modeling, and signal processing.
-- **Fundamental Theorem of Calculus**: 
+- **[[Fundamental Theorem of Calculus]]**: 
 	- This theorem establishes a fundamental connection between differentiation and integration. It states that if a function is continuous on a closed interval and is integrable on that interval, then the definite integral of its derivative over that interval is equal to the difference of its values at the endpoints of the interval.
 - **Limits at Infinity**: 
 	- Calculus also deals with the behavior of functions as the input approaches infinity or negative infinity. This concept is crucial for understanding asymptotic behavior and determining the end behavior of functions.
 
 
-
-
-Derivatives & integrations are opposites
-
- $\frac{d}{dx}f(x) = f^1(x)$
-
-$\int_{a}^{b} x^2 \,dx$
 
 
 ### Resources
