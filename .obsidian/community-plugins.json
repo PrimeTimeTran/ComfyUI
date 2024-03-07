@@ -5,5 +5,8 @@
   "cm-editor-syntax-highlight-obsidian",
   "obsidian-outliner",
   "vim-toggle",
-  "obsidian-latex-suite"
+  "obsidian-latex-suite",
+  "obsidian-excalidraw-plugin",
+  "obsidian-hider",
+  "obsidian-style-settings"
 ]

@@ -3,5 +3,9 @@
   "enabledCssSnippets": [
     "big-math"
   ],
-  "baseFontSize": 23
+  "baseFontSize": 23,
+  "cssTheme": "Everforest",
+  "translucency": true,
+  "showViewHeader": false,
+  "nativeMenus": true
 }
