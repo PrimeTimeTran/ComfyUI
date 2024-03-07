@@ -1,5 +1,19 @@
-The limit as x approaches 0
+---
+tags:
+  - calculus
+---
+Find out what happens as x approach a value.
 $$\lim_{x \to 0} $$
+Help us understand the value of a function which might be non existent
+Does not exist(D.N.E.)
+
+- Replaces "incalculable" functions: $2/0$
+	- An equation which can be graphed. 
+		- Find slope of a **single** point by looking at nearby points.
+	- Use secants to ascertain slope at a **single** point.
+	- Describe the behavior of a function as the input approaches a certain value. Limits are used to define derivatives and integrals.
+	- "What happens to a function as we approach a value"
+	  
 #### How to evaluate a limit?
 - Analytically:
 	- First Principles
@@ -10,10 +24,10 @@ $$\lim_{x \to 0} $$
 	- Tangent
 		- A single point on a graph
 		- Finding the slope at this point was the problem which gave birth to limits
-- Graphically
+- Graphically:
+	- Looking at the graphed $f(x)$
 
 #### Methods Analytically
-
 1. Plugin: 
 	1. First principles is plugging in values(secants) and observing behavior of their gradients as they approach the limit.
 		- Clearly, `f(2)` won't work. It's dividing by 0.
@@ -41,6 +55,8 @@ $$\lim_{x \to 0} $$
 
 If fraction with a sqrt then multiply top & bottom by conjugate of the sqrt factor
 
-
 Graphically
 - If left & right side approaches are not the same then the limit does not exist
+
+
+#calculus

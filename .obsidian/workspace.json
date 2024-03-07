@@ -6,92 +6,34 @@
       {
         "id": "121aed47187ec69f",
         "type": "tabs",
-        "dimension": 41.07913669064748,
+        "dimension": 56.50611071171819,
         "children": [
           {
-            "id": "cf137451e727f03e",
+            "id": "ca91f451bc6d3db6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/Prerequisites/MAC 2311 - Calculus 1.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ed6e6ef2d0739e09",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Courses/Concepts/Limits.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "532258cf9de1fd7f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Courses/Prerequisites/MAC 2311 - Calculus 1.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6b7a56e8faf2d289",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Life Goals.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "241f7d3bea68e550",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Courses/Concepts/Derivatives.md",
+                "file": "Courses/Concepts/Integrations.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "b0fb0e64c793ca72",
         "type": "tabs",
-        "dimension": 58.92086330935252,
+        "dimension": 43.493889288281814,
         "children": [
           {
-            "id": "71e56b97a7d721db",
+            "id": "532258cf9de1fd7f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Courses/Concepts/Logarithmic.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -123,7 +65,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Plugin",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -144,7 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 293.5
+    "width": 321.5
   },
   "right": {
     "id": "a25c65a9be484658",
@@ -160,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Life Goals.md",
+                "file": "Courses/Concepts/Integrations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Life Goals.md",
+                "file": "Courses/Concepts/Integrations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Life Goals.md"
+                "file": "Courses/Concepts/Integrations.md"
               }
             }
           },
@@ -229,27 +171,39 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6b7a56e8faf2d289",
+  "active": "ca91f451bc6d3db6",
   "lastOpenFiles": [
     "Courses/Prerequisites/MAC 2311 - Calculus 1.md",
-    "Life Goals.md",
-    "Courses/Concepts/Limits.md",
-    "Fundamental Theorem of Calculus.md",
-    "Courses/Concepts/Logarithmic.md",
-    "Courses/Prerequisites/1. Pre Calculus.md",
-    "Courses/Prerequisites/0. Prerequisites.md",
-    "foobar.txt",
-    "Courses/Concepts/Derivatives.md",
-    "Courses/Prerequisites/MAC 2312 - Calculus 2.md",
-    "Courses/Prerequisites/3. Calculus 2.md",
-    "CheatSheets.md",
-    "1. Table of Contents.md",
-    "2. Calculus 1.md",
     "Courses/Concepts/Integrations.md",
-    "Courses/Core/2. Major Core.md",
-    "Courses/Prerequisites/PHY 2048C - General Physics 1.md",
-    "Courses/Prerequisites/PHY X049C - General Physics 2.md",
+    "Courses/Concepts/Integration.md",
+    "Courses/Concepts/Power Rule.md",
+    "Courses/Concepts/Derivatives.md",
+    "Courses/Concepts/InfoSec.md",
+    "Courses/Concepts/Chain Rule.md",
+    "Courses/Concepts/Quotient Rule.md",
+    "Courses/Concepts/Constant Multiple Rule.md",
+    "Courses/Concepts/Difference Rule.md",
+    "Courses/Concepts/Sum Rule.md",
+    "Courses/Cheat sheets.md",
+    "Courses/Concepts/First Principles.md",
+    "Courses/Concepts/Differentiation Rules.md",
+    "Courses/Concepts/Constant Rule.md",
+    "Courses/Concepts/Limits.md",
+    "Courses/Prerequisites/0. Prerequisites.md",
+    "Courses/Core/Intro To Web.md",
+    "Courses/1. Table of Contents.md",
+    "Courses/Concepts/Linked List.md",
+    "Courses/Concepts/Life Goals.md",
+    "Courses/Concepts/Indefinite integral.md",
+    "Courses/Concepts/Definite Integral.md",
+    "Courses/Concepts/Array.md",
+    "Untitled.md",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
     "Courses/Prerequisites/Piece Wise Function.md",
+    "Assets/1709735151850.gif",
+    "Assets/Common DS.png",
+    "foobar.txt",
     "Docs/latex-example.pdf",
     "Docs/Logarithmic.pdf",
     "Assets/calculus_score-sheet.png",
@@ -259,16 +213,7 @@
     "Assets/integrals.png",
     "Assets/livestream.jpeg",
     "Assets/tagent.png",
-    "Journals/2024-03-05.md",
-    "Journals/2024-03-04.md",
     "Assets/Screenshot 2024-03-05 at 7.35.27 AM.png",
-    "Assets/Screenshot 2024-03-05 at 7.34.53 AM.png",
-    "Courses/Concepts/Integrals.md",
-    "Software/Setup Latex.md",
-    "General Physics 2.md",
-    "Courses/Prerequisites/2. Calculus 1.md",
-    "Software/CLI/Overview.md",
-    "Software/CLI/OhMyZsh.md",
     "Assets/demo-adding-up-sums.gif.sb-7b1c7ca7-NLCMg7",
     "tmux",
     "foo.txt",
@@ -276,9 +221,6 @@
     "text.txt",
     "Software/CLI",
     "Software",
-    "Overview.canvas",
-    "Assets/Tagent.png",
-    "Untitled.canvas",
-    "Untitled 1.canvas"
+    "Overview.canvas"
   ]
 }
