@@ -2,7 +2,7 @@
   "folder": "Assets/Excalidraw",
   "cropFolder": "",
   "embedUseExcalidrawFolder": false,
-  "templateFilePath": "Excalidraw/Template.excalidraw",
+  "templateFilePath": "Assets/Excalidraw/Excalidraw-Template",
   "scriptFolderPath": "Excalidraw/Scripts",
   "compress": false,
   "autosave": true,

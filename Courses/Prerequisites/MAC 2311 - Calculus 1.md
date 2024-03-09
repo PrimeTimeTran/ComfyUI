@@ -5,28 +5,27 @@ tags:
 ![[calculus_score-sheet.png]]
 # Intro
 The mathematics of **change**. Find the rates of change and how that effects volume, area, and more.
-![[tangent.png]]
+
 - What does the tangent line represent?
 - How does it relate to other points?
   
-  Calculus has numerous applications across various fields such as physics, engineering, economics, biology, and computer science. Examples include optimization, motion analysis, population modeling, and signal processing.
+Calculus has numerous applications across various fields such as physics, engineering, economics, biology, and computer science. Examples include optimization, motion analysis, population modeling, and signal processing.
 # Contents
-- [[Limits]]
+## [[Limits]]
   "What happens to a function as we approach a value"
   $$\lim_{x \to a} $$
-- [[Derivatives]]
-  Rate of change:
-  Function which finds slope of an **original function**, $f(x)$, at some point(usually x).
+## [[Derivatives]]
+The rate of change. A function which finds slope of an **original function**, $f(x)$, at some point(usually x).
   $$\frac{d}{dx}[x^n]$$
   
-- [[Differentiation Rules]]: 
-  Find derivatives of functions without needing first principles. 
+### [[Derivative Rules]]: 
+Find derivatives without needing first principles. 
 	- [[Power Rule]]
 	- [[Product rule]]
 	- [[Quotient Rule]]
 	- [[Chain Rule]]
 	  
-- [[Integrations]]
+## [[Integrations]]
   Adding up tiny bits.
   $$\int_{a}^{b} x^2 \,dx$$
 - [[Antiderivatives]]: 
@@ -40,6 +39,14 @@ The mathematics of **change**. Find the rates of change and how that effects vol
 	- Jump
 	- Infinite
 		- Asymptotes force it to diverge
+
+# Excalidraw
+To ensure drawing experience is good 
+- Hide touch bar
+- Hide sidebar
+- Maximize screen on macbook
+![[Pasted image 20240309014055.png]]
+
 # Resources
 - [Big Picture of Calculus by Eddie Woo](https://www.youtube.com/watch?v=tt2DGYOi3hc&ab_channel=EddieWoo)
 - [How to think about Integration?](https://www.youtube.com/watch?v=MwVBzE7Z5gw&t=329s&ab_channel=MathTheWorld)

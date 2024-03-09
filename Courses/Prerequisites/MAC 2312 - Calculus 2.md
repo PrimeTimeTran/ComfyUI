@@ -1,9 +1,11 @@
 
 Series
 Integrals
+￼
 
 
-
+￼
+![[y=mx+b when c=g.pdf]]
 
 Power Series
 Adding up numbers given a pattern

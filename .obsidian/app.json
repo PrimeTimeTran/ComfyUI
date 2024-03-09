@@ -12,5 +12,6 @@
   "propertiesInDocument": "visible",
   "showInlineTitle": false,
   "focusNewTab": true,
-  "readableLineLength": true
+  "readableLineLength": false,
+  "strictLineBreaks": false
 }
