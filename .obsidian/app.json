@@ -9,7 +9,7 @@
     "downscalePercent": 100
   },
   "vimMode": true,
-  "propertiesInDocument": "hidden",
+  "propertiesInDocument": "visible",
   "showInlineTitle": false,
   "focusNewTab": true,
   "readableLineLength": true

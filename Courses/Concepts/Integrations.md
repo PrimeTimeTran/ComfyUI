@@ -30,12 +30,18 @@ $\int_a^b f(x) dx$
 
 Subtract one from exponent. Divide by that expression:
 $\frac {x^{3-1}}{3-1}$ = $\frac {x^2}{2}$
-## [[Definite Integral]]
-$\int_a^b f(x) dx$
-- Has a & b
-- Produces number
+
 ## [[Indefinite integral]]
-$\int_ \,f(x) dx$
-- Produces function
+- Outputs function.
+- Produces the antiderivative of a function.
+  $$\int_ \,f(x) dx$$
+## [[Definite Integral]]
+
+- Outputs number.
+- Area under curve. From $f(a)$ - $f(b)$.
+  $$\int_a^b f(x) dx$$
+
+
+
 Resources
 [How to think about integrations](https://www.youtube.com/watch?v=MwVBzE7Z5gw&t=329s&ab_channel=MathTheWorld)

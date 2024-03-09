@@ -1,3 +1,4 @@
+Evaluating limits of a function
 
 1. Plugin: 
 	1. First principles is plugging in values(secants) and observing behavior of their gradients as they approach the limit.
