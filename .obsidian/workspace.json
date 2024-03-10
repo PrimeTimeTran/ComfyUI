@@ -4,109 +4,84 @@
     "type": "split",
     "children": [
       {
-        "id": "281ad68f79fb0344",
-        "type": "split",
+        "id": "e4bbd8ef892380c9",
+        "type": "tabs",
+        "dimension": 70.5911330049261,
         "children": [
           {
-            "id": "ed20cd352a088596",
-            "type": "split",
-            "dimension": 77.44405182567726,
-            "children": [
-              {
-                "id": "94b5d13900084ffa",
-                "type": "tabs",
-                "children": [
-                  {
-                    "id": "6ac38942e346c7ca",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "Concepts/Calculus/Derivatives.md",
-                        "mode": "source",
-                        "backlinks": true,
-                        "source": false
-                      }
-                    }
-                  },
-                  {
-                    "id": "4117109ec1300487",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "Concepts/Calculus/Second Derivative Test.md",
-                        "mode": "source",
-                        "backlinks": true,
-                        "source": false
-                      }
-                    }
-                  }
-                ]
-              },
-              {
-                "id": "c6a771a05d087310",
-                "type": "tabs",
-                "children": [
-                  {
-                    "id": "83d46aaadd11f877",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "Derivative Rules.md",
-                        "mode": "source",
-                        "backlinks": true,
-                        "source": false
-                      }
-                    }
-                  }
-                ]
-              },
-              {
-                "id": "84d5bf53fc323d42",
-                "type": "tabs",
-                "children": [
-                  {
-                    "id": "e5a46e3a9def5f9a",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "Concepts/Calculus/Power Rule.md",
-                        "mode": "source",
-                        "backlinks": true,
-                        "source": false
-                      }
-                    }
-                  }
-                ]
+            "id": "ba159b42a0ee35cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Concepts/Calculus/Derivatives.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
-            ],
-            "direction": "vertical"
+            }
           },
           {
-            "id": "903be75bf9df5a85",
-            "type": "tabs",
-            "dimension": 22.555948174322733,
-            "children": [
-              {
-                "id": "0749ee880ba3517e",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Concepts/Calculus/Second Derivatives.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  }
-                }
+            "id": "5083af2589cf8ee0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Integral.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
-            ]
+            }
+          },
+          {
+            "id": "8823147eb289c13e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Find Anti Derivatives.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7e12f82ebc925dd7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Concepts/Calculus/Integrations.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "direction": "horizontal"
+        "currentTab": 3
+      },
+      {
+        "id": "d065aede32e6fbda",
+        "type": "tabs",
+        "dimension": 29.40886699507389,
+        "children": [
+          {
+            "id": "e1868817d4c78b5e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Paul's Online Notes - Progress.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -135,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#calculus",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -156,7 +131,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 259.5
+    "width": 484.50312423706055,
+    "collapsed": true
   },
   "right": {
     "id": "a25c65a9be484658",
@@ -172,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Concepts/Calculus/Derivatives.md",
+                "file": "Concepts/Calculus/Integrations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Concepts/Calculus/Derivatives.md",
+                "file": "Concepts/Calculus/Integrations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -212,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Concepts/Calculus/Derivatives.md"
+                "file": "Concepts/Calculus/Integrations.md"
               }
             }
           },
@@ -243,53 +219,53 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6ac38942e346c7ca",
+  "active": "7e12f82ebc925dd7",
   "lastOpenFiles": [
-    "Concepts/Infosec/NMap.md",
+    "Find Anti Derivatives.md",
+    "Integral.md",
+    "Derivatives of Angles.md",
+    "Concepts/Calculus/Integrations.md",
+    "Concepts/Calculus/Derivatives.md",
+    "Screenshot 2024-03-10 at 8.49.13 AM.png",
+    "Courses/Prerequisites/MAC 2311 - Calculus 1.md",
+    "shortcuts.json",
+    "Paul's Online Notes - Progress.md",
+    "Concepts/Mia's Soccer.md",
+    "Assets/Excalidraw/Template-Excalidraw.md",
+    "Concepts/Calculus/Quotient Rule.md",
+    "Screenshot 2024-03-10 at 1.36.37 AM.png",
+    "Assets/Excalidraw/optimization-3.png",
+    "Assets/Excalidraw/Pasted Image 20240310005205_246.png",
+    "Assets/Screenshot 2024-03-09 at 10.13.01 PM.png",
+    "Assets/Screenshot 2024-03-09 at 9.54.22 PM.png",
+    "Assets/Screenshot 2024-03-09 at 7.15.13 PM.png",
+    "Assets/Screenshot 2024-03-09 at 7.09.36 PM.png",
+    "Assets/Screenshot 2024-03-09 at 3.04.04 PM.png",
+    "Assets/Screenshot 2024-03-08 at 8.15.25 PM.png",
+    "Excalidraw-Template.pn.md",
+    "Concepts/Calculus/Sum Rule.md",
+    "Courses/Prerequisites/Fundamental Theorem of Calculus.md",
+    "Concepts/Calculus/Constant Rule.md",
+    "Concepts/Calculus/Derivative Rules.md",
+    "Concepts/Calculus/Product rule.md",
+    "Concepts/Calculus/Second Derivative Test.md",
+    "Concepts/Calculus/Taylor Series.md",
+    "Concepts/Calculus/Second Derivatives.md",
+    "Concepts/Calculus/Saddle Point.md",
+    "Concepts/Calculus/Power Rule.md",
+    "Concepts/Calculus/Logarithmic.md",
+    "Concepts/Calculus/Limits.md",
+    "Concepts/Calculus/Indefinite integral.md",
+    "Concepts/Calculus/First Principles.md",
+    "Concepts/Problems",
     "Concepts/OOP",
     "Concepts/Infosec",
-    "Concepts/Databases/Postgres.md",
-    "Concepts/Infosec/InfoSec.md",
     "Concepts/Databases",
-    "Concepts/Life Goals.md",
-    "Concepts/DSA/Stack.md",
-    "Concepts/Physics/The Standard Model of Particle Physics.md",
-    "Concepts/OOP/Inheritance.md",
-    "Concepts/Physics/Bosons.md",
     "Concepts/Physics",
-    "Concepts/DSA/Tree.md",
-    "Concepts/Calculus/Logarithmic.md",
-    "Concepts/DSA/Linked List.md",
-    "Concepts/Calculus/Limits.md",
-    "Concepts/DSA/Graph.md",
-    "Concepts/Calculus/Difference Quotient.md",
-    "Concepts/Calculus/Derivatives.md",
-    "Concepts/Calculus/Chain Rule.md",
-    "Concepts/Calculus/Constant Multiple Rule.md",
-    "Concepts/DSA/Array.md",
     "Concepts/DSA",
-    "Concepts/Calculus/Product rule.md",
-    "Concepts/DSA/Matrix.md",
-    "Concepts/Calculus/Quotient Rule.md",
-    "Concepts/Calculus/Second Derivatives.md",
-    "Concepts/Calculus/Sum Rule.md",
-    "Concepts/Calculus/Taylor Series.md",
-    "Concepts/Physics/Two Types of Particles.md",
     "Concepts/Calculus",
-    "Assets/derivative notions.png",
-    "Assets/Screenshot 2024-03-08 at 8.15.25 PM.png",
     "y=mx+b when c=g.pdf",
-    "Assets/Screenshot 2024-03-09 at 3.04.04 PM.png",
-    "Pasted image 20240309014055.png",
-    "Assets/1709735151850.gif",
-    "Assets/Excalidraw/Drawing 2024-03-07 12.45.56.excalidraw.svg",
-    "Assets/Excalidraw/Drawing 2024-03-07 12.45.56.excalidraw.png",
-    "Assets/Screenshot 2024-03-08 at 5.31.02 PM.png",
-    "Assets/falling.gif",
-    "Assets/Screenshot 2024-03-08 at 1.02.09 AM.png",
     "Excalidraw/Scripts/Downloaded",
-    "Excalidraw/Scripts",
-    "Excalidraw",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Overview.canvas"

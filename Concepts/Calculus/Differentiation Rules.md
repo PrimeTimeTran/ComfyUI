@@ -1,5 +1,0 @@
-
-[[Constant Rule]]
-
-
-[[Power Rule]]

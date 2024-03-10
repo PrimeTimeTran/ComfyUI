@@ -1,3 +1,8 @@
+---
+tags:
+  - calculus
+---
+
 Another perspective on exponents & indices.
 ### Explanation:
 $$

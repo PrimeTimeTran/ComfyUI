@@ -2,7 +2,6 @@
 tags:
   - calculus
 ---
-
 Read "f double prime"
 $$
 f^{''}

@@ -1,3 +1,7 @@
+---
+tags:
+  - calculus
+---
 
 $$f(x)=\frac{lim} {x\to2}\frac{x^2-2}{x-2}$$
 The way Newton came up with it

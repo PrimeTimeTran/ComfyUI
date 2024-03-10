@@ -13,5 +13,6 @@
   "showInlineTitle": false,
   "focusNewTab": true,
   "readableLineLength": false,
-  "strictLineBreaks": false
+  "strictLineBreaks": false,
+  "spellcheck": false
 }

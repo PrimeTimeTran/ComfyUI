@@ -15,22 +15,21 @@ Calculus has numerous applications across various fields such as physics, engine
   "What happens to a function as we approach a value"
   $$\lim_{x \to a} $$
 ## [[Derivatives]]
-The rate of change. A function which finds slope of an **original function**, $f(x)$, at some point(usually x).
-  $$\frac{d}{dx}[x^n]$$
-  
+The rate of change. A function which finds slope of an **original function**, $f(x)$, at some point(usually x).  $$\frac{d}{dx}[x^n]$$
 ### [[Derivative Rules]]: 
-Find derivatives without needing first principles. 
-	- [[Power Rule]]
+Find derivatives without using [[First Principles]]. 
+	- [[Constant Rule]]
+	- [[Sum Rule]]
 	- [[Product rule]]
+	- [[Power Rule]]
 	- [[Quotient Rule]]
 	- [[Chain Rule]]
-	  
-## [[Integrations]]
-  Adding up tiny bits.
-  $$\int_{a}^{b} x^2 \,dx$$
-- [[Antiderivatives]]: 
+## [[Antiderivatives]]
   An antiderivative of a function is a function whose derivative is equal to the original function. Antiderivatives are essentially the reverse process of differentiation and are crucial in solving differential equations and evaluating integrals.
-- **[[Fundamental Theorem of Calculus]]**: 
+
+## [[Integral]]
+
+## [[Fundamental Theorem of Calculus]]
   This theorem establishes a fundamental connection between differentiation and integration. It states that if a function is continuous on a closed interval and is integrable on that interval, then the definite integral of its derivative over that interval is equal to the difference of its values at the endpoints of the interval.
 - Limits at Infinity: 
   Calculus also deals with the behavior of functions as the input approaches infinity or negative infinity. This concept is crucial for understanding asymptotic behavior and determining the end behavior of functions.
@@ -40,12 +39,22 @@ Find derivatives without needing first principles.
 	- Infinite
 		- Asymptotes force it to diverge
 
+
+
+## Problems
+
+1. [[Mia's Soccer]]
+
+
 # Excalidraw
 To ensure drawing experience is good 
 - Hide touch bar
 - Hide sidebar
 - Maximize screen on macbook
-![[Pasted image 20240309014055.png]]
+
+## [[Paul's Online Notes - Progress]]
+
+Do these problems until you're pro
 
 # Resources
 - [Big Picture of Calculus by Eddie Woo](https://www.youtube.com/watch?v=tt2DGYOi3hc&ab_channel=EddieWoo)

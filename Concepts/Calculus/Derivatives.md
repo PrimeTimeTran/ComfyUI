@@ -3,10 +3,13 @@ tags:
   - calculus
 ---
 # Intro
-The derivative of a function re             presents its **rate of change** at any given point. Geometrically, it corresponds to the slope of the tangent line to the graph of the function at that point . 
-$$\frac{d}{dx}[x^n]$$
+The derivative of a function represents its **rate of change** at any given point. Geometrically, it corresponds to the slope of the tangent line to the graph of the function at that point . 
+
+$$\frac {d}{dx}[x^n]$$
 - $f'(x)$
 - Slope of tangent line
+
+Velocity is the derivative position & acceleration the derivative of velocity
 # Speed
 How long does it take the beer to get to the flower?
 Finding average speed is easy, rise over run. 
@@ -76,6 +79,8 @@ We can use the
 - [[First Derivative Test]]
 - [[Second Derivative Test]]
 
+
+
 # Application
 Maximizing revenue for sales of a product.
 - Price cheap means more units but less revenue per unit.
@@ -85,3 +90,6 @@ We'll use $f^1s$ to calculate the optimized price.
 Finding the minimized value is also useful
 
 [[Second Derivatives]]
+
+
+## [[Derivatives of Angles]]
