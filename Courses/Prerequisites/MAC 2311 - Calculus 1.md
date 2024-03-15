@@ -11,24 +11,35 @@ The mathematics of **change**. Find the rates of change and how that effects vol
   
 Calculus has numerous applications across various fields such as physics, engineering, economics, biology, and computer science. Examples include optimization, motion analysis, population modeling, and signal processing.
 # Contents
+
 ## [[Limits]]
   "What happens to a function as we approach a value"
   $$\lim_{x \to a} $$
 ## [[Derivatives]]
-The rate of change. A function which finds slope of an **original function**, $f(x)$, at some point(usually x).  $$\frac{d}{dx}[x^n]$$
+The rate of change. A function which finds slope of an **original function**, $f(x)$, with respect to $x$.  
+
+![[Tangent_line_to_a_curve.png|700]]
+$$\frac{d}{dx}[x^n]$$
 ### [[Derivative Rules]]: 
-Find derivatives without using [[First Principles]]. 
+Find derivatives without resorting to [[First Principles]]. 
 	- [[Constant Rule]]
 	- [[Sum Rule]]
 	- [[Product rule]]
 	- [[Power Rule]]
 	- [[Quotient Rule]]
 	- [[Chain Rule]]
-## [[Antiderivatives]]
-  An antiderivative of a function is a function whose derivative is equal to the original function. Antiderivatives are essentially the reverse process of differentiation and are crucial in solving differential equations and evaluating integrals.
-
 ## [[Integral]]
-
+Adding up tiny bits. The opposite of derivatives. Finding the original function from the derivative was calculated from.
+- Assuming:
+	- Finding a derivative of $f(x)$ is finding $f'(x)$. 
+	- Finding the integral of $f'(x)$ is finding the original $f(x)$.
+	- Finding the anti derivative is finding the original $f(x)$.
+- Definite
+  $$\int_{a}^b$$
+- Indefinite:
+  $$\int$$
+### [[Antiderivatives]]
+  An antiderivative of a function is a function whose derivative is equal to the original function. Antiderivatives are essentially the reverse process of differentiation and are crucial in solving differential equations and evaluating integrals.
 ## [[Fundamental Theorem of Calculus]]
   This theorem establishes a fundamental connection between differentiation and integration. It states that if a function is continuous on a closed interval and is integrable on that interval, then the definite integral of its derivative over that interval is equal to the difference of its values at the endpoints of the interval.
 - Limits at Infinity: 
@@ -39,11 +50,24 @@ Find derivatives without using [[First Principles]].
 	- Infinite
 		- Asymptotes force it to diverge
 
+## [[Infinite Sums]]
+Solve differential equations, resolve logical paradoxes, computer areas, and they even appear in quantum physics.
+$$
+\sum_{n=1}^{\infty}
+$$
+
 
 
 ## Problems
 
-1. [[Mia's Soccer]]
+1. Limits
+2. Derivatives
+	1. [[Mia's Soccer]]
+3. Integrals
+	1. [[Problems - Integration]]
+
+
+## [[Final Exam - Cal 1]]
 
 
 # Excalidraw

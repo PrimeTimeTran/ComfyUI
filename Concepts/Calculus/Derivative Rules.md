@@ -2,6 +2,8 @@
 tags:
   - calculus
 ---
+Find derivatives more easily.
+
 Simplify the process of finding derivatives with these rules/formulas
 Memorizing a few rules makes live easy. 
 ## Constant Rule

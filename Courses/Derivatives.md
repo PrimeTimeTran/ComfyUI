@@ -78,9 +78,6 @@ Knowing derivatives represent a max & min of the line what can they do for us?
 We can use the 
 - [[First Derivative Test]]
 - [[Second Derivative Test]]
-
-
-
 # Application
 Maximizing revenue for sales of a product.
 - Price cheap means more units but less revenue per unit.

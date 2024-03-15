@@ -1,3 +1,8 @@
+---
+tags:
+  - calculus
+  - limits
+---
 Evaluating limits of a function
 
 1. Plugin: 

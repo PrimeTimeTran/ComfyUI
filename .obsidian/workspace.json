@@ -4,17 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e4bbd8ef892380c9",
+        "id": "629390dff03fd873",
         "type": "tabs",
-        "dimension": 70.5911330049261,
         "children": [
           {
-            "id": "ba159b42a0ee35cb",
+            "id": "2d6b732aa82bc29c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concepts/Calculus/Derivatives.md",
+                "file": "Courses/Fundamental Theorem of Calculus.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -22,12 +21,12 @@
             }
           },
           {
-            "id": "5083af2589cf8ee0",
+            "id": "e4c00065b8bc7156",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Integral.md",
+                "file": "Courses/Prerequisites/PHY 2048C - General Physics 1.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -35,25 +34,12 @@
             }
           },
           {
-            "id": "8823147eb289c13e",
+            "id": "76d0a1e374694435",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Find Anti Derivatives.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7e12f82ebc925dd7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Concepts/Calculus/Integrations.md",
+                "file": "Concepts/Calculus/Derivative Rules.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -61,20 +47,19 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
-        "id": "d065aede32e6fbda",
+        "id": "d09f256cd578bca6",
         "type": "tabs",
-        "dimension": 29.40886699507389,
         "children": [
           {
-            "id": "e1868817d4c78b5e",
+            "id": "fb9422bd49964105",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Paul's Online Notes - Progress.md",
+                "file": "Concepts/Calculus/Chain Rule.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -110,7 +95,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": " ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -131,8 +116,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 484.50312423706055,
-    "collapsed": true
+    "width": 308.50312423706055
   },
   "right": {
     "id": "a25c65a9be484658",
@@ -148,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Concepts/Calculus/Integrations.md",
+                "file": "Concepts/Calculus/Derivative Rules.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Concepts/Calculus/Integrations.md",
+                "file": "Concepts/Calculus/Derivative Rules.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Concepts/Calculus/Integrations.md"
+                "file": "Concepts/Calculus/Derivative Rules.md"
               }
             }
           },
@@ -219,44 +203,45 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7e12f82ebc925dd7",
+  "active": "76d0a1e374694435",
   "lastOpenFiles": [
-    "Find Anti Derivatives.md",
-    "Integral.md",
-    "Derivatives of Angles.md",
-    "Concepts/Calculus/Integrations.md",
-    "Concepts/Calculus/Derivatives.md",
-    "Screenshot 2024-03-10 at 8.49.13 AM.png",
-    "Courses/Prerequisites/MAC 2311 - Calculus 1.md",
-    "shortcuts.json",
-    "Paul's Online Notes - Progress.md",
-    "Concepts/Mia's Soccer.md",
-    "Assets/Excalidraw/Template-Excalidraw.md",
-    "Concepts/Calculus/Quotient Rule.md",
-    "Screenshot 2024-03-10 at 1.36.37 AM.png",
-    "Assets/Excalidraw/optimization-3.png",
-    "Assets/Excalidraw/Pasted Image 20240310005205_246.png",
-    "Assets/Screenshot 2024-03-09 at 10.13.01 PM.png",
-    "Assets/Screenshot 2024-03-09 at 9.54.22 PM.png",
-    "Assets/Screenshot 2024-03-09 at 7.15.13 PM.png",
-    "Assets/Screenshot 2024-03-09 at 7.09.36 PM.png",
-    "Assets/Screenshot 2024-03-09 at 3.04.04 PM.png",
-    "Assets/Screenshot 2024-03-08 at 8.15.25 PM.png",
-    "Excalidraw-Template.pn.md",
-    "Concepts/Calculus/Sum Rule.md",
-    "Courses/Prerequisites/Fundamental Theorem of Calculus.md",
-    "Concepts/Calculus/Constant Rule.md",
+    "Concepts/Calculus/Chain Rule.md",
     "Concepts/Calculus/Derivative Rules.md",
-    "Concepts/Calculus/Product rule.md",
-    "Concepts/Calculus/Second Derivative Test.md",
-    "Concepts/Calculus/Taylor Series.md",
-    "Concepts/Calculus/Second Derivatives.md",
-    "Concepts/Calculus/Saddle Point.md",
-    "Concepts/Calculus/Power Rule.md",
-    "Concepts/Calculus/Logarithmic.md",
+    "Courses/Fundamental Theorem of Calculus.md",
+    "Courses/Derivatives.md",
+    "Courses/Integral.md",
+    "Courses/Obsidian Latex - Cheatsheet.md",
+    "Courses/Paul's Online Notes - Progress.md",
+    "Courses/Problems - Integration.md",
+    "Courses/Problems - Trig.md",
+    "Differential equations.md",
+    "Final Exam - Cal 1.md",
+    "Graphically.md",
+    "Infinite Sums.md",
+    "Kinematics.md",
+    "Life Goals.md",
+    "Newton's laws of motion.md",
+    "Properties Of Sequences.md",
+    "Sequences.md",
+    "Courses/Prerequisites/MAC 2311 - Calculus 1.md",
+    "Courses/Prerequisites/PHY 2048C - General Physics 1.md",
+    "Courses/Trigonometry.md",
+    "Courses/Computer Science.md",
+    "Courses/Prerequisites/MAC 2312 - Calculus 2.md",
+    "Concepts/Calculus/Quotient Rule.md",
+    "MAC 2312 -  Calculus 2.md",
+    "Assets/Screenshot 2024-03-11 at 6.29.17 PM.png",
+    "Assets/Screenshot 2024-03-11 at 8.55.04 PM.png",
     "Concepts/Calculus/Limits.md",
-    "Concepts/Calculus/Indefinite integral.md",
-    "Concepts/Calculus/First Principles.md",
+    "Assets/ftc-1-and-ftc-2-1623911034.png",
+    "Assets/Tangent_line_to_a_curve.png",
+    "Assets/Screenshot 2024-03-10 at 1.36.37 AM.png",
+    "Assets/Pasted image 20240310193614.png",
+    "Assets/Pasted image 20240310194304.png",
+    "Assets/Pasted image 20240310194102.png",
+    "Assets/Pasted image 20240310193943.png",
+    "Assets/Pasted image 20240310193821.png",
+    "shortcuts.json",
     "Concepts/Problems",
     "Concepts/OOP",
     "Concepts/Infosec",

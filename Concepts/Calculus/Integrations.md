@@ -2,8 +2,10 @@
 tags:
   - calculus
 ---
-Sum bits of a quantity.  $$\int_{a}^{b} x^2 \,dx$$
-![[demo-adding-up-sums.gif]]
+The process of finding the integral of a function.
+
+$$\int_{a}^{b} x^2 \,dx$$
+![[demo-adding-up-sums.gif | 500]]
 
 - Opposite of derivative.
 - "The derivative of the $f(x)$ is equal to f prime of x"

@@ -28,4 +28,33 @@ To solve for something bigger than 360
 	- Convert from degree to radians by multiplying by 
 		  $\frac {\pi}{180^{\degree}}$
 	- Result is $\frac {5\pi}{12}$
-	- 
+
+
+# 6 Trigometric functions
+## SOH CAH TOA
+Remember the angles using this
+- SOH
+  $\sin\theta = \frac {opposite}{hypotenus}$
+- CAH
+  $\cos\theta = \frac {adjacent}{hypotenus}$
+- TOA
+  $\tan\theta = \frac {opposite}{adjacent}$
+### CSC, SEC, COT
+Counterparts to SOH CAH TOA
+- CSC ---> sin()
+  $\csc\theta = \frac {hypotenus}{opposite}$
+- SEC ---> cos()
+  $\sec\theta = \frac {hypotenus}{adjacent}$
+- COT ---> tan()
+  $\cot\theta = \frac {adjacent}{opposite}$
+
+### [[Problems - Trig]]
+## CheatSheets
+
+![[Screenshot 2024-03-10 at 8.49.13 AM.png]]
+- Derivatives
+
+![[Screenshot 2024-03-10 at 6.49.32 PM.png]]
+
+- Degrees 
+- Radians

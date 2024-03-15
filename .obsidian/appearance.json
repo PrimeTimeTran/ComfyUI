@@ -7,5 +7,6 @@
   "cssTheme": "Everforest",
   "translucency": true,
   "showViewHeader": false,
-  "nativeMenus": true
+  "nativeMenus": true,
+  "theme": "moonstone"
 }

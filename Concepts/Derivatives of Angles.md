@@ -1,3 +1,9 @@
+---
+tags:
+  - trigonometry
+  - calculus
+---
+
 The derivative of angles
 sin(x) -> cos(x)
 cos(x) -> -sin(x)

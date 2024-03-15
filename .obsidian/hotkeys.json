@@ -16,5 +16,14 @@
       ],
       "key": "ArrowRight"
     }
+  ],
+  "editor:fold-less": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "["
+    }
   ]
 }
