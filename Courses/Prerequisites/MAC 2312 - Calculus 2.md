@@ -73,5 +73,15 @@ $$
 ## [[Taylor Series]]
 The Taylor series is a mathematical method used in calculus to represent a function as an infinite sum of terms, where each term is derived from the function's derivatives at a particular point.
 $$
-f(x) = \sum_{n=0}^{\infty} \frac{f^{(n)}(c)}{n!} \cdot (x - c)^n
+f(x) = \sum_{n=0}^{\infty} \frac{f^{(n)}(a)}{n!} \cdot (x - a)^n
 $$
+
+
+
+
+[[Eulers Formula]]
+- Vectors
+- Exponential
+- Trig Functions
+
+$$e^{i\theta} = \cos(\theta) + i\sin(\theta)$$

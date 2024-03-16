@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "629390dff03fd873",
+        "id": "749b710097d7a57e",
         "type": "tabs",
         "children": [
           {
-            "id": "2d6b732aa82bc29c",
+            "id": "0e9a805ec528c8cd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/Fundamental Theorem of Calculus.md",
+                "file": "Courses/Prerequisites/MAC 2311 - Calculus 1.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "e4c00065b8bc7156",
+            "id": "4579b6cb580622a1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/Prerequisites/PHY 2048C - General Physics 1.md",
+                "file": "Concepts/Calculus/Continuity.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,12 +34,25 @@
             }
           },
           {
-            "id": "76d0a1e374694435",
+            "id": "a1ad79b3f3e7e3ab",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concepts/Calculus/Derivative Rules.md",
+                "file": "Concepts/Calculus/Limits.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4317ba60057ef639",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Concepts/Calculus/Power Rule.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -47,19 +60,19 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
-        "id": "d09f256cd578bca6",
+        "id": "f1eb588aad23d8e6",
         "type": "tabs",
         "children": [
           {
-            "id": "fb9422bd49964105",
+            "id": "2692239f1625dae5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concepts/Calculus/Chain Rule.md",
+                "file": "Courses/Trigonometry.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -116,7 +129,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 308.50312423706055
+    "width": 308.50312423706055,
+    "collapsed": true
   },
   "right": {
     "id": "a25c65a9be484658",
@@ -132,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Concepts/Calculus/Derivative Rules.md",
+                "file": "Concepts/Calculus/Continuity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Concepts/Calculus/Derivative Rules.md",
+                "file": "Concepts/Calculus/Continuity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Concepts/Calculus/Derivative Rules.md"
+                "file": "Concepts/Calculus/Continuity.md"
               }
             }
           },
@@ -203,11 +217,22 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "76d0a1e374694435",
+  "active": "4579b6cb580622a1",
   "lastOpenFiles": [
+    "Courses/Prerequisites/MAC 2311 - Calculus 1.md",
+    "Concepts/Calculus/Power Rule.md",
+    "Concepts/Calculus/Limits.md",
     "Concepts/Calculus/Chain Rule.md",
     "Concepts/Calculus/Derivative Rules.md",
+    "Courses/Trigonometry.md",
+    "Concepts/Calculus/Quotient Rule.md",
+    "Courses/Prerequisites/MAC 2312 - Calculus 2.md",
+    "Assets/Excalidraw/trig-1.png",
+    "Concepts/Calculus/Taylor Series.md",
+    "CheatSheet-Common_Derivatives_Integrals.pdf",
+    "Final Exam - Cal 1.md",
     "Courses/Fundamental Theorem of Calculus.md",
+    "Courses/Prerequisites/PHY 2048C - General Physics 1.md",
     "Courses/Derivatives.md",
     "Courses/Integral.md",
     "Courses/Obsidian Latex - Cheatsheet.md",
@@ -215,7 +240,6 @@
     "Courses/Problems - Integration.md",
     "Courses/Problems - Trig.md",
     "Differential equations.md",
-    "Final Exam - Cal 1.md",
     "Graphically.md",
     "Infinite Sums.md",
     "Kinematics.md",
@@ -223,16 +247,8 @@
     "Newton's laws of motion.md",
     "Properties Of Sequences.md",
     "Sequences.md",
-    "Courses/Prerequisites/MAC 2311 - Calculus 1.md",
-    "Courses/Prerequisites/PHY 2048C - General Physics 1.md",
-    "Courses/Trigonometry.md",
-    "Courses/Computer Science.md",
-    "Courses/Prerequisites/MAC 2312 - Calculus 2.md",
-    "Concepts/Calculus/Quotient Rule.md",
-    "MAC 2312 -  Calculus 2.md",
     "Assets/Screenshot 2024-03-11 at 6.29.17 PM.png",
     "Assets/Screenshot 2024-03-11 at 8.55.04 PM.png",
-    "Concepts/Calculus/Limits.md",
     "Assets/ftc-1-and-ftc-2-1623911034.png",
     "Assets/Tangent_line_to_a_curve.png",
     "Assets/Screenshot 2024-03-10 at 1.36.37 AM.png",
@@ -240,7 +256,6 @@
     "Assets/Pasted image 20240310194304.png",
     "Assets/Pasted image 20240310194102.png",
     "Assets/Pasted image 20240310193943.png",
-    "Assets/Pasted image 20240310193821.png",
     "shortcuts.json",
     "Concepts/Problems",
     "Concepts/OOP",
@@ -250,7 +265,6 @@
     "Concepts/DSA",
     "Concepts/Calculus",
     "y=mx+b when c=g.pdf",
-    "Excalidraw/Scripts/Downloaded",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Overview.canvas"

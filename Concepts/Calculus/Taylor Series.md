@@ -5,5 +5,5 @@ tags:
 
 
 $$
-f(x) = \sum_{n=0}^{\infty} \frac{f^{(n)}(c)}{n!} \cdot (x - c)^n
+\overbrace{ f(x) = \sum_{n=0}^{\infty} \frac{f^{(n)}(a)}{n!} \times (x - a)^n }^{  }
 $$

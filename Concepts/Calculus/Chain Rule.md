@@ -31,3 +31,15 @@ $$
 5[x^2-3x]^4(2x-3)
 $$
 
+Ex 1.
+Find the derivative
+$R(z) = \sqrt {5z-8}$
+
+
+
+Find the derivatives:
+
+1. 
+2. $T(x) = tan^{-1}(2x) \sqrt[3]{1-3x^2}$
+3. $f(z) = \sin(ze^z)$ 
+4. 

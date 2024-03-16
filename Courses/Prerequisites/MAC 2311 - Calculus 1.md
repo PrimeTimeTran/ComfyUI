@@ -22,12 +22,23 @@ The rate of change. A function which finds slope of an **original function**, $f
 $$\frac{d}{dx}[x^n]$$
 ### [[Derivative Rules]]: 
 Find derivatives without resorting to [[First Principles]]. 
-	- [[Constant Rule]]
-	- [[Sum Rule]]
-	- [[Product rule]]
-	- [[Power Rule]]
-	- [[Quotient Rule]]
-	- [[Chain Rule]]
+- [[Constant Rule]]
+  $\frac{d}{dx}(c) = 0$
+  
+- [[Sum Rule]]
+  $\frac{d}{dx}(f(x) + g(x)) = \frac{d}{dx}(f(x)) + \frac{d}{dx}(g(x))$
+  
+- [[Product rule]]
+  $\frac{d}{dx}(f(x) \cdot g(x)) = f'(x)g(x) + f(x)g'(x)$
+  
+- [[Power Rule]]
+  $\frac{d}{dx}(x^n) = nx^{n-1}$
+  
+- [[Quotient Rule]]
+  $\frac{d}{dx}\left(\frac{u(x)}{v(x)}\right) = \frac{u'(x)v(x) - u(x)v'(x)}{(v(x))^2}$
+	  
+- [[Chain Rule]]
+  $\frac{d}{dx}(f(g(x))) = \frac{d}{dg}(f(g)) \cdot \frac{dg}{dx}$
 ## [[Integral]]
 Adding up tiny bits. The opposite of derivatives. Finding the original function from the derivative was calculated from.
 - Assuming:
@@ -57,6 +68,8 @@ $$
 $$
 
 
+
+## [[Continuity]]
 
 ## Problems
 

@@ -23,6 +23,8 @@ $$\frac{d}{dx}[x^n]= nx^{n-1}$$
 ## [[Chain Rule]]
 Find derivative of outside & inside then multiple together
 
+$$\frac{d}{dx}(f(g(x))) = f'(g(x)) \cdot g'(x)$$
+
 ## [[Quotient Rule]]
 
 # Recap
