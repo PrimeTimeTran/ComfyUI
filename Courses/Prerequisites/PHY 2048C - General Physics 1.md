@@ -25,7 +25,7 @@
     - Polarization
 5. **Modern Physics**: This includes topics beyond classical physics. Key topics include:
     - Special relativity (time dilation, length contraction)
-    - Quantum mechanics (particle-wave duality, uncertainty principle)
+    - [[Quantum mechanics]] (particle-wave duality, uncertainty principle)
     - Atomic physics (structure of atoms, atomic spectra)
     - Nuclear physics (radioactivity, nuclear reactions)
 6. **Mathematical Methods**: A solid understanding of mathematical tools used in physics is crucial. This includes:

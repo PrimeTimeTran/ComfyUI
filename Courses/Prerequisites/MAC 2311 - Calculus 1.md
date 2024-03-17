@@ -12,6 +12,9 @@ The mathematics of **change**. Find the rates of change and how that effects vol
 Calculus has numerous applications across various fields such as physics, engineering, economics, biology, and computer science. Examples include optimization, motion analysis, population modeling, and signal processing.
 # Contents
 
+
+## [[Calculus FundamentalOs]]
+
 ## [[Limits]]
   "What happens to a function as we approach a value"
   $$\lim_{x \to a} $$
@@ -38,7 +41,7 @@ Find derivatives without resorting to [[First Principles]].
   $\frac{d}{dx}\left(\frac{u(x)}{v(x)}\right) = \frac{u'(x)v(x) - u(x)v'(x)}{(v(x))^2}$
 	  
 - [[Chain Rule]]
-  $\frac{d}{dx}(f(g(x))) = \frac{d}{dg}(f(g)) \cdot \frac{dg}{dx}$
+  $\frac{d}{dx}(f(g(x))) = f'(g(x)) \cdot g'(x)$
 ## [[Integral]]
 Adding up tiny bits. The opposite of derivatives. Finding the original function from the derivative was calculated from.
 - Assuming:
@@ -72,7 +75,6 @@ $$
 ## [[Continuity]]
 
 ## Problems
-
 1. Limits
 2. Derivatives
 	1. [[Mia's Soccer]]
