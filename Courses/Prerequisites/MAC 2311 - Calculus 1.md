@@ -13,7 +13,7 @@ Calculus has numerous applications across various fields such as physics, engine
 # Contents
 
 
-## [[Calculus FundamentalOs]]
+## [[Calculus Fundamentals]]
 
 ## [[Limits]]
   "What happens to a function as we approach a value"

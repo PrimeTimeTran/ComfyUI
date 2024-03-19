@@ -26,3 +26,7 @@ Does not exist(D.N.E.)
 
 ## Graphically
 - If left & right side approaches are not the same then the limit does not exist
+
+
+## Problems
+![[Screenshot 2024-03-19 at 1.39.48 AM.png ]]

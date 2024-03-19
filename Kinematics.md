@@ -11,7 +11,8 @@ Motion in a straight line
 ### Kinematic Equations
 
 #### Definition of acceleration
-![[definition of acceleration.png]]
+![[definition of acceleration.png  | 750]]
 
 #### Displacement curve
-![[displacement curve.png]]
+![[displacement curve.png | 750]]
+

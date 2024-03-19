@@ -1,4 +1,5 @@
 How to determine if a function is continuous?
+A function $f$ is continuous at a point $a$ if $\lim_{ x \to a } f(x)$ exists and equals $f(x)$
 
 1. Show that function is defined
 	$f(a)$ is defined

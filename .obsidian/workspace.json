@@ -4,36 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "c5227f5332b6ce12",
+        "id": "3c12b0ffa6f2e11a",
         "type": "tabs",
         "children": [
           {
-            "id": "00eba2078986cc33",
+            "id": "d97f807e257f1315",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/Prerequisites/PHY 2048C - General Physics 1.md",
-                "mode": "source",
+                "file": "Courses/Prerequisites/MAC 2311 - Calculus 1.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
             }
           },
           {
-            "id": "9c989536cf896e69",
+            "id": "c4533195e076bfeb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Quantum mechanics.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "Assets/Excalidraw/drawing-Tuesday, March 19th 2024, 3_38_20 am.excalidraw.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -62,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": " ",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -100,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Courses/Prerequisites/PHY 2048C - General Physics 1.md",
+                "file": "Assets/Excalidraw/drawing-Tuesday, March 19th 2024, 3_38_20 am.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Courses/Prerequisites/PHY 2048C - General Physics 1.md",
+                "file": "Assets/Excalidraw/drawing-Tuesday, March 19th 2024, 3_38_20 am.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Courses/Prerequisites/PHY 2048C - General Physics 1.md"
+                "file": "Assets/Excalidraw/drawing-Tuesday, March 19th 2024, 3_38_20 am.excalidraw.md"
               }
             }
           },
@@ -171,45 +169,46 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "00eba2078986cc33",
+  "active": "c4533195e076bfeb",
   "lastOpenFiles": [
-    "Quantum mechanics.md",
-    "Courses/Prerequisites/PHY 2048C - General Physics 1.md",
-    "Courses/Trigonometry.md",
-    "Concepts/Calculus/Power Rule.md",
-    "Concepts/Calculus/Limits.md",
-    "Concepts/Calculus/Continuity.md",
-    "Calculus Fundamentals.md",
-    "Concepts/Calculus/Derivative Rules.md",
-    "Concepts/Calculus/Quotient Rule.md",
     "Courses/Prerequisites/MAC 2311 - Calculus 1.md",
-    "Concepts/Calculus/Chain Rule.md",
-    "Courses/Prerequisites/MAC 2312 - Calculus 2.md",
-    "Assets/Excalidraw/trig-1.png",
-    "Concepts/Calculus/Taylor Series.md",
-    "CheatSheet-Common_Derivatives_Integrals.pdf",
+    "Assets/Excalidraw/drawing-Tuesday, March 19th 2024, 3_38_20 am.excalidraw.md",
+    "Untitled.canvas",
+    "Courses/Computer Science.md",
+    "Courses/Prerequisites/PHY 2048C - General Physics 1.md",
+    "Newton's laws of motion.md",
+    "Thermodynamics.md",
+    "Laws of thermodynamics.md",
+    "Gauss's law.md",
+    "Maxwell Equations.md",
+    "Screenshot 2024-03-19 at 2.50.30 AM.png",
+    "Concepts/Calculus/Limits.md",
+    "Screenshot 2024-03-19 at 1.39.48 AM.png",
+    "Calculus Fundamentals.md",
+    "Screenshot 2024-03-18 at 8.27.45 PM.png",
+    "Screenshot 2024-03-18 at 4.16.16 AM.png",
+    "Screenshot 2024-03-18 at 3.52.25 AM.png",
+    "Screenshot 2024-03-18 at 1.10.37 AM.png",
+    "Quantum mechanics.md",
+    "Concepts/Calculus/Continuity.md",
     "Final Exam - Cal 1.md",
-    "Courses/Fundamental Theorem of Calculus.md",
-    "Courses/Derivatives.md",
-    "Courses/Integral.md",
-    "Courses/Obsidian Latex - Cheatsheet.md",
-    "Courses/Paul's Online Notes - Progress.md",
-    "Courses/Problems - Integration.md",
-    "Courses/Problems - Trig.md",
+    "Sequences.md",
+    "Properties Of Sequences.md",
+    "Life Goals.md",
+    "Kinematics.md",
+    "Infinite Sums.md",
     "Differential equations.md",
     "Graphically.md",
-    "Infinite Sums.md",
-    "Kinematics.md",
-    "Life Goals.md",
+    "Cheat Sheet - Derivatives & Integrals.pdf",
+    "Calculus Fundamental.md",
+    "Courses/Trigonometry.md",
+    "Concepts/Calculus/Power Rule.md",
+    "Concepts/Calculus/Derivative Rules.md",
+    "Concepts/Calculus/Quotient Rule.md",
+    "Assets/Excalidraw/trig-1.png",
     "Assets/Screenshot 2024-03-11 at 6.29.17 PM.png",
     "Assets/Screenshot 2024-03-11 at 8.55.04 PM.png",
     "Assets/ftc-1-and-ftc-2-1623911034.png",
-    "Assets/Tangent_line_to_a_curve.png",
-    "Assets/Screenshot 2024-03-10 at 1.36.37 AM.png",
-    "Assets/Pasted image 20240310193614.png",
-    "Assets/Pasted image 20240310194304.png",
-    "Assets/Pasted image 20240310194102.png",
-    "Assets/Pasted image 20240310193943.png",
     "shortcuts.json",
     "Concepts/Problems",
     "Concepts/OOP",
@@ -219,7 +218,6 @@
     "Concepts/DSA",
     "Concepts/Calculus",
     "y=mx+b when c=g.pdf",
-    "Untitled.canvas",
     "Untitled 1.canvas",
     "Overview.canvas"
   ]
