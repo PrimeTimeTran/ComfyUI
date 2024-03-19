@@ -1,3 +1,7 @@
+---
+tags:
+  - physics
+---
 
 
 **Schrödinger Equation**: This is the fundamental equation of quantum mechanics, describing how the quantum state of a physical system changes over time

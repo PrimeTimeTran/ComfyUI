@@ -1,4 +1,10 @@
+---
+tags:
+  - calculus
+---
+
 # Sequences
+
 - **Set of terms**
 - Where $n$ is a positive integer
 - $1$ is the assumed initial value for $n$ if it isn't given.
