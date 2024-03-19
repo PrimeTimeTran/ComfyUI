@@ -2,8 +2,6 @@
 tags:
   - physics
 ---
-
-
 **1st Law of Thermodynamics** - Energy cannot be created or destroyed.
 **2nd Law of Thermodynamics** - For a spontaneous process, the entropy of the universe increases.
 

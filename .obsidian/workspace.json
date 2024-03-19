@@ -6,12 +6,46 @@
       {
         "id": "d31c534a7f710f6c",
         "type": "tabs",
+        "dimension": 42.70833333333333,
         "children": [
           {
             "id": "cebcd5d18ae54807",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "markdown",
+              "state": {
+                "file": "Courses/Calculus/5.2 Computing Indefinite Integrals.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d7ae3ad8289457ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Courses/Calculus/1.1 Limits - Computing Limits - Practice.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "730f10a8e3701bb6",
+        "type": "tabs",
+        "dimension": 57.291666666666664,
+        "children": [
+          {
+            "id": "92d2e7c19289300b",
+            "type": "leaf",
+            "state": {
+              "type": "reveal-preview-view",
               "state": {}
             }
           }
@@ -65,7 +99,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 500.5
+    "width": 500.5,
+    "collapsed": true
   },
   "right": {
     "id": "a25c65a9be484658",
@@ -81,6 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Courses/Calculus/5.2 Computing Indefinite Integrals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Courses/Calculus/5.2 Computing Indefinite Integrals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +155,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Courses/Calculus/5.2 Computing Indefinite Integrals.md"
+              }
             }
           },
           {
@@ -151,42 +190,42 @@
   },
   "active": "cebcd5d18ae54807",
   "lastOpenFiles": [
-    "Security Devices.md",
-    "DHCP.md",
+    "Courses/Calculus/5.1 Indefinite Integrals.md",
+    "Courses/Calculus/5.2 Computing Indefinite Integrals.md",
+    "Courses/Calculus/1.1 Limits - Computing Limits - Practice.md",
+    "Courses/Calculus/3.1 Derivatives - The Definition.md",
+    "Concepts/Calculus/Integrations.md",
+    "Courses/Computer Science.md",
+    "Courses/Integral.md",
+    "Courses/Calculus/3.3 Derivatives - Differentiation Formulas.md",
+    "Courses/Prerequisites/PHY 2048C - General Physics 1.md",
+    "Maxwell Equations.md",
+    "Screenshot 2024-03-19 at 12.27.00 PM.png",
+    "Screenshot 2024-03-19 at 12.24.36 PM.png",
+    "Screenshot 2024-03-19 at 12.21.25 PM.png",
+    "Screenshot 2024-03-19 at 12.23.02 PM.png",
+    "Screenshot 2024-03-19 at 12.26.11 PM.png",
+    "Laws of Thermodynamics.md",
+    "Courses/Calculus/Final Exam - Cal 1.md",
+    "Gauss's law.md",
+    "Journals.md",
+    "Infinite Sums.md",
+    "Concepts/Network Accessing Services.md",
+    "Concepts/Security Devices.md",
+    "Concepts/DHCP.md",
     "Journals/2024-03-05.md",
     "Journals/2024-03-04.md",
     "Journals/2024-03-03.md",
     "Journals/2024-03-02.md",
     "Journals/2024-03-08.md",
     "Journals/2024-03-19.md",
-    "Journals.md",
-    "Networking Engineering.md",
-    "Network Devices.md",
-    "Optimization & Performance Devices.md",
-    "OSI Model.md",
-    "VPN.md",
-    "Network Accessing Services.md",
-    "DNS.md",
-    "Networking 101.md",
-    "Mac Apps copy.md",
-    "Courses/Calculus/3.3 Derivatives - Differentiation Formulas.md",
-    "Courses/Calculus/3.1 Derivatives - The Definition.md",
-    "Courses/Calculus/3.1 Derivatives - The Definition copy.md",
-    "Courses/Calculus/1.5 Limits - Limits At Infinity, Part 2.md",
-    "Courses/Calculus/1.5 Limits - Limits At Infinity, Part 2 copy.md",
-    "Courses/Calculus/1.5 Limits - Limits At Infinity, Part 1.md",
-    "Courses/Calculus/1.5 Limits - Limits At Infinity, Part 1 copy.md",
-    "Courses/Calculus/1.1 Limits.md",
+    "Concepts/Networking Engineering.md",
+    "Concepts/Network Devices.md",
     "Assets/Screenshot 2024-03-09 at 9.54.22 PM.png",
     "Assets/Screenshot 2024-03-09 at 7.15.13 PM.png",
     "Assets/Screenshot 2024-03-09 at 10.13.01 PM.png",
     "Assets/Screenshot 2024-03-10 at 1.36.37 AM.png",
     "Assets/Screenshot 2024-03-10 at 6.49.32 PM.png",
-    "Assets/Screenshot 2024-03-10 at 8.49.13 AM.png",
-    "Assets/Screenshot 2024-03-11 at 8.55.04 PM.png",
-    "Assets/Screenshot 2024-03-18 at 1.10.37 AM.png",
-    "Assets/Screenshot 2024-03-18 at 3.52.25 AM.png",
-    "Assets/Screenshot 2024-03-18 at 4.16.16 AM.png",
     "Cheat Sheet - Derivatives & Integrals.pdf",
     "Untitled.canvas",
     "Courses/Calculus",

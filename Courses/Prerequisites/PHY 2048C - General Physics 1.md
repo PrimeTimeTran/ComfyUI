@@ -2,6 +2,15 @@
 tags:
   - physics
 ---
+# FSU
+[Description](https://liberalstudies.fsu.edu/sites/g/files/upcbnu2561/files/PHY2048C.syllabus.traditional.pdf)
+• solve one-and two-dimensional kinematics problems 
+• use Newton’s Laws to describe simple physical situations 
+• apply the principles of conservation of energy and momentum 
+• solve problems involving circular motion, springs, and gravity 
+• pose questions or hypotheses based on scientific principles 
+• use appropriate scientific methods and evidence to evaluate claims or theoretical arguments about the natural world 
+• analyze and interpret research results using appropriate methods
 
 # Overview
 Key concepts of physics
@@ -14,7 +23,7 @@ Key concepts of physics
     - Work and energy
     - Circular motion and gravitation
 2. **[[Thermodynamics]]**: The study of heat and energy transfer.
-    - [[Laws of thermodynamics]]
+    - [[Laws of Thermodynamics]]
     - Heat transfer mechanisms (conduction, convection, radiation)
     - Thermodynamic processes (e.g., isothermal, adiabatic)
     - Heat engines and efficiency
