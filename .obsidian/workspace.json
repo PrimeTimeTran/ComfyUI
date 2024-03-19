@@ -4,16 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "f256d372fcbd9ede",
+        "id": "84c9bee8f0022ecc",
         "type": "tabs",
+        "dimension": 53.645833333333336,
         "children": [
           {
-            "id": "c925fe7bc0a4227a",
+            "id": "75b765e59f9a24e8",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "reveal-preview-view",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "2f1152b614619b00",
+        "type": "tabs",
+        "dimension": 46.35416666666667,
+        "children": [
+          {
+            "id": "f9f7c99ba5ec48aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
               "state": {
-                "file": "Assets/Screenshot 2024-03-09 at 9.54.22 PM.png"
+                "file": "Courses/Calculus/1.5 Limits - Limits At Infinity, Part 1.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -67,7 +86,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 308.50312423706055
+    "width": 500.5,
+    "collapsed": true
   },
   "right": {
     "id": "a25c65a9be484658",
@@ -83,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Assets/Screenshot 2024-03-09 at 9.54.22 PM.png",
+                "file": "Courses/Calculus/1.5 Limits - Limits At Infinity, Part 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Assets/Screenshot 2024-03-09 at 9.54.22 PM.png",
+                "file": "Courses/Calculus/1.5 Limits - Limits At Infinity, Part 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Assets/Screenshot 2024-03-09 at 9.54.22 PM.png"
+                "file": "Courses/Calculus/1.5 Limits - Limits At Infinity, Part 1.md"
               }
             }
           },
@@ -155,8 +175,25 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "c925fe7bc0a4227a",
+  "active": "f9f7c99ba5ec48aa",
   "lastOpenFiles": [
+    "Courses/Calculus/1.5 Limits - Limits At Infinity, Part 1.md",
+    "Courses/Calculus/1.1 Limits.md",
+    "Courses/Calculus/1.4 Limits - Infinite Limits - Practice copy.md",
+    "Courses/Calculus/1.1 Limits - Infinite Limits - Practice.md",
+    "Courses/Calculus/1.4 Limits - Infinite Limits - Practice.md",
+    "Courses/Calculus/1.1 Limits - Computing Limits - Practice copy.md",
+    "Courses/Calculus/1.1 Limits - Computing Limits - Assignment Problems.md",
+    "Courses/Calculus/1.1 Limits - Computing Limits - Assignment.md",
+    "Courses/Calculus/1.1 Limits - Computing Limits - Practice Problems.md",
+    "Courses/Calculus/1.1 Limits - Computing Limits - Practice.md",
+    "Courses/Calculus/1.1 Limits - Computing Limits - Assignment Problems copy.md",
+    "Courses/Calculus/1.1 Limits - Problems 1.md",
+    "test.md",
+    "Concepts/Calculus/Limits.md",
+    "Courses/Calculus/Calculus Fundamentals.md",
+    "Assets/Excalidraw/Test.md Tuesday, March 19th 2024, 6_19_18 am.excalidraw.md",
+    "Assets/Screenshot 2024-03-09 at 9.54.22 PM.png",
     "Assets/Screenshot 2024-03-09 at 7.15.13 PM.png",
     "Assets/Screenshot 2024-03-09 at 10.13.01 PM.png",
     "Assets/Screenshot 2024-03-10 at 1.36.37 AM.png",
@@ -166,11 +203,8 @@
     "Assets/Screenshot 2024-03-18 at 1.10.37 AM.png",
     "Assets/Screenshot 2024-03-18 at 3.52.25 AM.png",
     "Assets/Screenshot 2024-03-18 at 4.16.16 AM.png",
-    "Assets/Screenshot 2024-03-18 at 8.27.45 PM.png",
-    "Assets/Screenshot 2024-03-19 at 1.39.48 AM.png",
     "Excalidraw Config.md",
     "Journals/2024-03-19.md",
-    "Assets/Excalidraw/Test.md Tuesday, March 19th 2024, 6_19_18 am.excalidraw.md",
     "Assets/Excalidraw/Test.md Tuesday, March 19th 2024, 6_13_23 am.excalidraw.md",
     "Assets/Excalidraw/Template-Excalidraw.md",
     "Assets/Excalidraw/Test.md Tuesday, March 19th 2024, 6_16_30 am.excalidraw.md",
@@ -179,23 +213,9 @@
     "Assets/Excalidraw/drawing-Tuesday, March 19th 2024, 3_40_08 am.excalidraw.md",
     "Assets/Excalidraw/drawing-Tuesday, March 19th 2024, 3_38_20 am.excalidraw.md",
     "Assets/Excalidraw/Test.md Tuesday, March 19th 2024, 6_10_21 am.excalidraw.md",
-    "Assets/Excalidraw/Test.md Tuesday, March 19th 2024, 6_09_57 am.excalidraw.md",
-    "drawing-Tuesday,.md",
-    "drawing-Tuesday, March 19th 2024, 6_05_10 am.excalidraw.md",
     "Cheat Sheet - Derivatives & Integrals.pdf",
-    "Courses/Calculus/1.1 Limits.md",
-    "Quantum mechanics.md",
-    "Mac Apps.md",
-    "Sequences.md",
     "Untitled.canvas",
-    "Courses/Prerequisites/MAC 2311 - Calculus 1.md",
-    "Gauss's law.md",
-    "Courses/Calculus/Calculus Fundamentals.md",
     "Courses/Calculus",
-    "Concepts/Calculus/Limits.md",
-    "Courses/Prerequisites/Excalidraw.md",
-    "Courses/Computer Science.md",
-    "Courses/Prerequisites/PHY 2048C - General Physics 1.md",
     "shortcuts.json",
     "Concepts/Problems",
     "Concepts/OOP",

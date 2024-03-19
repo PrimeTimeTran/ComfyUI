@@ -3,7 +3,7 @@
   "enabledCssSnippets": [
     "big-math"
   ],
-  "baseFontSize": 23,
+  "baseFontSize": 18,
   "cssTheme": "Everforest",
   "translucency": true,
   "showViewHeader": false,
