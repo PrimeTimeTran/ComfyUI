@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "e6c22aad29c1b199",
+        "id": "2c5f5502729ea722",
         "type": "tabs",
         "children": [
           {
-            "id": "7bada922ad2394ee",
+            "id": "db14511d7a3b08e7",
             "type": "leaf",
             "state": {
-              "type": "reveal-preview-view",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Networking Engineering.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -82,6 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Networking Engineering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Networking Engineering.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +126,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Networking Engineering.md"
+              }
             }
           },
           {
@@ -150,8 +159,11 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "7bada922ad2394ee",
+  "active": "db14511d7a3b08e7",
   "lastOpenFiles": [
+    "Networking Engineering.md",
+    "Networking 101.md",
+    "Mac Apps copy.md",
     "Courses/Calculus/3.3 Derivatives - Differentiation Formulas.md",
     "Courses/Calculus/3.1 Derivatives - The Definition.md",
     "Courses/Calculus/3.1 Derivatives - The Definition copy.md",
@@ -185,9 +197,6 @@
     "Assets/Screenshot 2024-03-18 at 3.52.25 AM.png",
     "Assets/Screenshot 2024-03-18 at 4.16.16 AM.png",
     "Excalidraw Config.md",
-    "Journals/2024-03-19.md",
-    "Assets/Excalidraw/Test.md Tuesday, March 19th 2024, 6_13_23 am.excalidraw.md",
-    "Assets/Excalidraw/Template-Excalidraw.md",
     "Cheat Sheet - Derivatives & Integrals.pdf",
     "Untitled.canvas",
     "Courses/Calculus",
