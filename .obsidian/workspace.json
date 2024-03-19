@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "2c5f5502729ea722",
+        "id": "d31c534a7f710f6c",
         "type": "tabs",
         "children": [
           {
-            "id": "db14511d7a3b08e7",
+            "id": "cebcd5d18ae54807",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Networking Engineering.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -49,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#networking",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 500.5,
-    "collapsed": true
+    "width": 500.5
   },
   "right": {
     "id": "a25c65a9be484658",
@@ -87,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Networking Engineering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Networking Engineering.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Networking Engineering.md"
-              }
+              "state": {}
             }
           },
           {
@@ -159,9 +149,24 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "db14511d7a3b08e7",
+  "active": "cebcd5d18ae54807",
   "lastOpenFiles": [
+    "Security Devices.md",
+    "DHCP.md",
+    "Journals/2024-03-05.md",
+    "Journals/2024-03-04.md",
+    "Journals/2024-03-03.md",
+    "Journals/2024-03-02.md",
+    "Journals/2024-03-08.md",
+    "Journals/2024-03-19.md",
+    "Journals.md",
     "Networking Engineering.md",
+    "Network Devices.md",
+    "Optimization & Performance Devices.md",
+    "OSI Model.md",
+    "VPN.md",
+    "Network Accessing Services.md",
+    "DNS.md",
     "Networking 101.md",
     "Mac Apps copy.md",
     "Courses/Calculus/3.3 Derivatives - Differentiation Formulas.md",
@@ -172,20 +177,6 @@
     "Courses/Calculus/1.5 Limits - Limits At Infinity, Part 1.md",
     "Courses/Calculus/1.5 Limits - Limits At Infinity, Part 1 copy.md",
     "Courses/Calculus/1.1 Limits.md",
-    "Courses/Calculus/1.4 Limits - Infinite Limits - Practice copy.md",
-    "Courses/Calculus/1.1 Limits - Infinite Limits - Practice.md",
-    "Courses/Calculus/1.4 Limits - Infinite Limits - Practice.md",
-    "Courses/Calculus/1.1 Limits - Computing Limits - Practice copy.md",
-    "Courses/Calculus/1.1 Limits - Computing Limits - Assignment Problems.md",
-    "Courses/Calculus/1.1 Limits - Computing Limits - Assignment.md",
-    "Courses/Calculus/1.1 Limits - Computing Limits - Practice Problems.md",
-    "Courses/Calculus/1.1 Limits - Computing Limits - Practice.md",
-    "Courses/Calculus/1.1 Limits - Computing Limits - Assignment Problems copy.md",
-    "Courses/Calculus/1.1 Limits - Problems 1.md",
-    "test.md",
-    "Concepts/Calculus/Limits.md",
-    "Courses/Calculus/Calculus Fundamentals.md",
-    "Assets/Excalidraw/Test.md Tuesday, March 19th 2024, 6_19_18 am.excalidraw.md",
     "Assets/Screenshot 2024-03-09 at 9.54.22 PM.png",
     "Assets/Screenshot 2024-03-09 at 7.15.13 PM.png",
     "Assets/Screenshot 2024-03-09 at 10.13.01 PM.png",
@@ -196,7 +187,6 @@
     "Assets/Screenshot 2024-03-18 at 1.10.37 AM.png",
     "Assets/Screenshot 2024-03-18 at 3.52.25 AM.png",
     "Assets/Screenshot 2024-03-18 at 4.16.16 AM.png",
-    "Excalidraw Config.md",
     "Cheat Sheet - Derivatives & Integrals.pdf",
     "Untitled.canvas",
     "Courses/Calculus",

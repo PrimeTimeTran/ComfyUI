@@ -20,6 +20,13 @@
         "a": 1,
         "rgb": 7001692
       }
+    },
+    {
+      "query": "tag:#networking",
+      "color": {
+        "a": 1,
+        "rgb": 14942453
+      }
     }
   ],
   "collapse-display": false,
@@ -32,6 +39,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.9846815357373365,
-  "close": false
+  "scale": 0.7668425180030748,
+  "close": true
 }
