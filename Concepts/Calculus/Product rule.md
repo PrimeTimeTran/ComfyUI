@@ -2,7 +2,6 @@
 tags:
   - calculus
 ---
-
 If both $f(x)$ & $g(x)$ are differential equations then the formula is the sum of each term's derivative multiplied by it's counterpart function.
 $$
 (f(x) \cdot g(x))' = f'(x) \cdot g(x) + f(x) \cdot g'(x)

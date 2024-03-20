@@ -2,7 +2,6 @@
 tags:
   - calculus
 ---
-
 Find derivative of function by transforming the exponent.
 - Subtract 1 from power.
 - Add original power as coefficient.
