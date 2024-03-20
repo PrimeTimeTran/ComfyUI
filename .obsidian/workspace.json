@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "387a1ea9c35a92b1",
+        "id": "b5413d809814365f",
         "type": "tabs",
         "children": [
           {
-            "id": "f433436618a681b1",
+            "id": "12b79997ad98923e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/Calculus/3.6 Derivatives - Of Exponential & Logarithm Functions.md",
+                "file": "Life Goals.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -70,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 548.5
+    "width": 514.5
   },
   "right": {
     "id": "a25c65a9be484658",
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Courses/Calculus/3.6 Derivatives - Of Exponential & Logarithm Functions.md",
+                "file": "Life Goals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Courses/Calculus/3.6 Derivatives - Of Exponential & Logarithm Functions.md",
+                "file": "Life Goals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Courses/Calculus/3.6 Derivatives - Of Exponential & Logarithm Functions.md"
+                "file": "Life Goals.md"
               }
             }
           },
@@ -158,35 +158,35 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "93cbd1431b8f6fae",
+  "active": "12b79997ad98923e",
   "lastOpenFiles": [
+    "Excalidraw Config.md",
+    "Life Goals.md",
+    "Concepts/Latex Cheatsheet.md",
+    "test.md",
+    "Courses/Cheat sheets.md",
     "Courses/Calculus/6.6 Integrals - Work.md",
-    "Courses/Calculus/6.5 Integrals - More Volume.md",
-    "Courses/Calculus/6.4 Integrals - Volumes of Solids of Revolution & Methods of Cylinders copy.md",
-    "Courses/Calculus/6.3 Integrals - Volumes of Solids of Revolution & Methods of Rings.md",
-    "Courses/Calculus/6.4 Integrals - Volumes of Solids of Revolution & Methods of Cylinders.md",
-    "Courses/Calculus/6.3 Integrals - Volumes of Solids of Revolution & Method of Rings copy.md",
-    "Courses/Calculus/6.3 Integrals - Volumes of Solids of Revolution & Method of Rings.md",
-    "Courses/Calculus/6.3 Integrals - Volumes of Solids of Revolution/6.3 Integrals - Volumes of Solids of Revolution & Method of Rings.md",
-    "Courses/Calculus/6.3 Integrals - Volumes of Solids of Revolution/Method of Rings.md",
+    "Courses/Calculus/3.6 Derivatives - Of Exponential & Logarithm Functions.md",
+    "Courses/Calculus/4.1 Derivatives - Rates of Change.md",
+    "Courses/Calculus/4.2 Derivatives - Critical Points copy.md",
+    "Courses/Calculus/4.2 Derivatives - Critical Points.md",
+    "Courses/Calculus/4.3 Derivatives - Min & Max Values copy.md",
+    "Courses/Calculus/4.3 Derivatives - Min & Max Values.md",
+    "Courses/Calculus/4.4 Derivatives - Finding Absolute Extrema copy.md",
+    "Courses/Calculus/4.4 Derivatives - Finding Absolute Extrema.md",
+    "Courses/Calculus/4.4 Derivatives - The Shape Of A Graph, Part I copy.md",
+    "Courses/Calculus/4.5 Derivatives - The Shape Of A Graph, Part I copy.md",
+    "Courses/Calculus/4.5 Derivatives - The Shape Of A Graph, Part I.md",
+    "Courses/Calculus/4.6 Derivatives - The Shape Of A Graph, Part II copy.md",
+    "Courses/Calculus/4.6 Derivatives - The Shape Of A Graph, Part II.md",
+    "Courses/Calculus/4.7 Derivatives - The Mean Value Theorem copy.md",
+    "Courses/Calculus/4.7 Derivatives - The Mean Value Theorem.md",
+    "Courses/Calculus/4.8 Derivatives - The Mean Value Theorem.md",
+    "Courses/Calculus/4.8 Derivatives - Optimization copy.md",
+    "Courses/Calculus/4.11 Derivatives - Linear Approximations.md",
+    "Courses/Calculus/4.12 Derivatives - Differentials copy.md",
+    "Courses/Calculus/4.12 Derivatives - Differentials.md",
     "Courses/Calculus/6.3 Integrals - Volumes of Solids of Revolution",
-    "Courses/Calculus/6.2 Integrals - Area Between Curves.md",
-    "Courses/Calculus/6.1 Integrals - Average Function Value copy 4.md",
-    "Courses/Calculus/6.1 Integrals - Average Function Value copy 3.md",
-    "Courses/Calculus/6.1 Integrals - Average Function Value copy 2.md",
-    "Courses/Calculus/6.1 Integrals - Average Function Value copy.md",
-    "Courses/Calculus/6.1 Integrals - Average Function Value.md",
-    "Courses/Calculus/5.8 Integrals - Substitution Rule for Definite Integrals copy.md",
-    "Courses/Calculus/5.8 Integrals - Substitution Rule for Definite Integrals.md",
-    "Courses/Calculus/5.7 Integrals - Computing Definite Integrals copy.md",
-    "Courses/Calculus/5.7 Integrals - Computing Definite Integrals.md",
-    "Courses/Calculus/5.7 Integrals - Definition of The Definite Integral copy.md",
-    "Courses/Calculus/5.6 Integrals - Definition of The Definite Integral copy.md",
-    "Courses/Calculus/5.6 Integrals - Definition of The Definite Integral.md",
-    "Courses/Calculus/5.5 Integrals - Area Problem copy.md",
-    "Courses/Calculus/5.5 Integrals - Area Problem.md",
-    "Courses/Calculus/5.4 Integrals - More Substitution Rule copy.md",
-    "Courses/Calculus/5.4 Integrals - More Substitution Rule.md",
     "Courses/Calculus/3.11 Derivatives - Related Rates",
     "Courses/Calculus/3.10 Derivatives -",
     "Assets/Screenshot 2024-03-19 at 9.29.54 PM.png",

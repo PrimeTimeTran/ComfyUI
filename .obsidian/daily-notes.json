@@ -1,5 +1,5 @@
 {
   "folder": "/Journals",
   "template": "/Journals/Template.md",
-  "autorun": true
+  "autorun": false
 }
