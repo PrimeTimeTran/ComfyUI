@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "01b9a3a38ab429fd",
+        "id": "387a1ea9c35a92b1",
         "type": "tabs",
         "children": [
           {
-            "id": "e35f6a5c6737eccd",
+            "id": "f433436618a681b1",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Courses/Calculus/3.6 Derivatives - Of Exponential & Logarithm Functions.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -65,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 548.5
   },
   "right": {
     "id": "a25c65a9be484658",
@@ -82,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Courses/Calculus/3.6 Derivatives - Of Exponential & Logarithm Functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Courses/Calculus/3.6 Derivatives - Of Exponential & Logarithm Functions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Courses/Calculus/3.6 Derivatives - Of Exponential & Logarithm Functions.md"
+              }
             }
           },
           {
@@ -150,8 +158,37 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "e35f6a5c6737eccd",
+  "active": "93cbd1431b8f6fae",
   "lastOpenFiles": [
+    "Courses/Calculus/6.6 Integrals - Work.md",
+    "Courses/Calculus/6.5 Integrals - More Volume.md",
+    "Courses/Calculus/6.4 Integrals - Volumes of Solids of Revolution & Methods of Cylinders copy.md",
+    "Courses/Calculus/6.3 Integrals - Volumes of Solids of Revolution & Methods of Rings.md",
+    "Courses/Calculus/6.4 Integrals - Volumes of Solids of Revolution & Methods of Cylinders.md",
+    "Courses/Calculus/6.3 Integrals - Volumes of Solids of Revolution & Method of Rings copy.md",
+    "Courses/Calculus/6.3 Integrals - Volumes of Solids of Revolution & Method of Rings.md",
+    "Courses/Calculus/6.3 Integrals - Volumes of Solids of Revolution/6.3 Integrals - Volumes of Solids of Revolution & Method of Rings.md",
+    "Courses/Calculus/6.3 Integrals - Volumes of Solids of Revolution/Method of Rings.md",
+    "Courses/Calculus/6.3 Integrals - Volumes of Solids of Revolution",
+    "Courses/Calculus/6.2 Integrals - Area Between Curves.md",
+    "Courses/Calculus/6.1 Integrals - Average Function Value copy 4.md",
+    "Courses/Calculus/6.1 Integrals - Average Function Value copy 3.md",
+    "Courses/Calculus/6.1 Integrals - Average Function Value copy 2.md",
+    "Courses/Calculus/6.1 Integrals - Average Function Value copy.md",
+    "Courses/Calculus/6.1 Integrals - Average Function Value.md",
+    "Courses/Calculus/5.8 Integrals - Substitution Rule for Definite Integrals copy.md",
+    "Courses/Calculus/5.8 Integrals - Substitution Rule for Definite Integrals.md",
+    "Courses/Calculus/5.7 Integrals - Computing Definite Integrals copy.md",
+    "Courses/Calculus/5.7 Integrals - Computing Definite Integrals.md",
+    "Courses/Calculus/5.7 Integrals - Definition of The Definite Integral copy.md",
+    "Courses/Calculus/5.6 Integrals - Definition of The Definite Integral copy.md",
+    "Courses/Calculus/5.6 Integrals - Definition of The Definite Integral.md",
+    "Courses/Calculus/5.5 Integrals - Area Problem copy.md",
+    "Courses/Calculus/5.5 Integrals - Area Problem.md",
+    "Courses/Calculus/5.4 Integrals - More Substitution Rule copy.md",
+    "Courses/Calculus/5.4 Integrals - More Substitution Rule.md",
+    "Courses/Calculus/3.11 Derivatives - Related Rates",
+    "Courses/Calculus/3.10 Derivatives -",
     "Assets/Screenshot 2024-03-19 at 9.29.54 PM.png",
     "Assets/Screenshot 2024-03-19 at 9.20.16 PM.png",
     "Assets/Screenshot 2024-03-19 at 9.11.02 PM.png",
@@ -161,33 +198,7 @@
     "Assets/Screenshot 2024-03-19 at 8.30.35 PM.png",
     "Assets/Screenshot 2024-03-19 at 8.24.43 PM.png",
     "Assets/Screenshot 2024-03-19 at 8.17.20 PM (2).png",
-    "Concepts/Sequences.md",
-    "Courses/Calculus/1.1 Limits - Computing Limits - Practice(Answers).md",
     "Screenshot 2024-03-19 at 9.29.54 PM.png",
-    "Screenshot 2024-03-19 at 9.20.16 PM.png",
-    "Courses/Calculus/1.1 Limits - Computing Limits - Practice.md",
-    "Concepts/Kinematics.md",
-    "Courses/Prerequisites/PHY 2048C - General Physics 1.md",
-    "Life Goals.md",
-    "Concepts/Calculus/Taylor Series.md",
-    "Screenshot 2024-03-11 at 6.29.17 PM.png.md",
-    "Concepts/Calculus/Sum Rule.md",
-    "Concepts/Calculus/Second Derivatives.md",
-    "Concepts/Calculus/Second Derivative Test.md",
-    "Concepts/Calculus/Saddle Point.md",
-    "Concepts/Calculus/Quotient Rule.md",
-    "Concepts/Calculus/Product rule.md",
-    "Concepts/Calculus/Power Rule.md",
-    "Concepts/Calculus/Logarithmic.md",
-    "Concepts/Calculus/Limits.md",
-    "Concepts/Calculus/Integrations.md",
-    "Concepts/Calculus/Indefinite integral.md",
-    "Concepts/Calculus/First Principles.md",
-    "Concepts/Calculus/First Derivative Test.md",
-    "Concepts/Calculus/F Prime.md",
-    "Concepts/Calculus/Difference Quotient.md",
-    "Concepts/Calculus/Difference Rule.md",
-    "Concepts/Calculus/Derivative Rules.md",
     "Courses/Calculus/CheatSheets/Trig_Cheat_Sheet.pdf",
     "Cheat Sheet - Derivatives & Integrals.pdf",
     "Courses/Calculus/CheatSheets/Common_Derivatives_Integrals.pdf",
@@ -196,9 +207,6 @@
     "Courses/Calculus/CheatSheets",
     "Concepts/Networking",
     "Untitled.canvas",
-    "Courses/Calculus",
-    "shortcuts.json",
-    "Concepts/Problems",
     "Untitled 1.canvas",
     "Overview.canvas"
   ]
