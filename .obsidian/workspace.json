@@ -4,23 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "b5413d809814365f",
+        "id": "1d8150308c9e37de",
         "type": "tabs",
         "children": [
           {
-            "id": "12b79997ad98923e",
+            "id": "4e7180ea9209283d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Life Goals.md",
+                "file": "Concepts/Calculus/Quotient Rule.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8a2c0a0f6b44883f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Concepts/Calculus/7 Rules of Differentiation.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -49,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#networking",
+                "query": "final",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +84,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 514.5
+    "width": 305.5
   },
   "right": {
     "id": "a25c65a9be484658",
@@ -86,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Life Goals.md",
+                "file": "Concepts/Calculus/7 Rules of Differentiation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Life Goals.md",
+                "file": "Concepts/Calculus/7 Rules of Differentiation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Life Goals.md"
+                "file": "Concepts/Calculus/7 Rules of Differentiation.md"
               }
             }
           },
@@ -158,13 +172,33 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "12b79997ad98923e",
+  "active": "8a2c0a0f6b44883f",
   "lastOpenFiles": [
-    "Excalidraw Config.md",
+    "Concepts/Calculus/Quotient Rule.md",
+    "Concepts/Calculus/7 Rules of Differentiation.md",
+    "Assets/Screenshot 2024-03-09 at 9.54.22 PM.png",
+    "Calculus.canvas",
+    "Courses/Cheat sheets.md",
+    "Courses/Derivatives.md",
+    "Courses/Calculus/Final Exam - Cal 1.md",
+    "Courses/Fundamental Theorem of Calculus.md",
+    "Courses/Prerequisites/MAC 2311 - Calculus 1.md",
+    "Antiderivatives.md",
+    "Docs/latex-example.pdf",
+    "Courses/Trigonometry.md",
+    "Courses/Problems - Trig.md",
+    "Courses/Problems - Integration.md",
+    "Courses/Computer Science.md",
+    "Courses/Courses.md",
+    "Courses/Obsidian/Plugins.md",
+    "Courses/Obsidian",
     "Life Goals.md",
+    "Courses/Calculus/CheatSheets/Calculus_Cheat_Sheet_All.pdf",
+    "Courses/Calculus/CheatSheets/Common_Derivatives_Integrals.pdf",
+    "Courses/Calculus/CheatSheets/Trig_Cheat_Sheet.pdf",
+    "Excalidraw Config.md",
     "Concepts/Latex Cheatsheet.md",
     "test.md",
-    "Courses/Cheat sheets.md",
     "Courses/Calculus/6.6 Integrals - Work.md",
     "Courses/Calculus/3.6 Derivatives - Of Exponential & Logarithm Functions.md",
     "Courses/Calculus/4.1 Derivatives - Rates of Change.md",
@@ -172,20 +206,6 @@
     "Courses/Calculus/4.2 Derivatives - Critical Points.md",
     "Courses/Calculus/4.3 Derivatives - Min & Max Values copy.md",
     "Courses/Calculus/4.3 Derivatives - Min & Max Values.md",
-    "Courses/Calculus/4.4 Derivatives - Finding Absolute Extrema copy.md",
-    "Courses/Calculus/4.4 Derivatives - Finding Absolute Extrema.md",
-    "Courses/Calculus/4.4 Derivatives - The Shape Of A Graph, Part I copy.md",
-    "Courses/Calculus/4.5 Derivatives - The Shape Of A Graph, Part I copy.md",
-    "Courses/Calculus/4.5 Derivatives - The Shape Of A Graph, Part I.md",
-    "Courses/Calculus/4.6 Derivatives - The Shape Of A Graph, Part II copy.md",
-    "Courses/Calculus/4.6 Derivatives - The Shape Of A Graph, Part II.md",
-    "Courses/Calculus/4.7 Derivatives - The Mean Value Theorem copy.md",
-    "Courses/Calculus/4.7 Derivatives - The Mean Value Theorem.md",
-    "Courses/Calculus/4.8 Derivatives - The Mean Value Theorem.md",
-    "Courses/Calculus/4.8 Derivatives - Optimization copy.md",
-    "Courses/Calculus/4.11 Derivatives - Linear Approximations.md",
-    "Courses/Calculus/4.12 Derivatives - Differentials copy.md",
-    "Courses/Calculus/4.12 Derivatives - Differentials.md",
     "Courses/Calculus/6.3 Integrals - Volumes of Solids of Revolution",
     "Courses/Calculus/3.11 Derivatives - Related Rates",
     "Courses/Calculus/3.10 Derivatives -",
@@ -198,15 +218,8 @@
     "Assets/Screenshot 2024-03-19 at 8.30.35 PM.png",
     "Assets/Screenshot 2024-03-19 at 8.24.43 PM.png",
     "Assets/Screenshot 2024-03-19 at 8.17.20 PM (2).png",
-    "Screenshot 2024-03-19 at 9.29.54 PM.png",
-    "Courses/Calculus/CheatSheets/Trig_Cheat_Sheet.pdf",
     "Cheat Sheet - Derivatives & Integrals.pdf",
-    "Courses/Calculus/CheatSheets/Common_Derivatives_Integrals.pdf",
-    "Courses/Calculus/CheatSheets/Calculus_Cheat_Sheet_All.pdf",
     "Courses/Calculus/CheatSheets/Algebra_Cheat_Sheet.pdf",
-    "Courses/Calculus/CheatSheets",
-    "Concepts/Networking",
-    "Untitled.canvas",
     "Untitled 1.canvas",
     "Overview.canvas"
   ]

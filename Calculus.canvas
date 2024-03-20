@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"703b83e90e947a85","type":"group","x":-1280,"y":-880,"width":3140,"height":2100,"label":"Calculus"},
+		{"id":"ba3dc4a9f4bbb478","type":"file","file":"Courses/Derivatives.md","x":-620,"y":-500,"width":560,"height":400},
+		{"id":"d43142d65688e360","type":"file","file":"Courses/Trigonometry.md","x":-1160,"y":-340,"width":400,"height":400},
+		{"id":"48e712896be5db36","x":1040,"y":200,"width":400,"height":400,"type":"file","file":"Courses/Calculus/Final Exam - Cal 1.md"},
+		{"id":"e0ac7b9b916be355","type":"text","text":"It's going to take a lot of\nwork but it's going to provide a lot of returns.","shape":"oval","x":-1060,"y":-800,"width":440,"height":100},
+		{"id":"8712702e7b3faf4a","type":"file","file":"Courses/Integral.md","x":-20,"y":-500,"width":580,"height":400},
+		{"id":"d5891454c164a3fc","type":"file","file":"Concepts/Calculus/Integrations.md","x":-20,"y":400,"width":580,"height":440},
+		{"id":"57b3facb808308fa","type":"file","file":"Concepts/Calculus/7 Rules of Differentiation.md","x":-620,"y":400,"width":560,"height":440},
+		{"id":"0cc4a364fbcf581a","x":-300,"y":60,"width":480,"height":220,"type":"text","text":"Find derivative or **differentiate**:\n$$\\frac {d}{dx} [x^3] = 3x^{2}$$\nFind integral/antiderivative or **integrate**:\n$$\n\\int 3x^2 \\, dx  = \\frac {3x^3}{3} = x^3+c\n$$"},
+		{"id":"ba3f0259081d3712","x":-300,"y":-840,"width":520,"height":180,"type":"text","text":"Answers\n- \"How to maximize sales?\"\n- \"Whats their acceleration?\"\n- \"How fast are they going at this moment in time?\""}
+	],
+	"edges":[
+		{"id":"ca3e141e57707970","fromNode":"57b3facb808308fa","fromSide":"top","toNode":"0cc4a364fbcf581a","toSide":"bottom"},
+		{"id":"4b9236545b4703c5","fromNode":"d5891454c164a3fc","fromSide":"top","toNode":"0cc4a364fbcf581a","toSide":"bottom"},
+		{"id":"7046dfac53c20645","fromNode":"0cc4a364fbcf581a","fromSide":"top","toNode":"ba3dc4a9f4bbb478","toSide":"bottom"},
+		{"id":"1bded2bb45bd5c95","fromNode":"0cc4a364fbcf581a","fromSide":"top","toNode":"8712702e7b3faf4a","toSide":"bottom"},
+		{"id":"1051618145a58bc1","fromNode":"ba3dc4a9f4bbb478","fromSide":"top","toNode":"ba3f0259081d3712","toSide":"bottom"}
+	]
+}

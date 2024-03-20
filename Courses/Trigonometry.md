@@ -1,4 +1,7 @@
-From the Greek, Triangle and measure.
+- Sin 
+- Cosine
+- Tan
+
 
 To convert $\pi$ to degrees we multiply by $\frac {180^{{\degree}}}{\pi}$
 

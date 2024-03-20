@@ -23,7 +23,7 @@ The rate of change. A function which finds slope of an **original function**, $f
 
 ![[Tangent_line_to_a_curve.png|700]]
 $$\frac{d}{dx}[x^n]$$
-### [[Derivative Rules]]: 
+### [[7 Rules of Differentiation]]: 
 Find derivatives without resorting to [[First Principles]]. 
 - [[Constant Rule]]
   $\frac{d}{dx}(c) = 0$
@@ -52,9 +52,10 @@ Adding up tiny bits. The opposite of derivatives. Finding the original function 
   $$\int_{a}^b$$
 - Indefinite:
   $$\int$$
-### [[Antiderivatives]]
+  
+### Antiderivatives
   An antiderivative of a function is a function whose derivative is equal to the original function. Antiderivatives are essentially the reverse process of differentiation and are crucial in solving differential equations and evaluating integrals.
-## [[Fundamental Theorem of Calculus]]
+### [[Fundamental Theorem of Calculus]]
   This theorem establishes a fundamental connection between differentiation and integration. It states that if a function is continuous on a closed interval and is integrable on that interval, then the definite integral of its derivative over that interval is equal to the difference of its values at the endpoints of the interval.
 - Limits at Infinity: 
   Calculus also deals with the behavior of functions as the input approaches infinity or negative infinity. This concept is crucial for understanding asymptotic behavior and determining the end behavior of functions.
@@ -69,8 +70,6 @@ Solve differential equations, resolve logical paradoxes, computer areas, and the
 $$
 \sum_{n=1}^{\infty}
 $$
-
-
 
 ## [[Continuity]]
 

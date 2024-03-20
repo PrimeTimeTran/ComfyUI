@@ -3,12 +3,10 @@ tags:
   - calculus
   - integrals
 ---
-## Key Points
-
 - Inverse of derivative.
 - Also info about equation.
 - Area between line & horizontal axis.
-
+$$\int$$
 Velocity is the integral of acceleration & position is the integral of velocity
 ## [[Integrations]]
 

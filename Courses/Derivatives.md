@@ -2,19 +2,20 @@
 tags:
   - calculus
 ---
-
-# Intro
-
-The derivative of a function represents its **rate of change** at any given point. Geometrically, it corresponds to the slope of the tangent line to the graph of the function at that point .
-
-$$\frac {d}{dx}[x^n]$$
-
-- $f'(x)$
+- Rate of change
 - Slope of tangent line
+- Point tangent line touches graph
+- Instantaneous rate of change
+- Notation
+	- "Find derivative"
+		   $\frac {d}{dx}[f(x)]$
+	- "Is the derivative" 
+		  $f'(x)$
 
-Velocity is the derivative position & acceleration the derivative of velocity
 
-# Speed
+
+
+### Speed
 
 How long does it take the beer to get to the flower?
 Finding average speed is easy, rise over run.
@@ -78,7 +79,7 @@ How to go from $f(x)$ to $f'(x)$?
 
 - [[First Principles]]
 - [[Difference Quotient]]
-- [[Derivative Rules]]
+- [[7 Rules of Differentiation]]
 
 # Applications
 
