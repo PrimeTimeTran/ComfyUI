@@ -1,7 +1,6 @@
 ---
 tags:
   - calculus
-  - calculus-problems
 ---
 The derivative of $\frac {dF}{dx} = \frac {d}{dx}\left[ \int _{a}^x f(t)dt \right] = f(x)$
 

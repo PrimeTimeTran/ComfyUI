@@ -90,7 +90,7 @@ To ensure drawing experience is good
 - Hide sidebar
 - Maximize screen on macbook
 
-## [[Paul's Online Notes - Progress]]
+## Paul's Online Notes - Progress
 
 Do these problems until you're pro
 
