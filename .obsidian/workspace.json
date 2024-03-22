@@ -11,6 +11,19 @@
             "id": "bd23d4f83c9f48bb",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Courses/Calculus/Sections/4.8.1 Derivatives - Optimization 1.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c7064a3f3b391a91",
+            "type": "leaf",
+            "state": {
               "type": "excalidraw",
               "state": {
                 "file": "Assets/Excalidraw/Template-Excalidraw.md"
@@ -84,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Assets/Excalidraw/Template-Excalidraw.md",
+                "file": "Courses/Calculus/Sections/4.8.1 Derivatives - Optimization 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Assets/Excalidraw/Template-Excalidraw.md",
+                "file": "Courses/Calculus/Sections/4.8.1 Derivatives - Optimization 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Assets/Excalidraw/Template-Excalidraw.md"
+                "file": "Courses/Calculus/Sections/4.8.1 Derivatives - Optimization 1.md"
               }
             }
           },
@@ -158,15 +171,23 @@
   },
   "active": "bd23d4f83c9f48bb",
   "lastOpenFiles": [
+    "IMG_0009.jpg",
+    "IMG_0008.jpg",
+    "Assets/Excalidraw/Template-Excalidraw.md",
     "Courses/Calculus/Sections/4.8.1 Derivatives - Optimization 1.md",
+    "Courses/Prerequisites/PHY 2048C - General Physics 1.md",
+    "Courses/Calculus/Calculus.canvas",
+    "Concepts/Maxwell Equations.md",
+    "Functions - Piecewise, Mostly continuous, Continuous.png",
+    "test.py",
+    "2..png",
+    "1..png",
+    "Pasted image 20240322054630.png",
     "Courses/Calculus/Sections/4.8 Derivatives - Optimization.md",
     "Courses/Calculus/Calculus Fundamentals.md",
-    "Courses/Calculus/Calculus.canvas",
     "Courses/Calculus/Sections/2.5 Limits - Computing Limits - Assignment.md",
     "Courses/Calculus/Sections",
-    "Screenshot 2024-03-22 at 3.12.07 AM.png",
     "Screenshot 2024-03-22 at 3.04.52 AM.png",
-    "Assets/Excalidraw/Template-Excalidraw.md",
     "Excalidraw Config.md",
     "Assets/Excalidraw/drawing-Thursday, March 21st 2024, 8_45_38 am.excalidraw.md",
     "Courses/Fundamental Theorem of Calculus.md",
@@ -180,10 +201,6 @@
     "Assets/Screenshot 2024-03-10 at 1.36.37 AM.png",
     "Assets/Screenshot 2024-03-09 at 3.04.04 PM.png",
     "Assets/Screenshot 2024-03-08 at 1.28.52 AM.png",
-    "Assets/Screenshot 2024-03-08 at 8.15.25 PM.png",
-    "Assets/Screenshot 2024-03-09 at 7.09.36 PM.png",
-    "Assets/Screenshot 2024-03-19 at 8.17.20 PM (2).png",
-    "Assets/Screenshot 2024-03-11 at 8.55.04 PM.png",
     "Concepts/Calculus/7 Rules of Differentiation.md",
     "Courses/Cheat sheets.md",
     "Courses/Derivatives.md",
@@ -194,17 +211,13 @@
     "Courses/Problems - Trig.md",
     "Courses/Computer Science.md",
     "Courses/Courses.md",
-    "Courses/Obsidian/Plugins.md",
     "Courses/Obsidian",
-    "Life Goals.md",
     "Courses/Calculus/CheatSheets/Calculus_Cheat_Sheet_All.pdf",
     "Courses/Calculus/CheatSheets/Common_Derivatives_Integrals.pdf",
     "Courses/Calculus/CheatSheets/Trig_Cheat_Sheet.pdf",
-    "Concepts/Latex Cheatsheet.md",
     "Courses/Calculus/6.3 Integrals - Volumes of Solids of Revolution",
     "Courses/Calculus/3.11 Derivatives - Related Rates",
     "Courses/Calculus/3.10 Derivatives -",
-    "Cheat Sheet - Derivatives & Integrals.pdf",
     "Untitled 1.canvas",
     "Overview.canvas"
   ]
