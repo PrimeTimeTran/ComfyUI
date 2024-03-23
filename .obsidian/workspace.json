@@ -4,30 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "30a610bc2ff23f38",
+        "id": "7c57fb6f53e41827",
         "type": "tabs",
         "children": [
           {
-            "id": "bd23d4f83c9f48bb",
+            "id": "77dafd1d6fa7de76",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Courses/Calculus/Sections/4.8.1 Derivatives - Optimization 1.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c7064a3f3b391a91",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Assets/Excalidraw/Template-Excalidraw.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -80,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 483.5,
-    "collapsed": true
+    "width": 407.5
   },
   "right": {
     "id": "a25c65a9be484658",
@@ -97,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Courses/Calculus/Sections/4.8.1 Derivatives - Optimization 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Courses/Calculus/Sections/4.8.1 Derivatives - Optimization 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Courses/Calculus/Sections/4.8.1 Derivatives - Optimization 1.md"
-              }
+              "state": {}
             }
           },
           {
@@ -169,21 +149,36 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "bd23d4f83c9f48bb",
+  "active": "77dafd1d6fa7de76",
   "lastOpenFiles": [
-    "IMG_0009.jpg",
-    "IMG_0008.jpg",
+    "Courses/DSA/Trie.md",
+    "Courses/DSA/Tree.md",
+    "Courses/DSA/Stack.md",
+    "Courses/DSA/Matrix.md",
+    "Courses/DSA/Queue.md",
+    "Courses/DSA/Linked List.md",
+    "Courses/DSA/Heap.md",
+    "Courses/DSA/HashSet.md",
+    "Courses/DSA/HashMap.md",
+    "Courses/DSA/Graph.md",
+    "Courses/DSA/Array.md",
+    "Courses/Analytically.md",
+    "Courses/DSA",
+    "Courses/Calculus/Calculus.canvas",
+    "Courses/Calculus/Sections/4.8 Derivatives - Optimization.md",
     "Assets/Excalidraw/Template-Excalidraw.md",
     "Courses/Calculus/Sections/4.8.1 Derivatives - Optimization 1.md",
+    "IMG_0011.jpg",
+    "IMG_0010.jpg",
+    "IMG_0009.jpg",
+    "IMG_0008.jpg",
     "Courses/Prerequisites/PHY 2048C - General Physics 1.md",
-    "Courses/Calculus/Calculus.canvas",
     "Concepts/Maxwell Equations.md",
     "Functions - Piecewise, Mostly continuous, Continuous.png",
     "test.py",
     "2..png",
     "1..png",
     "Pasted image 20240322054630.png",
-    "Courses/Calculus/Sections/4.8 Derivatives - Optimization.md",
     "Courses/Calculus/Calculus Fundamentals.md",
     "Courses/Calculus/Sections/2.5 Limits - Computing Limits - Assignment.md",
     "Courses/Calculus/Sections",
@@ -195,29 +190,14 @@
     "Courses/Problems - Integration.md",
     "Concepts/Physics/Bosons.md",
     "Courses/Prerequisites/MAC 2311 - Calculus 1.md",
-    "Paul's Online Notes - Progress.md",
-    "Concepts/Calculus/Quotient Rule.md",
     "Assets/Screenshot 2024-03-10 at 6.49.32 PM.png",
-    "Assets/Screenshot 2024-03-10 at 1.36.37 AM.png",
-    "Assets/Screenshot 2024-03-09 at 3.04.04 PM.png",
-    "Assets/Screenshot 2024-03-08 at 1.28.52 AM.png",
-    "Concepts/Calculus/7 Rules of Differentiation.md",
-    "Courses/Cheat sheets.md",
-    "Courses/Derivatives.md",
-    "Courses/Calculus/Final Exam - Cal 1.md",
-    "Antiderivatives.md",
     "Docs/latex-example.pdf",
-    "Courses/Trigonometry.md",
-    "Courses/Problems - Trig.md",
-    "Courses/Computer Science.md",
-    "Courses/Courses.md",
     "Courses/Obsidian",
     "Courses/Calculus/CheatSheets/Calculus_Cheat_Sheet_All.pdf",
     "Courses/Calculus/CheatSheets/Common_Derivatives_Integrals.pdf",
     "Courses/Calculus/CheatSheets/Trig_Cheat_Sheet.pdf",
     "Courses/Calculus/6.3 Integrals - Volumes of Solids of Revolution",
     "Courses/Calculus/3.11 Derivatives - Related Rates",
-    "Courses/Calculus/3.10 Derivatives -",
     "Untitled 1.canvas",
     "Overview.canvas"
   ]
