@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "7c57fb6f53e41827",
+        "id": "74abd599d4251d85",
         "type": "tabs",
         "children": [
           {
-            "id": "77dafd1d6fa7de76",
+            "id": "edde0aba9641e6a9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Courses/Calculus/Sections/4.8.1 Derivatives - Optimization 1.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -70,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 407.5
+    "width": 372.5
   },
   "right": {
     "id": "a25c65a9be484658",
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Courses/Calculus/Sections/4.8.1 Derivatives - Optimization 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Courses/Calculus/Sections/4.8.1 Derivatives - Optimization 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Courses/Calculus/Sections/4.8.1 Derivatives - Optimization 1.md"
-              }
+              "state": {}
             }
           },
           {
@@ -158,8 +149,16 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "77dafd1d6fa7de76",
+  "active": "edde0aba9641e6a9",
   "lastOpenFiles": [
+    "Courses/Calculus/CheatSheets/Calculus_Cheat_Sheet_All.pdf",
+    "JSO.md",
+    "Courses/Calculus/Calculus.canvas",
+    "Courses/Calculus/Sections/4.8.1 Derivatives - Optimization 1.md",
+    "Courses/Calculus/Sections/4.8 Derivatives - Optimization.md",
+    "Courses/Calculus/Sections/4.14 Derivatives - Business Applications.md",
+    "Concepts/Calculus/7 Rules of Differentiation.md",
+    "Optimization Steps.png",
     "Courses/DSA/Trie.md",
     "Courses/DSA/Tree.md",
     "Courses/DSA/Stack.md",
@@ -173,10 +172,7 @@
     "Courses/DSA/Array.md",
     "Courses/Analytically.md",
     "Courses/DSA",
-    "Courses/Calculus/Calculus.canvas",
-    "Courses/Calculus/Sections/4.8 Derivatives - Optimization.md",
     "Assets/Excalidraw/Template-Excalidraw.md",
-    "Courses/Calculus/Sections/4.8.1 Derivatives - Optimization 1.md",
     "IMG_0011.jpg",
     "IMG_0010.jpg",
     "IMG_0009.jpg",
@@ -195,14 +191,8 @@
     "Excalidraw Config.md",
     "Assets/Excalidraw/drawing-Thursday, March 21st 2024, 8_45_38 am.excalidraw.md",
     "Courses/Fundamental Theorem of Calculus.md",
-    "Concepts/Infosec/InfoSec.md",
-    "Courses/Problems - Integration.md",
-    "Concepts/Physics/Bosons.md",
-    "Courses/Prerequisites/MAC 2311 - Calculus 1.md",
-    "Assets/Screenshot 2024-03-10 at 6.49.32 PM.png",
     "Docs/latex-example.pdf",
     "Courses/Obsidian",
-    "Courses/Calculus/CheatSheets/Calculus_Cheat_Sheet_All.pdf",
     "Courses/Calculus/CheatSheets/Common_Derivatives_Integrals.pdf",
     "Courses/Calculus/CheatSheets/Trig_Cheat_Sheet.pdf",
     "Courses/Calculus/6.3 Integrals - Volumes of Solids of Revolution",

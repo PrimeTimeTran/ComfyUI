@@ -1,5 +1,4 @@
-res = [1,2,3,4]
+res = []
+res[3] = 'hi'
 
-
-print(res[::-1])
-
+print(res[3])
