@@ -1,6 +1,32 @@
-- Sin 
-- Cosine
-- Tan
+1. The six trigometric functions:
+	- Sine, Cosine, Tangent, Cotangent, Secant, Cosecant
+	- sin, cos, tan, cot, sec, csc
+	- SOH, CAH, TOA
+	- Opposite/Hypotenuse, Adjacent/Hypotenuse, Opposite/Adjacent
+	  
+	- Reciprocals
+	- CSC: Hyp/Opp, Sec: Hyp/Adj, Cot: AdjOpp
+	  
+	- Trig functions are properties of angles, not triangles
+	- Trig functions are unitless.
+	- Written and read as sin $\theta$ not sin $(\theta)$
+	  
+2. Cartesian Coordinates and Quandrants
+	- I, II, III, IV
+	- (+,+), (-, +), (-, -), (+, -)
+3. Angle Measurements in Degrees and Radians
+	- 0º - 360º
+	- Quarters are 90º
+	- 45º split each quandrant
+	- Circumference = 2πr
+	- 360º = 2πr radians
+	- 180º = π radians
+	  ![[Screenshot 2024-03-26 at 6.01.00 AM.png | 500]]
+4. 
+5. 
+6. 
+
+
 
 
 To convert $\pi$ to degrees we multiply by $\frac {180^{{\degree}}}{\pi}$

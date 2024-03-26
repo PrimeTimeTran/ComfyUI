@@ -4,15 +4,46 @@
     "type": "split",
     "children": [
       {
-        "id": "74abd599d4251d85",
+        "id": "10a3b4921337f60b",
         "type": "tabs",
         "children": [
           {
-            "id": "edde0aba9641e6a9",
+            "id": "34fc7b1ee882893f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Courses/Trigonometry.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a2897d860111013b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Courses/Derivatives.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a7a064ed6bb6cfac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Courses/Calculus/Sections/2.5 Limits - Computing Limits - Practice.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +96,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 372.5
+    "width": 490.5
   },
   "right": {
     "id": "a25c65a9be484658",
@@ -81,6 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Courses/Trigonometry.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Courses/Trigonometry.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +151,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Courses/Trigonometry.md"
+              }
             }
           },
           {
@@ -149,13 +184,21 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "edde0aba9641e6a9",
+  "active": "34fc7b1ee882893f",
   "lastOpenFiles": [
-    "Courses/Calculus/CheatSheets/Calculus_Cheat_Sheet_All.pdf",
-    "JSO.md",
+    "Screenshot 2024-03-26 at 6.01.00 AM.png",
+    "Courses/Derivatives.md",
+    "Courses/Calculus/Sections/2.5 Limits - Computing Limits - Practice.md",
+    "Courses/Trigonometry.md",
     "Courses/Calculus/Calculus.canvas",
+    "Courses/Calculus/Sections/2.5 Limits - Computing Limits - Assignment.md",
     "Courses/Calculus/Sections/4.8.1 Derivatives - Optimization 1.md",
     "Courses/Calculus/Sections/4.8 Derivatives - Optimization.md",
+    "Courses/Calculus/Sections/4.6 Derivatives - The Shape Of A Graph, Part II.md",
+    "Courses/Calculus/Sections/4.7 Derivatives - The Mean Value Theorem.md",
+    "Concepts/Calculus/Second Derivatives.md",
+    "Courses/Calculus/CheatSheets/Calculus_Cheat_Sheet_All.pdf",
+    "JSO.md",
     "Courses/Calculus/Sections/4.14 Derivatives - Business Applications.md",
     "Concepts/Calculus/7 Rules of Differentiation.md",
     "Optimization Steps.png",
@@ -177,20 +220,13 @@
     "IMG_0010.jpg",
     "IMG_0009.jpg",
     "IMG_0008.jpg",
-    "Courses/Prerequisites/PHY 2048C - General Physics 1.md",
-    "Concepts/Maxwell Equations.md",
     "Functions - Piecewise, Mostly continuous, Continuous.png",
     "test.py",
     "2..png",
     "1..png",
     "Pasted image 20240322054630.png",
-    "Courses/Calculus/Calculus Fundamentals.md",
-    "Courses/Calculus/Sections/2.5 Limits - Computing Limits - Assignment.md",
     "Courses/Calculus/Sections",
     "Screenshot 2024-03-22 at 3.04.52 AM.png",
-    "Excalidraw Config.md",
-    "Assets/Excalidraw/drawing-Thursday, March 21st 2024, 8_45_38 am.excalidraw.md",
-    "Courses/Fundamental Theorem of Calculus.md",
     "Docs/latex-example.pdf",
     "Courses/Obsidian",
     "Courses/Calculus/CheatSheets/Common_Derivatives_Integrals.pdf",

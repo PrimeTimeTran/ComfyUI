@@ -13,6 +13,17 @@ tags:
 		  $f'(x)$
 
 
+- Definition
+	- $f'(x) = \lim\limits_{h \to 0} \frac {f(x+h) - f(x)}{h}$
+- Graphical view
+	- Slope of tangent line
+- Input nudging view
+	- $f'(x) = \lim\limits_{{\Delta x \to 0}} \frac{{\Delta y}}{{\Delta x}}$
+- Symbolic view
+	- $\frac {d}{dx}$
+	- $f'(x)$
+- Linear Approximation
+	- 
 
 
 ### Speed
