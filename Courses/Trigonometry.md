@@ -22,9 +22,14 @@
 	- 360º = 2πr radians
 	- 180º = π radians
 	  ![[Screenshot 2024-03-26 at 6.01.00 AM.png | 500]]
-4. 
-5. 
-6. 
+4. The Pythagorean Theorem
+	- $a^2+b^2 = c^2$
+5. The Unit Circle
+    - Large, Medium, Small:
+        - Large: $\frac {\sqrt {3}}{2}$
+        - Medium: $\frac {\sqrt {2}}{2}$
+        - Small: $\frac {1}{2}$
+    - 
 
 
 
