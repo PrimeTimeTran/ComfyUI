@@ -1,20 +1,22 @@
 ---
 tags:
   - calculus
+  - integrals
 ---
-The process of finding the integral of a function.
 
+The process of finding the integral of a function. What function did we differentiate to get this function?
 $$\int_{a}^{b} x^2 \,dx$$
-![[demo-adding-up-sums.gif | 500]]
-
-- Opposite of derivative.
-- "The derivative of the $f(x)$ is equal to f prime of x"
-  $\frac{d}{dx}f(x) = f^1(x)$
-- "The integral of f prime of x is $f(x)$":
-  $\int{f}^1(x)dx = f(x)$
-- "antiderivative of f prime"
-	- Integration as finding the antiderivative
-	- Finding the "original function" of the derivative
+- Adding up little pieces.
+- Inverse of derivative.
+- Finding the differentiated $f(x)$, original, of the derivative $f'(x)$.
+	- Integration is finding the antiderivative
+	  
+- The derivative of the $f(x)$ is equal to $f'(x)$:
+  $\frac{d}{dx}f(x) = f^{'}(x)$
+  
+- The integral of $f'(x)$ is $f(x)$:
+  $\int{f}^{'}(x)dx = f(x)$
+  
 - Process of finding the accumulated area under a curve. The integral of a function represents the net accumulation of the function's values over a given interval. It has applications in computing areas, volumes, and solving differential equations.
 
 The amount of change between two derivatives
@@ -22,6 +24,7 @@ The amount of change between two derivatives
 	- The continuous analog of a sum, which is used to calculate areas, volumes, and their generalizations. 
 - **integration**:
 	- The process of computing an integral, is one of the two fundamental operations of calculus, the other being differentiation.
+
 How to find integral of differentiation?
 
 Whats is the derivative?

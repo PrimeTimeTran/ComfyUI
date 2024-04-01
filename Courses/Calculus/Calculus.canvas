@@ -10,33 +10,6 @@
       "label": "Calculus"
     },
     {
-      "id": "d43142d65688e360",
-      "type": "file",
-      "file": "Courses/Trigonometry.md",
-      "x": -1820,
-      "y": -20,
-      "width": 740,
-      "height": 1760
-    },
-    {
-      "id": "696b917547acf24b",
-      "type": "text",
-      "text": "Limits help evaluate a function",
-      "x": -1040,
-      "y": -15,
-      "width": 395,
-      "height": 110
-    },
-    {
-      "id": "a3c8dcb1bc84993e",
-      "type": "text",
-      "text": "Derivatives are rates of change at a point",
-      "x": -1040,
-      "y": 133,
-      "width": 395,
-      "height": 95
-    },
-    {
       "id": "ba3dc4a9f4bbb478",
       "type": "file",
       "file": "Courses/Derivatives.md",
@@ -44,15 +17,6 @@
       "y": -20,
       "width": 560,
       "height": 400
-    },
-    {
-      "id": "ace87519492c521d",
-      "type": "text",
-      "text": "Integration calculates how much accumulates",
-      "x": -1040,
-      "y": 265,
-      "width": 395,
-      "height": 115
     },
     {
       "id": "ba3f0259081d3712",
@@ -91,6 +55,25 @@
       "height": 400
     },
     {
+      "id": "e0ac7b9b916be355",
+      "type": "text",
+      "text": "It's going to take a lot of\nwork but it's going to provide a lot of returns.",
+      "shape": "oval",
+      "x": -60,
+      "y": -640,
+      "width": 440,
+      "height": 100
+    },
+    {
+      "id": "8712702e7b3faf4a",
+      "type": "file",
+      "file": "Courses/Integral.md",
+      "x": 180,
+      "y": -20,
+      "width": 580,
+      "height": 400
+    },
+    {
       "id": "57b3facb808308fa",
       "type": "file",
       "file": "Concepts/Calculus/7 Rules of Differentiation.md",
@@ -98,34 +81,6 @@
       "y": 1025,
       "width": 560,
       "height": 440
-    },
-    {
-      "id": "470a990931c9b7b3",
-      "type": "text",
-      "text": "Critical Points are where derivative = 0",
-      "x": -1045,
-      "y": 1480,
-      "width": 380,
-      "height": 50,
-      "color": "3"
-    },
-    {
-      "id": "41a0d3b98cf0979b",
-      "type": "text",
-      "text": "Continuity\n1. f(a) is defined\n2. lim exists\n3. f(x) = f(a)\n\nCan draw the graph of the line without lifting pen from beginning to end of the domain",
-      "x": -1040,
-      "y": 478,
-      "width": 620,
-      "height": 242
-    },
-    {
-      "id": "f4664684aa6ed763",
-      "type": "file",
-      "file": "Assets/Screenshot 2024-03-22 at 3.04.52 AM.png",
-      "x": -1045,
-      "y": 1160,
-      "width": 400,
-      "height": 253
     },
     {
       "id": "084135ae53cfcdb8",
@@ -137,14 +92,13 @@
       "height": 370
     },
     {
-      "id": "e0ac7b9b916be355",
-      "type": "text",
-      "text": "It's going to take a lot of\nwork but it's going to provide a lot of returns.",
-      "shape": "oval",
-      "x": -60,
-      "y": -640,
-      "width": 440,
-      "height": 100
+      "id": "d5891454c164a3fc",
+      "type": "file",
+      "file": "Concepts/Calculus/Integrations.md",
+      "x": 200,
+      "y": 1025,
+      "width": 580,
+      "height": 440
     },
     {
       "id": "48e712896be5db36",
@@ -165,42 +119,6 @@
       "height": 1331
     },
     {
-      "id": "97c3a274ca1f9b71",
-      "type": "text",
-      "text": "Hierarchy of functions\n1. Continuous\n2. Mostly continuous\n3. Piecewise Functions",
-      "x": -1040,
-      "y": 729,
-      "width": 440,
-      "height": 180
-    },
-    {
-      "id": "600a536d42a9ceb6",
-      "type": "file",
-      "file": "Assets/Functions - Piecewise, Mostly continuous, Continuous.png",
-      "x": -1040,
-      "y": 964,
-      "width": 400,
-      "height": 102
-    },
-    {
-      "id": "8712702e7b3faf4a",
-      "type": "file",
-      "file": "Courses/Integral.md",
-      "x": 180,
-      "y": -20,
-      "width": 580,
-      "height": 400
-    },
-    {
-      "id": "d5891454c164a3fc",
-      "type": "file",
-      "file": "Concepts/Calculus/Integrations.md",
-      "x": 200,
-      "y": 1025,
-      "width": 580,
-      "height": 440
-    },
-    {
       "id": "0479ec236b6c8957",
       "type": "file",
       "file": "Assets/Optimization Steps.png",
@@ -208,6 +126,88 @@
       "y": 265,
       "width": 399,
       "height": 109
+    },
+    {
+      "id": "696b917547acf24b",
+      "type": "text",
+      "text": "Limits help evaluate a function",
+      "x": -1380,
+      "y": -39,
+      "width": 395,
+      "height": 110
+    },
+    {
+      "id": "a3c8dcb1bc84993e",
+      "type": "text",
+      "text": "Derivatives are rates of change at a point",
+      "x": -1380,
+      "y": 109,
+      "width": 395,
+      "height": 95
+    },
+    {
+      "id": "470a990931c9b7b3",
+      "type": "text",
+      "text": "Critical Points are where derivative = 0",
+      "x": -1385,
+      "y": 1456,
+      "width": 380,
+      "height": 50,
+      "color": "3"
+    },
+    {
+      "id": "f4664684aa6ed763",
+      "type": "file",
+      "file": "Assets/Screenshot 2024-03-22 at 3.04.52 AM.png",
+      "x": -1385,
+      "y": 1136,
+      "width": 400,
+      "height": 253
+    },
+    {
+      "id": "ace87519492c521d",
+      "type": "text",
+      "text": "Integration calculates how much accumulates",
+      "x": -1380,
+      "y": 241,
+      "width": 395,
+      "height": 115
+    },
+    {
+      "id": "41a0d3b98cf0979b",
+      "type": "text",
+      "text": "Continuity\n1. f(a) is defined\n2. lim exists\n3. f(x) = f(a)\n\nCan draw the graph of the line without lifting pen from beginning to end of the domain",
+      "x": -1380,
+      "y": 454,
+      "width": 620,
+      "height": 242
+    },
+    {
+      "id": "97c3a274ca1f9b71",
+      "type": "text",
+      "text": "Hierarchy of functions\n1. Continuous\n2. Mostly continuous\n3. Piecewise Functions",
+      "x": -1380,
+      "y": 705,
+      "width": 440,
+      "height": 180
+    },
+    {
+      "id": "600a536d42a9ceb6",
+      "type": "file",
+      "file": "Assets/Functions - Piecewise, Mostly continuous, Continuous.png",
+      "x": -1380,
+      "y": 940,
+      "width": 400,
+      "height": 102
+    },
+    {
+      "id": "d43142d65688e360",
+      "type": "file",
+      "file": "Courses/Trigonometry.md",
+      "x": -2160,
+      "y": -44,
+      "width": 740,
+      "height": 1760
     }
   ],
   "edges": [

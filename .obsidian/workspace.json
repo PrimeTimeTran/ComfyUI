@@ -4,41 +4,49 @@
     "type": "split",
     "children": [
       {
-        "id": "c5dcd7bfb8d74172",
+        "id": "5710b7329b7d554c",
         "type": "tabs",
         "children": [
           {
-            "id": "8f4ad9a650bd672f",
+            "id": "e8f681cf317eb2a8",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "canvas",
               "state": {
-                "file": "Docs/Logarithmic.pdf"
+                "file": "Courses/Calculus/Calculus.canvas",
+                "viewState": {
+                  "x": 378.6507800696073,
+                  "y": 1037.2212826511459,
+                  "zoom": -0.1576395670572917
+                }
               }
             }
           },
           {
-            "id": "2ac451b3a574d598",
+            "id": "9a81b1b8163b0549",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Courses/Calculus/CheatSheets/Calculus_Cheat_Sheet_All.pdf"
+              }
+            }
+          },
+          {
+            "id": "0832c9cd7fc9c663",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/Problems - Integration.md",
+                "file": "Courses/Trigonometry.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
-          },
-          {
-            "id": "bc4c3985862c6535",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -88,7 +96,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 249.5
+    "width": 373.5
   },
   "right": {
     "id": "a25c65a9be484658",
@@ -104,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Docs/Logarithmic.pdf",
+                "file": "Courses/Trigonometry.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Docs/Logarithmic.pdf",
+                "file": "Courses/Trigonometry.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Docs/Logarithmic.pdf"
+                "file": "Courses/Trigonometry.md"
               }
             }
           },
@@ -176,35 +184,37 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "8f4ad9a650bd672f",
+  "active": "0832c9cd7fc9c663",
   "lastOpenFiles": [
-    "Courses/Integral.md",
-    "Courses/Problems - Integration.md",
-    "Courses/Problems - Trig.md",
-    "Courses/Trigonometry.md",
     "Courses/Calculus/Calculus.canvas",
-    "Courses/Fundamental Theorem of Calculus.md",
-    "Courses/Derivatives.md",
-    "Concepts/Sequences.md",
-    "Concepts/Quantum mechanics.md",
+    "Courses/Calculus/CheatSheets/Calculus_Cheat_Sheet_All.pdf",
+    "Courses/Trigonometry.md",
+    "Concepts/Calculus/Integrations.md",
+    "Assets/demo-adding-up-sums.gif",
+    "Concepts/Infinite Sums.md",
+    "Docs/Logarithmic.pdf",
     "Concepts/Properties Of Sequences.md",
-    "Concepts/Newton's laws of motion.md",
-    "Concepts/Mia's Soccer.md",
-    "Concepts/Maxwell Equations.md",
-    "Concepts/Laws of Thermodynamics.md",
+    "Riemann Sum.md",
+    "Concepts/Sequences.md",
+    "Concepts/Physics/Thermodynamics.md",
+    "Concepts/Physics/Quantum mechanics.md",
+    "Concepts/Physics/Newton's laws of motion.md",
+    "Concepts/Physics/Maxwell Equations.md",
+    "Concepts/Physics/Laws of Thermodynamics.md",
     "Concepts/Latex Cheatsheet.md",
     "Concepts/Kinematics.md",
-    "Concepts/Infinite Sums.md",
     "Concepts/Gauss's law.md",
-    "Concepts/Differential equations.md",
     "Concepts/Derivatives of Angles.md",
-    "Concepts/Calculus/Taylor Series.md",
+    "Concepts/Differential equations.md",
+    "Concepts/Calculus/Limits.md",
+    "Concepts/Calculus/F Prime.md",
     "Concepts/Calculus/Sum Rule.md",
-    "Concepts/Calculus/Constant Rule.md",
-    "Concepts/Calculus/Chain Rule.md",
-    "Concepts/Calculus/7 Rules of Differentiation.md",
-    "Riemann Sum.md",
-    "Life Goals.md",
+    "Concepts/Calculus/Second Derivatives.md",
+    "Concepts/Calculus/Second Derivative Test.md",
+    "Concepts/Calculus/Taylor Series.md",
+    "Concepts/Calculus/Logarithmic.md",
+    "Concepts/Calculus/Power Rule.md",
+    "Concepts/Calculus/Product rule.md",
     "Assets/1..png",
     "Assets/Screenshot 2024-03-22 at 3.04.52 AM.png",
     "Assets/Optimization Steps.png",
@@ -213,10 +223,8 @@
     "Assets/2..png",
     "Assets/IMG_0009.jpg",
     "Assets/IMG_0008.jpg",
-    "Courses/Calculus/CheatSheets/Calculus_Cheat_Sheet_All.pdf",
     "Assets/Screenshot 2024-03-26 at 6.01.00 AM.png",
     "Courses/DSA",
-    "Assets/IMG_0010.jpg",
     "test.py",
     "Courses/Calculus/Sections",
     "Docs/latex-example.pdf",
@@ -224,7 +232,6 @@
     "Courses/Calculus/CheatSheets/Common_Derivatives_Integrals.pdf",
     "Courses/Calculus/CheatSheets/Trig_Cheat_Sheet.pdf",
     "Courses/Calculus/6.3 Integrals - Volumes of Solids of Revolution",
-    "Courses/Calculus/3.11 Derivatives - Related Rates",
     "Untitled 1.canvas",
     "Overview.canvas"
   ]

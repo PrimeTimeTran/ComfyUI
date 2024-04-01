@@ -1,10 +1,9 @@
 ---
 tags:
   - calculus
+  - series-sequences
 ---
-
 # Sequences
-
 - **Set of terms**
 - Where $n$ is a positive integer
 - $1$ is the assumed initial value for $n$ if it isn't given.
@@ -124,7 +123,8 @@ When the limit exists we say the sum converges
 ## [[Divergence]]
 Otherwise the sum is said to diverge
 
-[[Properties Of Sequences]]
+## [[Properties Of Sequences]]
+
 
 ## Geometric Sum
 

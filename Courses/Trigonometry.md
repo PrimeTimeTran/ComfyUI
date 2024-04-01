@@ -1,12 +1,16 @@
 1. The six trigometric functions:
 	- Sine, Cosine, Tangent, Cotangent, Secant, Cosecant
-	- sin, cos, tan, cot, sec, csc
+		- Abbreviated: 
+			- sin, cos, tan, cot, sec, csc
 	- SOH, CAH, TOA
-	- Opposite/Hypotenuse, Adjacent/Hypotenuse, Opposite/Adjacent
-	  
+		- Sine: Opposite/Hypotenuse
+		- Cosine: Adjacent/Hypotenuse
+		- Tangent: Opposite/Adjacent
 	- Reciprocals
-	- CSC: Hyp/Opp, Sec: Hyp/Adj,  
-	  
+		- Sine -> Cosecant: Hyp/Opp
+		- Cosine -> Secant: Hyp/Adj 
+		- Tangent -> Cotangent: Adjacent/Opposite
+		  
 	- Trig functions are properties of angles, not triangles
 	- Trig functions are unitless.
 	- Written and read as sin $\theta$ not sin $(\theta)$

@@ -1,6 +1,7 @@
 ---
 tags:
   - calculus
+  - integrals
 ---
 # Formula 
 
