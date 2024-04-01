@@ -1,12 +1,12 @@
 ---
 tags:
   - calculus
+  - limits
 ---
-As a hive drops from a tree how can we determine it's velocity?
-- Define moment in time(x) that we want the velocity.
-- Find slope of the tangent line(m).
-Find out what happens as x approach a value.
-$$\lim_{x \to 0} $$
+"The limit as x approaches 0, of $x^2$ is"
+$$\lim_{x \to 0} x^2$$
+
+
 Help us understand the value of a function which might be non existent
 Does not exist(D.N.E.)
 

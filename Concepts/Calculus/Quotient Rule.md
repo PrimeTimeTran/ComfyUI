@@ -1,6 +1,7 @@
 ---
 tags:
   - calculus
+  - derivatives
 ---
 Used to find the derivative of fractions.
 

@@ -4,14 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "093d6a7175c7b759",
+        "id": "c5dcd7bfb8d74172",
         "type": "tabs",
         "children": [
           {
-            "id": "a845ea472a5cd6e2",
+            "id": "8f4ad9a650bd672f",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "pdf",
+              "state": {
+                "file": "Docs/Logarithmic.pdf"
+              }
+            }
+          },
+          {
+            "id": "2ac451b3a574d598",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Courses/Problems - Integration.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bc4c3985862c6535",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
               "state": {}
             }
           }
@@ -44,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "final",
+                "query": "tag:#calculus",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 208.5
+    "width": 249.5
   },
   "right": {
     "id": "a25c65a9be484658",
@@ -81,6 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Docs/Logarithmic.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Docs/Logarithmic.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +143,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Docs/Logarithmic.pdf"
+              }
             }
           },
           {
@@ -149,47 +176,48 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "a845ea472a5cd6e2",
+  "active": "8f4ad9a650bd672f",
   "lastOpenFiles": [
-    "Courses/Calculus/Sections/4.8.1 Derivatives - Optimization 1.md",
-    "Courses/Calculus/Calculus.canvas",
-    "Courses/Calculus/CheatSheets/Calculus_Cheat_Sheet_All.pdf",
-    "Courses/Calculus/Sections/2.5 Limits - Computing Limits - Practice.md",
-    "Courses/Derivatives.md",
-    "Courses/Cheat sheets.md",
+    "Courses/Integral.md",
+    "Courses/Problems - Integration.md",
+    "Courses/Problems - Trig.md",
     "Courses/Trigonometry.md",
-    "Screenshot 2024-03-26 at 6.01.00 AM.png",
-    "Courses/Calculus/Sections/2.5 Limits - Computing Limits - Assignment.md",
-    "Courses/Calculus/Sections/4.8 Derivatives - Optimization.md",
-    "Courses/Calculus/Sections/4.6 Derivatives - The Shape Of A Graph, Part II.md",
-    "Courses/Calculus/Sections/4.7 Derivatives - The Mean Value Theorem.md",
-    "Concepts/Calculus/Second Derivatives.md",
-    "JSO.md",
-    "Courses/Calculus/Sections/4.14 Derivatives - Business Applications.md",
+    "Courses/Calculus/Calculus.canvas",
+    "Courses/Fundamental Theorem of Calculus.md",
+    "Courses/Derivatives.md",
+    "Concepts/Sequences.md",
+    "Concepts/Quantum mechanics.md",
+    "Concepts/Properties Of Sequences.md",
+    "Concepts/Newton's laws of motion.md",
+    "Concepts/Mia's Soccer.md",
+    "Concepts/Maxwell Equations.md",
+    "Concepts/Laws of Thermodynamics.md",
+    "Concepts/Latex Cheatsheet.md",
+    "Concepts/Kinematics.md",
+    "Concepts/Infinite Sums.md",
+    "Concepts/Gauss's law.md",
+    "Concepts/Differential equations.md",
+    "Concepts/Derivatives of Angles.md",
+    "Concepts/Calculus/Taylor Series.md",
+    "Concepts/Calculus/Sum Rule.md",
+    "Concepts/Calculus/Constant Rule.md",
+    "Concepts/Calculus/Chain Rule.md",
     "Concepts/Calculus/7 Rules of Differentiation.md",
-    "Optimization Steps.png",
-    "Courses/DSA/Trie.md",
-    "Courses/DSA/Tree.md",
-    "Courses/DSA/Stack.md",
-    "Courses/DSA/Matrix.md",
-    "Courses/DSA/Queue.md",
-    "Courses/DSA/Linked List.md",
-    "Courses/DSA/Heap.md",
-    "Courses/DSA/HashSet.md",
-    "Courses/DSA/HashMap.md",
-    "Courses/DSA/Graph.md",
-    "Courses/DSA/Array.md",
-    "Courses/Analytically.md",
+    "Riemann Sum.md",
+    "Life Goals.md",
+    "Assets/1..png",
+    "Assets/Screenshot 2024-03-22 at 3.04.52 AM.png",
+    "Assets/Optimization Steps.png",
+    "Assets/Functions - Piecewise, Mostly continuous, Continuous.png",
+    "Assets/IMG_0011.jpg",
+    "Assets/2..png",
+    "Assets/IMG_0009.jpg",
+    "Assets/IMG_0008.jpg",
+    "Courses/Calculus/CheatSheets/Calculus_Cheat_Sheet_All.pdf",
+    "Assets/Screenshot 2024-03-26 at 6.01.00 AM.png",
     "Courses/DSA",
-    "IMG_0011.jpg",
-    "IMG_0010.jpg",
-    "IMG_0009.jpg",
-    "IMG_0008.jpg",
-    "Functions - Piecewise, Mostly continuous, Continuous.png",
+    "Assets/IMG_0010.jpg",
     "test.py",
-    "2..png",
-    "1..png",
-    "Pasted image 20240322054630.png",
     "Courses/Calculus/Sections",
     "Docs/latex-example.pdf",
     "Courses/Obsidian",

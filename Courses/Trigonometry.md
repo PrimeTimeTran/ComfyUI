@@ -5,7 +5,7 @@
 	- Opposite/Hypotenuse, Adjacent/Hypotenuse, Opposite/Adjacent
 	  
 	- Reciprocals
-	- CSC: Hyp/Opp, Sec: Hyp/Adj, Cot: AdjOpp
+	- CSC: Hyp/Opp, Sec: Hyp/Adj,  
 	  
 	- Trig functions are properties of angles, not triangles
 	- Trig functions are unitless.
