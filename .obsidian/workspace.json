@@ -4,41 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "5710b7329b7d554c",
+        "id": "7ea5128c542bb4a6",
         "type": "tabs",
         "children": [
           {
-            "id": "e8f681cf317eb2a8",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Courses/Calculus/Calculus.canvas",
-                "viewState": {
-                  "x": 378.6507800696073,
-                  "y": 1037.2212826511459,
-                  "zoom": -0.1576395670572917
-                }
-              }
-            }
-          },
-          {
-            "id": "9a81b1b8163b0549",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Courses/Calculus/CheatSheets/Calculus_Cheat_Sheet_All.pdf"
-              }
-            }
-          },
-          {
-            "id": "0832c9cd7fc9c663",
+            "id": "67b8ce95eab6b9e9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Courses/Trigonometry.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8890504c9145e4f8",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "a175dafd42a1be6f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OutPatient - Treatment Today.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -112,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Courses/Trigonometry.md",
+                "file": "OutPatient - Treatment Today.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Courses/Trigonometry.md",
+                "file": "OutPatient - Treatment Today.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Courses/Trigonometry.md"
+                "file": "OutPatient - Treatment Today.md"
               }
             }
           },
@@ -184,13 +180,24 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "0832c9cd7fc9c663",
+  "active": "a175dafd42a1be6f",
   "lastOpenFiles": [
-    "Courses/Calculus/Calculus.canvas",
-    "Courses/Calculus/CheatSheets/Calculus_Cheat_Sheet_All.pdf",
+    "OutPatient - Treatment Today.md",
     "Courses/Trigonometry.md",
+    "Courses/Problems - Trig.md",
+    "Assets/Pasted image 20240307124704.png",
+    "Assets/Pasted image 20240307125643.png",
+    "Assets/Pasted image 20240322054630.png",
+    "Assets/Pasted image 20240310194304.png",
+    "Assets/Pasted image 20240310194102.png",
+    "Assets/Pasted image 20240310193943.png",
+    "Assets/Pasted image 20240310193821.png",
+    "Assets/Pasted image 20240310193740.png",
+    "Assets/Pasted image 20240310193614.png",
+    "Courses/Calculus/CheatSheets/Calculus_Cheat_Sheet_All.pdf",
+    "Courses/Calculus/Calculus.canvas",
+    "Assets/Excalidraw/Pasted Image 20240310005205_246.png",
     "Concepts/Calculus/Integrations.md",
-    "Assets/demo-adding-up-sums.gif",
     "Concepts/Infinite Sums.md",
     "Docs/Logarithmic.pdf",
     "Concepts/Properties Of Sequences.md",
@@ -214,16 +221,6 @@
     "Concepts/Calculus/Taylor Series.md",
     "Concepts/Calculus/Logarithmic.md",
     "Concepts/Calculus/Power Rule.md",
-    "Concepts/Calculus/Product rule.md",
-    "Assets/1..png",
-    "Assets/Screenshot 2024-03-22 at 3.04.52 AM.png",
-    "Assets/Optimization Steps.png",
-    "Assets/Functions - Piecewise, Mostly continuous, Continuous.png",
-    "Assets/IMG_0011.jpg",
-    "Assets/2..png",
-    "Assets/IMG_0009.jpg",
-    "Assets/IMG_0008.jpg",
-    "Assets/Screenshot 2024-03-26 at 6.01.00 AM.png",
     "Courses/DSA",
     "test.py",
     "Courses/Calculus/Sections",
