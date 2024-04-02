@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/Trigonometry.md",
+                "file": "Vectors.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,28 +21,34 @@
             }
           },
           {
-            "id": "8890504c9145e4f8",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "a175dafd42a1be6f",
+            "id": "951a93f1448d0609",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OutPatient - Treatment Today.md",
+                "file": "Riemann Sum.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
+          },
+          {
+            "id": "b4c0afc29e43d37c",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Courses/Calculus/Calculus.canvas",
+                "viewState": {
+                  "x": -423.99034885127503,
+                  "y": 1258.7355413342377,
+                  "zoom": -1.6137267589569095
+                }
+              }
+            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -92,7 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 373.5
+    "width": 275.5
   },
   "right": {
     "id": "a25c65a9be484658",
@@ -108,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OutPatient - Treatment Today.md",
+                "file": "Vectors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OutPatient - Treatment Today.md",
+                "file": "Vectors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OutPatient - Treatment Today.md"
+                "file": "Vectors.md"
               }
             }
           },
@@ -180,9 +186,20 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "a175dafd42a1be6f",
+  "active": "67b8ce95eab6b9e9",
   "lastOpenFiles": [
+    "Screenshot 2024-04-02 at 5.08.24 PM.png",
+    "Screenshot 2024-04-02 at 5.05.09 PM.png",
+    "Screenshot 2024-04-02 at 5.01.44 PM.png",
+    "Courses/Integral.md",
+    "Vectors.md",
+    "Courses/Calculus/Calculus.canvas",
+    "Riemann Sum.md",
+    "Courses/Problems - Integration.md",
     "OutPatient - Treatment Today.md",
+    "Life Goals.md",
+    "JSO.md",
+    "Excalidraw Config.md",
     "Courses/Trigonometry.md",
     "Courses/Problems - Trig.md",
     "Assets/Pasted image 20240307124704.png",
@@ -193,15 +210,11 @@
     "Assets/Pasted image 20240310193943.png",
     "Assets/Pasted image 20240310193821.png",
     "Assets/Pasted image 20240310193740.png",
-    "Assets/Pasted image 20240310193614.png",
     "Courses/Calculus/CheatSheets/Calculus_Cheat_Sheet_All.pdf",
-    "Courses/Calculus/Calculus.canvas",
-    "Assets/Excalidraw/Pasted Image 20240310005205_246.png",
     "Concepts/Calculus/Integrations.md",
     "Concepts/Infinite Sums.md",
     "Docs/Logarithmic.pdf",
     "Concepts/Properties Of Sequences.md",
-    "Riemann Sum.md",
     "Concepts/Sequences.md",
     "Concepts/Physics/Thermodynamics.md",
     "Concepts/Physics/Quantum mechanics.md",
@@ -214,13 +227,6 @@
     "Concepts/Derivatives of Angles.md",
     "Concepts/Differential equations.md",
     "Concepts/Calculus/Limits.md",
-    "Concepts/Calculus/F Prime.md",
-    "Concepts/Calculus/Sum Rule.md",
-    "Concepts/Calculus/Second Derivatives.md",
-    "Concepts/Calculus/Second Derivative Test.md",
-    "Concepts/Calculus/Taylor Series.md",
-    "Concepts/Calculus/Logarithmic.md",
-    "Concepts/Calculus/Power Rule.md",
     "Courses/DSA",
     "test.py",
     "Courses/Calculus/Sections",

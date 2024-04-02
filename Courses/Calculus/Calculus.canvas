@@ -3,102 +3,20 @@
     {
       "id": "703b83e90e947a85",
       "type": "group",
-      "x": -2240,
+      "x": -4080,
       "y": -1320,
-      "width": 6760,
+      "width": 8600,
       "height": 4520,
       "label": "Calculus"
     },
     {
-      "id": "ba3dc4a9f4bbb478",
-      "type": "file",
-      "file": "Courses/Derivatives.md",
-      "x": -420,
-      "y": -20,
-      "width": 560,
-      "height": 400
-    },
-    {
-      "id": "ba3f0259081d3712",
-      "type": "text",
-      "text": "Answers\n- How to maximize sales?\n- Whats their acceleration?\n- How fast are they going at this moment in time?\n- What are the dimensions of the fence I should use to maximize the area?\n- How much water filled my container between 20mins & 100mins?",
-      "x": -100,
-      "y": -500,
-      "width": 520,
-      "height": 320
-    },
-    {
-      "id": "0cc4a364fbcf581a",
-      "type": "text",
-      "text": "Find derivative or **differentiate**:\n$$\\frac {d}{dx} [x^3] = 3x^{2}$$\nFind integral/antiderivative or **integrate**:\n$$\n\\int 3x^2 \\, dx  = \\frac {3x^3}{3} = x^3+c\n$$",
-      "x": -80,
-      "y": 685,
-      "width": 480,
-      "height": 220
-    },
-    {
-      "id": "c41f1445d4e31438",
-      "type": "text",
-      "text": "f''(x)\n2nd Derivative is about concavity.\nHelps us determine if we're concave up or concave down.\n\n\nf'' > 0 == concave up\n\nf'' < 0 == concave down\n\n\nAlso a measure of how quickly the rate of change is changing\n\n\n\n",
-      "x": -121,
-      "y": 1880,
-      "width": 591,
-      "height": 380
-    },
-    {
-      "id": "f791d067ec03501c",
-      "type": "file",
-      "file": "Riemann Sum.md",
-      "x": 760,
-      "y": 1560,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "id": "e0ac7b9b916be355",
-      "type": "text",
-      "text": "It's going to take a lot of\nwork but it's going to provide a lot of returns.",
-      "shape": "oval",
-      "x": -60,
-      "y": -640,
-      "width": 440,
-      "height": 100
-    },
-    {
-      "id": "8712702e7b3faf4a",
-      "type": "file",
-      "file": "Courses/Integral.md",
-      "x": 180,
-      "y": -20,
-      "width": 580,
-      "height": 400
-    },
-    {
-      "id": "57b3facb808308fa",
-      "type": "file",
-      "file": "Concepts/Calculus/7 Rules of Differentiation.md",
-      "x": -400,
-      "y": 1025,
-      "width": 560,
-      "height": 440
-    },
-    {
-      "id": "084135ae53cfcdb8",
-      "type": "text",
-      "text": "Optimization Solving Techniques\n\n1) Setup Optimization(Max or Min)\n2) Setup Constraint\n3) Solve for a variable in one function\n4) Plug in solved variable/function into counterpart function\n5) Simplify\n6) Find derivative",
-      "x": 880,
-      "y": -180,
-      "width": 980,
-      "height": 370
-    },
-    {
-      "id": "d5891454c164a3fc",
-      "type": "file",
-      "file": "Concepts/Calculus/Integrations.md",
-      "x": 200,
-      "y": 1025,
-      "width": 580,
-      "height": 440
+      "id": "cce1af3ea7bd93d3",
+      "x": -1880,
+      "y": 940,
+      "width": 1280,
+      "height": 1200,
+      "type": "group",
+      "label": "Optimization"
     },
     {
       "id": "48e712896be5db36",
@@ -110,84 +28,151 @@
       "height": 400
     },
     {
-      "id": "30bf7df85504a635",
-      "type": "link",
-      "url": "https://www.sfu.ca/math-coursenotes/Math%20157%20Course%20Notes/sec_Optimization.html",
-      "x": 1420,
-      "y": 320,
-      "width": 660,
-      "height": 1331
-    },
-    {
-      "id": "0479ec236b6c8957",
-      "type": "file",
-      "file": "Assets/Optimization Steps.png",
-      "x": 880,
-      "y": 265,
-      "width": 399,
-      "height": 109
-    },
-    {
-      "id": "696b917547acf24b",
+      "id": "ba3f0259081d3712",
       "type": "text",
-      "text": "Limits help evaluate a function",
-      "x": -1380,
-      "y": -39,
-      "width": 395,
-      "height": 110
+      "text": "Answers\n- How to maximize sales?\n- Whats their acceleration?\n- How fast are they going at this moment in time?\n- What are the dimensions of the fence I should use to maximize the area?\n- How much water filled my container between 20mins & 100mins?",
+      "x": -442,
+      "y": -660,
+      "width": 520,
+      "height": 320
+    },
+    {
+      "id": "e0ac7b9b916be355",
+      "type": "text",
+      "text": "It's going to take a lot of\nwork but it's going to provide a lot of returns.",
+      "shape": "oval",
+      "x": -402,
+      "y": -800,
+      "width": 440,
+      "height": 100
+    },
+    {
+      "id": "d43142d65688e360",
+      "type": "file",
+      "file": "Courses/Trigonometry.md",
+      "x": -3160,
+      "y": -426,
+      "width": 740,
+      "height": 1760
     },
     {
       "id": "a3c8dcb1bc84993e",
       "type": "text",
       "text": "Derivatives are rates of change at a point",
-      "x": -1380,
-      "y": 109,
-      "width": 395,
-      "height": 95
-    },
-    {
-      "id": "470a990931c9b7b3",
-      "type": "text",
-      "text": "Critical Points are where derivative = 0",
-      "x": -1385,
-      "y": 1456,
-      "width": 380,
-      "height": 50,
-      "color": "3"
-    },
-    {
-      "id": "f4664684aa6ed763",
-      "type": "file",
-      "file": "Assets/Screenshot 2024-03-22 at 3.04.52 AM.png",
-      "x": -1385,
-      "y": 1136,
-      "width": 400,
-      "height": 253
+      "x": -370,
+      "y": -214,
+      "width": 417,
+      "height": 54,
+      "color": "4"
     },
     {
       "id": "ace87519492c521d",
       "type": "text",
       "text": "Integration calculates how much accumulates",
-      "x": -1380,
-      "y": 241,
+      "x": 915,
+      "y": -234,
+      "width": 442,
+      "height": 74,
+      "color": "4"
+    },
+    {
+      "id": "696b917547acf24b",
+      "type": "text",
+      "text": "Limits help evaluate a function",
+      "x": -1804,
+      "y": -555,
       "width": 395,
-      "height": 115
+      "height": 55,
+      "color": "4"
+    },
+    {
+      "id": "57b3facb808308fa",
+      "type": "file",
+      "file": "Concepts/Calculus/7 Rules of Differentiation.md",
+      "x": -442,
+      "y": 960,
+      "width": 560,
+      "height": 440
+    },
+    {
+      "id": "0cc4a364fbcf581a",
+      "type": "text",
+      "text": "Find derivative or **differentiate**:\n$$\\frac {d}{dx} [x^3] = 3x^{2}$$\nFind integral/antiderivative or **integrate**:\n$$\n\\int 3x^2 \\, dx  = \\frac {3x^3}{3} = x^3+c\n$$",
+      "x": 240,
+      "y": 599,
+      "width": 480,
+      "height": 220
+    },
+    {
+      "id": "084135ae53cfcdb8",
+      "type": "text",
+      "text": "# Optimization\nOptimization Solving Techniques\n\n1) Setup primry & secondary equation\n2) Substitute secondary equation into our primary equation & simplify\n3) Take the first derivative of this simplified equation and set it equal to zero to find critical numbers.\n4) Verify critical numbers yield desired optimized result(i.e. max or min value)",
+      "x": -1845,
+      "y": 980,
+      "width": 980,
+      "height": 346
+    },
+    {
+      "id": "30bf7df85504a635",
+      "type": "link",
+      "url": "https://www.sfu.ca/math-coursenotes/Math%20157%20Course%20Notes/sec_Optimization.html",
+      "x": -1845,
+      "y": 1380,
+      "width": 1097,
+      "height": 665
+    },
+    {
+      "id": "470a990931c9b7b3",
+      "type": "text",
+      "text": "Critical Points are where derivative = 0",
+      "x": -1640,
+      "y": 659,
+      "width": 380,
+      "height": 50,
+      "color": "3"
+    },
+    {
+      "id": "d5891454c164a3fc",
+      "type": "file",
+      "file": "Concepts/Calculus/Integrations.md",
+      "x": 846,
+      "y": 933,
+      "width": 580,
+      "height": 440
     },
     {
       "id": "41a0d3b98cf0979b",
       "type": "text",
       "text": "Continuity\n1. f(a) is defined\n2. lim exists\n3. f(x) = f(a)\n\nCan draw the graph of the line without lifting pen from beginning to end of the domain",
-      "x": -1380,
-      "y": 454,
+      "x": -1916,
+      "y": -461,
       "width": 620,
       "height": 242
+    },
+    {
+      "id": "ba3dc4a9f4bbb478",
+      "type": "file",
+      "file": "Courses/Derivatives.md",
+      "x": -462,
+      "y": -112,
+      "width": 560,
+      "height": 400
+    },
+    {
+      "id": "8712702e7b3faf4a",
+      "type": "file",
+      "file": "Courses/Integral.md",
+      "x": 846,
+      "y": -112,
+      "width": 580,
+      "height": 400
     },
     {
       "id": "97c3a274ca1f9b71",
       "type": "text",
       "text": "Hierarchy of functions\n1. Continuous\n2. Mostly continuous\n3. Piecewise Functions",
-      "x": -1380,
-      "y": 705,
+      "x": -1911,
+      "y": -187,
       "width": 440,
       "height": 180
     },
@@ -195,19 +180,37 @@
       "id": "600a536d42a9ceb6",
       "type": "file",
       "file": "Assets/Functions - Piecewise, Mostly continuous, Continuous.png",
-      "x": -1380,
-      "y": 940,
+      "x": -1911,
+      "y": 48,
       "width": 400,
       "height": 102
     },
     {
-      "id": "d43142d65688e360",
+      "id": "f4664684aa6ed763",
       "type": "file",
-      "file": "Courses/Trigonometry.md",
-      "x": -2160,
-      "y": -44,
-      "width": 740,
-      "height": 1760
+      "file": "Assets/Screenshot 2024-03-22 at 3.04.52 AM.png",
+      "x": -1916,
+      "y": 244,
+      "width": 400,
+      "height": 253
+    },
+    {
+      "id": "f791d067ec03501c",
+      "type": "file",
+      "file": "Riemann Sum.md",
+      "x": 1480,
+      "y": 926,
+      "width": 640,
+      "height": 800
+    },
+    {
+      "id": "c41f1445d4e31438",
+      "type": "text",
+      "text": "f''(x)\n2nd Derivative is about concavity.\nHelps us determine if we're concave up or concave down.\n\n\nf'' > 0 == concave up\n\nf'' < 0 == concave down\n\n\nAlso a measure of how quickly the rate of change is changing\n\n\n\n",
+      "x": -442,
+      "y": 1440,
+      "width": 591,
+      "height": 380
     }
   ],
   "edges": [
@@ -216,14 +219,16 @@
       "fromNode": "57b3facb808308fa",
       "fromSide": "top",
       "toNode": "0cc4a364fbcf581a",
-      "toSide": "bottom"
+      "toSide": "left",
+      "fromEnd": "arrow"
     },
     {
       "id": "4b9236545b4703c5",
       "fromNode": "d5891454c164a3fc",
       "fromSide": "top",
       "toNode": "0cc4a364fbcf581a",
-      "toSide": "bottom"
+      "toSide": "right",
+      "fromEnd": "arrow"
     },
     {
       "id": "7046dfac53c20645",
@@ -237,20 +242,6 @@
       "fromNode": "0cc4a364fbcf581a",
       "fromSide": "top",
       "toNode": "8712702e7b3faf4a",
-      "toSide": "bottom"
-    },
-    {
-      "id": "1051618145a58bc1",
-      "fromNode": "ba3dc4a9f4bbb478",
-      "fromSide": "top",
-      "toNode": "ba3f0259081d3712",
-      "toSide": "bottom"
-    },
-    {
-      "id": "7d794885a3533f0b",
-      "fromNode": "8712702e7b3faf4a",
-      "fromSide": "top",
-      "toNode": "ba3f0259081d3712",
       "toSide": "bottom"
     }
   ]
