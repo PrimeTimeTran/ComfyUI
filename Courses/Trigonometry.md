@@ -73,3 +73,11 @@ To solve for something bigger than 360
 - arctan
 - arcsine
 - arccosine
+
+
+## Law of Cosines
+- Useful for triangles with no right triangle(90º)
+- Obtuse: $c^2 > a^2 + b^2$
+- Acute: $c^2 < a^2 + b^2$
+  
+![[Screenshot 2024-04-03 at 4.39.30 PM.png]]

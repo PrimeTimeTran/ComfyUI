@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JSO.md",
+                "file": "Courses/Trigonometry.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JSO.md",
+                "file": "Courses/Trigonometry.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JSO.md",
+                "file": "Courses/Trigonometry.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JSO.md"
+                "file": "Courses/Trigonometry.md"
               }
             }
           },
@@ -188,6 +188,8 @@
   },
   "active": "3ed45e29e24ee701",
   "lastOpenFiles": [
+    "Screenshot 2024-04-03 at 4.39.30 PM.png",
+    "JSO.md",
     "Assets/Screenshot 2024-04-03 at 11.26.15 AM.png",
     "Assets/Screenshot 2024-04-03 at 11.25.37 AM.png",
     "Assets/Screenshot 2024-04-03 at 11.20.25 AM.png",
@@ -196,7 +198,6 @@
     "Assets/Screenshot 2024-04-02 at 5.01.44 PM.png",
     "Big O.md",
     "Courses/Trigonometry.md",
-    "JSO.md",
     "Flutter.md",
     "Screenshot 2024-04-03 at 11.26.15 AM.png",
     "Screenshot 2024-04-03 at 11.25.37 AM.png",
@@ -208,7 +209,6 @@
     "Riemann Sum.md",
     "Vectors.md",
     "Screenshot 2024-04-02 at 5.08.24 PM.png",
-    "Screenshot 2024-04-02 at 5.05.09 PM.png",
     "Courses/Integral.md",
     "Courses/Problems - Integration.md",
     "OutPatient - Treatment Today.md",
