@@ -6,7 +6,6 @@
       {
         "id": "f1b5d7f340671d8e",
         "type": "tabs",
-        "dimension": 39.58333333333333,
         "children": [
           {
             "id": "3ed45e29e24ee701",
@@ -14,7 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Flutter.md",
+                "file": "JSO.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8a3ca4d8604fa154",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Big O.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -24,12 +36,11 @@
         ]
       },
       {
-        "id": "372cc63bfb648694",
+        "id": "2e72c582ed0f7948",
         "type": "tabs",
-        "dimension": 60.416666666666664,
         "children": [
           {
-            "id": "4e042a67580ed901",
+            "id": "87ad429b9fa645b9",
             "type": "leaf",
             "state": {
               "type": "mindmap",
@@ -103,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Flutter.md",
+                "file": "JSO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Flutter.md",
+                "file": "JSO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Flutter.md"
+                "file": "JSO.md"
               }
             }
           },
@@ -177,28 +188,33 @@
   },
   "active": "3ed45e29e24ee701",
   "lastOpenFiles": [
+    "Assets/Screenshot 2024-04-03 at 11.26.15 AM.png",
+    "Assets/Screenshot 2024-04-03 at 11.25.37 AM.png",
+    "Assets/Screenshot 2024-04-03 at 11.20.25 AM.png",
+    "Assets/Screenshot 2024-04-02 at 5.08.24 PM.png",
+    "Assets/Screenshot 2024-04-02 at 5.05.09 PM.png",
+    "Assets/Screenshot 2024-04-02 at 5.01.44 PM.png",
+    "Big O.md",
+    "Courses/Trigonometry.md",
+    "JSO.md",
     "Flutter.md",
+    "Screenshot 2024-04-03 at 11.26.15 AM.png",
+    "Screenshot 2024-04-03 at 11.25.37 AM.png",
+    "Screenshot 2024-04-03 at 11.20.25 AM.png",
+    "DotNET.md",
+    ".NET.md",
+    "Dart.md",
     "Courses/Calculus/Calculus.canvas",
     "Riemann Sum.md",
-    "Courses/Trigonometry.md",
     "Vectors.md",
     "Screenshot 2024-04-02 at 5.08.24 PM.png",
     "Screenshot 2024-04-02 at 5.05.09 PM.png",
-    "Screenshot 2024-04-02 at 5.01.44 PM.png",
     "Courses/Integral.md",
     "Courses/Problems - Integration.md",
     "OutPatient - Treatment Today.md",
     "Life Goals.md",
-    "JSO.md",
     "Excalidraw Config.md",
     "Courses/Problems - Trig.md",
-    "Assets/Pasted image 20240307124704.png",
-    "Assets/Pasted image 20240307125643.png",
-    "Assets/Pasted image 20240322054630.png",
-    "Assets/Pasted image 20240310194304.png",
-    "Assets/Pasted image 20240310194102.png",
-    "Assets/Pasted image 20240310193943.png",
-    "Assets/Pasted image 20240310193821.png",
     "Courses/Calculus/CheatSheets/Calculus_Cheat_Sheet_All.pdf",
     "Concepts/Calculus/Integrations.md",
     "Concepts/Infinite Sums.md",
@@ -211,11 +227,6 @@
     "Concepts/Physics/Maxwell Equations.md",
     "Concepts/Physics/Laws of Thermodynamics.md",
     "Concepts/Latex Cheatsheet.md",
-    "Concepts/Kinematics.md",
-    "Concepts/Gauss's law.md",
-    "Concepts/Derivatives of Angles.md",
-    "Concepts/Differential equations.md",
-    "Concepts/Calculus/Limits.md",
     "Courses/DSA",
     "test.py",
     "Courses/Calculus/Sections",
