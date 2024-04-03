@@ -47,15 +47,6 @@
       "height": 100
     },
     {
-      "id": "d43142d65688e360",
-      "type": "file",
-      "file": "Courses/Trigonometry.md",
-      "x": -3160,
-      "y": -426,
-      "width": 740,
-      "height": 1760
-    },
-    {
       "id": "a3c8dcb1bc84993e",
       "type": "text",
       "text": "Derivatives are rates of change at a point",
@@ -211,6 +202,15 @@
       "y": 1440,
       "width": 591,
       "height": 380
+    },
+    {
+      "id": "d43142d65688e360",
+      "type": "file",
+      "file": "Courses/Trigonometry.md",
+      "x": -3480,
+      "y": -461,
+      "width": 740,
+      "height": 2701
     }
   ],
   "edges": [

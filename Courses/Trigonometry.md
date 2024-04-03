@@ -69,3 +69,7 @@ To solve for something bigger than 360
 
 
 
+## Convert from ratio to degree
+- arctan
+- arcsine
+- arccosine
