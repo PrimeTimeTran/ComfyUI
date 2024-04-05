@@ -1,6 +1,5 @@
 ---
-tags:
-  - networking
+tags: []
 ---
 ## Network Devices
 Take notes of [this lecture](https://www.youtube.com/watch?v=qiQR5rTSshw&ab_channel=freeCodeCamp.org). Maybe it'll help you earn a [CompTIA Network+](https://www.comptia.org/certifications/network) credential

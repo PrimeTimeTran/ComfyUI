@@ -1,6 +1,5 @@
 ---
-tags:
-  - networking
+tags: []
 ---
 ## Network Access Services
 ### Network interface controller

@@ -1,6 +1,5 @@
 ---
-tags:
-  - networking
+tags: []
 ---
 ## VPN
 - Encrypted tunnel

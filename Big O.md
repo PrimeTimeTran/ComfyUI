@@ -1,7 +1,5 @@
 ---
 tags:
-  - cs
-  - big-o
 ---
 
 # Big O
@@ -47,15 +45,12 @@ Identifying O(n log n) complexity often involves analyzing the structure of the 
 
 Identifying O(n2) complexity often involves analyzing the structure of the algorithm, the number of iterations, and how they scale with the input size. It's important to note that O(n2) represents an upper bound on the algorithm's complexity, and the actual performance may vary depending on factors like implementation details and input characteristics.
 
-
-
 ## Cheat Sheets
+
 ![[Screenshot 2024-04-03 at 11.25.37 AM.png]]
 
 ![[Screenshot 2024-04-03 at 11.26.15 AM.png]]
 
-
-
 ## Resources
+
 https://flexiple.com/algorithms/big-o-notation-cheat-sheet
- 

@@ -1,6 +1,5 @@
 ---
-tags:
-  - networking
+tags: []
 ---
 ## Security Devices
 

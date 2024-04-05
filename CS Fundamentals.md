@@ -1,0 +1,23 @@
+2.2 CS Fundamentals
+
+
+Making Decisions
+- Decision Trees
+	- Computers can only follow instructions
+
+Searching for Solutions
+- Brute force "can" prove but is sometimes impractical. 446 bridges in Pittsburg factorial cannot be computed
+
+Parrallelism
+- Solve problems **more quickly** by making progress on multiple different tasks at a time.
+- Bakery Example:
+	- Hiring an sous chef.
+	- Preheat oven while prepping instead of prepping preheating and waiting.
+- Pipelininig:
+	- Form of parallelism where tasks are solved faster by having multiple tasks simultaneously at various levels of completion.
+- "Faster"
+	- Latency:
+		- Time it takes to go from start to finish.
+	- Throughput:
+		- Amount of tasks that can complete during a given interval of time.
+

@@ -1,6 +1,5 @@
 ---
-tags:
-  - networking
+tags: []
 ---
 ## DHCP in the Network
 ### Static vs Dynamic IP Addressing

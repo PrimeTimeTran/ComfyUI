@@ -74,10 +74,33 @@ To solve for something bigger than 360
 - arcsine
 - arccosine
 
-
 ## Law of Cosines
-- Useful for triangles with no right triangle(90º)
-- Obtuse: $c^2 > a^2 + b^2$
-- Acute: $c^2 < a^2 + b^2$
-  
+- Need 2 side lengths
+- Find 3rd side length.
+- Find interior angles of non right triangles.
+- Formula is different
+	- Obtuse: $c^2 > a^2 + b^2$
+	- Acute: $c^2 < a^2 + b^2$
 ![[Screenshot 2024-04-03 at 4.39.30 PM.png]]
+- With 2 sides & angle find last side:
+- With 3 sides find angles:
+![[Screenshot 2024-04-04 at 1.16.24 PM.png | 500]]
+## Law of Sines
+- A triangle's side lengths are proportional to the sines of their opposite angles. We call this fact the **law of sines**.
+- Need 1 side length, 2 angles.
+- Side lengths are proportional to the sines of their opposite angles:
+  ![[Screenshot 2024-04-04 at 1.55.10 PM.png | 400]]
+## Ambiguous Cases
+
+- Acute vs obtuse.
+  ![[Screenshot 2024-04-04 at 2.41.34 PM.png|300]]
+- Unit circle where quadrant 2 & 1. Their sin's can match
+	- Quad 2: ![[Screenshot 2024-04-04 at 2.43.06 PM.png | 300]]
+	- Quad 1: ![[Screenshot 2024-04-04 at 2.43.40 PM.png | 300]]
+- Rules to check if triangle possible.
+  ![[Screenshot 2024-04-04 at 2.49.59 PM.png | 400]]
+
+## Graphed
+![[Screenshot 2024-04-04 at 3.15.46 PM.png | 500]]
+
+

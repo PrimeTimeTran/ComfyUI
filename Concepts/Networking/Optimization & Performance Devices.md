@@ -1,6 +1,5 @@
 ---
-tags:
-  - networking
+tags: []
 ---
 ## Optimization & Performance devices
 ### Load Balancer

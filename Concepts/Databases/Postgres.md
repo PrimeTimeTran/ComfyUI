@@ -1,8 +1,7 @@
 # Tools
+
 - [PostgresApp](https://postgresapp.com/)
 - [PGAdmin](https://www.pgadmin.org/download/)
-
-
 
 Install
 cd /usr/local/bin
@@ -10,7 +9,7 @@ cd /usr/local/bin
 Configure data path
 initdb -D ~/pg
 
-Start PG 
+Start PG
 pg_ctl -D /Users/future/pg -l logfile start
 
 Create DB
@@ -32,5 +31,3 @@ View available commands
 
 Exit PG
 \q
-
-

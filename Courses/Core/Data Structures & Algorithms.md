@@ -1,3 +1,7 @@
+---
+tags:
+---
+
 ![[Common DS.png]]
 
 [[Array]]
@@ -11,4 +15,3 @@
 [[Trie]]
 [[HashMap]]
 [[HashSet]]
-

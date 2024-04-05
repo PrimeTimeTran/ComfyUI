@@ -1,5 +1,8 @@
-# .NET
+---
+tags:
+---
 
+# .NET
 
 ## CLI
 
@@ -8,7 +11,6 @@ List installed dotnet versions
 
 dotnet new --list
 List dotnet templates
-
 
 dotnet ef migrations add InitialCreate
 Create migration

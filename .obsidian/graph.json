@@ -1,44 +1,22 @@
 {
   "collapse-filter": false,
   "search": "",
-  "showTags": true,
+  "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
-  "showOrphans": true,
+  "showOrphans": false,
   "collapse-color-groups": false,
-  "colorGroups": [
-    {
-      "query": "tag:#calculus  ",
-      "color": {
-        "a": 1,
-        "rgb": 14048348
-      }
-    },
-    {
-      "query": "tag:#physics  ",
-      "color": {
-        "a": 1,
-        "rgb": 7001692
-      }
-    },
-    {
-      "query": "tag:#networking",
-      "color": {
-        "a": 1,
-        "rgb": 14942453
-      }
-    }
-  ],
+  "colorGroups": [],
   "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1.00000813802083,
-  "lineSizeMultiplier": 1,
+  "textFadeMultiplier": -0.6,
+  "nodeSizeMultiplier": 1.67391764322917,
+  "lineSizeMultiplier": 1.63583577473958,
   "collapse-forces": true,
   "centerStrength": 0.518713248970312,
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1.1742522916192668,
-  "close": true
+  "scale": 0.7189267048077849,
+  "close": false
 }
