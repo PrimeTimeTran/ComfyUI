@@ -1,17 +1,17 @@
 ---
 tags:
 ---
-
 # LC SQL 50
 
 - Select:
+	- 2
 - Basic Joins:
+	- 
 - Basic Aggregate Functions:
 - Sorting and Grouping:
 - Advanced Select and Joins:
 - Subqueries:
 - Advanced String Functions / Regex / Clause:
-
 ## Select
 
 ### 1757. Recyclabe and Low Fat Products
@@ -114,37 +114,52 @@ How to flatten our results into a few rows?
 
 ### 577. Employee Bonus
 
-- f
+- Include null values.
+- Include all of left table regardless of null values in right table.
 
   ```sql
-
+  	select name, bonus from employee left join bonus on bonus.empId = employee.empId where bonus.bonus < 1000 or bonus is null
   ```
 
 ### 1280. Students and Examinations
 
-- f
-
+- Multi table join.
+- Count number of records with aggregate `count`.
+- Group by student and subject because we want to know how many times each student took each subject's exam.
   ```sql
-
+		select s.student_id, s.student_name, sub.subject_name, count(e.subject_name) as attended_exams
+		from students s
+		join subjects sub left join examinations e
+		on e.student_id = s.student_id
+		and sub.subject_name = e.subject_name
+		group by s.student_id, sub.subject_name
+		order by student_id, subject_name
   ```
 
 ### 570. Managers with at Least 5 Direct Reports
 
-- f
-
+- Correlated subquery combined with aggregate `count` and filter `having`.
   ```sql
-
+  	select name from employee
+  	where id in
+  	(select managerId from Employee
+  	group by managerId
+  	having count(managerId)>=5)
   ```
 
 ### 1934. Confirmation Rate
 
-- f
-
+- Use conditional to assign values.
+- Use aggregates to make calculations.
   ```sql
-
+  	select s.user_id, round(avg(if(c.action = 'confirmed', 1, 0)), 2) as confirmation_rate
+  	from signups s
+  	left join confirmations c
+  	on s.user_id = c.user_id
+  	group by user_id
   ```
 
-# Basic Aggregate Functions
+## Basic Aggregate Functions
 
 ### 620. Not Boring Movies
 
@@ -210,7 +225,7 @@ How to flatten our results into a few rows?
 
   ```
 
-# Sorting & Grouping
+## Sorting & Grouping
 
 ### 2356. Number of Unique Subjects Taught By Each
 
