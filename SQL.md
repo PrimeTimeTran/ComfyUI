@@ -3,6 +3,21 @@ tags:
 ---
 ![[SQL Cheatsheet.jpeg | 700]]
 ## Queries
+
+- Select
+- Where
+	- Filter before grouping
+- Group by
+	- Create summary rows
+- Order by
+- Having
+	- Filter after grouping
+- Aggregates
+- Advanced Functions
+	- if 
+	- if null
+	- isnull
+	- case when
 ### Join
 
 #### On

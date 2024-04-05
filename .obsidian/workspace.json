@@ -19,7 +19,13 @@
                 "source": false
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "f0c01bf501af9a35",
+        "type": "tabs",
+        "children": [
           {
             "id": "c379f7eae6bc0561",
             "type": "leaf",
