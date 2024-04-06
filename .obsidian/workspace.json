@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LC SQL 50.md",
+                "file": "Courses/Trigonometry.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -89,8 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 275.5,
-    "collapsed": true
+    "width": 275.5
   },
   "right": {
     "id": "a25c65a9be484658",
@@ -106,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LC SQL 50.md",
+                "file": "Courses/Trigonometry.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LC SQL 50.md",
+                "file": "Courses/Trigonometry.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LC SQL 50.md"
+                "file": "Courses/Trigonometry.md"
               }
             }
           },
@@ -180,8 +179,11 @@
   },
   "active": "a91d63c5aa2af008",
   "lastOpenFiles": [
-    "SQL.md",
+    "Screenshot 2024-04-05 at 6.06.22 PM.png",
+    "Flutter.md",
+    "Courses/Trigonometry.md",
     "LC SQL 50.md",
+    "SQL.md",
     "SQL Cheatsheet.jpeg",
     "SQL Cheatsheet.webp",
     "Courses/Computer Science.md",
@@ -205,8 +207,6 @@
     "Concepts/Networking/Optimization & Performance Devices.md",
     "Concepts/Networking/Security Devices.md",
     "Concepts/Networking/OSI Model.md",
-    "Concepts/Networking/Network Devices.md",
-    "CS.md",
     "Assets/Screenshot 2024-04-03 at 4.39.30 PM.png",
     "Assets/Screenshot 2024-04-04 at 3.15.46 PM.png",
     "Assets/Screenshot 2024-04-04 at 2.49.59 PM.png",
