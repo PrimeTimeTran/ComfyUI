@@ -16,7 +16,7 @@ The derivative of any constant is alway's $0$.
 ## [[Sum Rule]]
 The derivative of the sum is the sum of the derivatives.
 $$(f(x) + g(x))' = f'(x) + g'(x)$$
-## [[Product Rule]]
+## [[Product rule]]
 The derivative factors multiplied is the sum of their derivatives.
 $$
 (f(x) \cdot g(x))' = f'(x) \cdot g(x) + f(x) \cdot g'(x)

@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "dce715a7908a4054",
+        "id": "20beacb2055c53f9",
         "type": "tabs",
         "children": [
           {
-            "id": "735ff3392f402bce",
+            "id": "b20e87c57da9010d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SQL/LC SQL 50.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL/LC SQL 50.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL/LC SQL 50.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "SQL/LC SQL 50.md"
-              }
+              "state": {}
             }
           },
           {
@@ -159,55 +150,55 @@
       "dbfolder:Create a new database table": false
     }
   },
-  "active": "93cbd1431b8f6fae",
+  "active": "b20e87c57da9010d",
   "lastOpenFiles": [
-    "SQL/2. Select.md",
-    "SQL/0. SQL Study.md",
-    "SQL/LC SQL 50.md",
-    "SQL/4. Aggregates.md",
-    "SQL/1. Overview.md",
-    "SQL/3. Joins.md",
-    "Big O.md",
-    "SQL",
-    "Database/Untitled database.md",
-    "Database",
-    "Electronic Components.md",
-    "Life Goals.md",
-    "Ohmz.md",
+    "Docs/latex-example.pdf",
+    "Docs/Logarithmic.pdf",
+    "Courses/Calculus/Sections/1. Calculus Study.md",
+    "Courses/Calculus/Sections/2.5 Limits - Computing Limits - Practice(Answers).md",
+    "Courses/Calculus/Sections/2.5 Limits - Computing Limits - Practice.md",
+    "Courses/Calculus/Sections/2.5 Limits - Computing Limits - Assignment.md",
+    "Courses/Calculus/Sections/6.6 Integrals - Work.md",
+    "Courses/Calculus/7 Rules of Differentiation.md",
+    "Courses/Calculus/Sections/6.1 Integrals - Average Function Value.md",
+    "Courses/Calculus/Sections/6.2 Integrals - Area Between Curves.md",
+    "Courses/Calculus/Sections/6.3 Integrals - Volumes of Solids of Revolution & Methods of Rings.md",
+    "Courses/Calculus/Sections/6.4 Integrals - Volumes of Solids of Revolution & Methods of Cylinders.md",
+    "Courses/Calculus/Sections/6.5 Integrals - More Volume.md",
+    "Courses/Calculus/Problems - Integration.md",
+    "Courses/Calculus/Fundamental Theorem of Calculus.md",
+    "Courses/Calculus/Derivatives.md",
+    "Courses/Computer Science.md",
+    "Courses/Calculus/Analytically.md",
+    "Vectors.md",
+    "Obsidian/Obsidian Cheatsheet.md",
+    "Obsidian",
+    "Personal/OutPatient - Treatment Today.md",
+    "DSA/Array.md",
+    "DSA/Graph.md",
+    "DSA/HashMap.md",
+    "DSA/HashSet.md",
+    "DSA/Linked List.md",
+    "DSA/Heap.md",
+    "Brilliant",
+    "Personal",
+    "Courses/Trigonometry",
+    "Frameworks/DOTNet",
+    "Frameworks/DotNET",
+    "Frameworks/Flutter/Dart",
+    "Frameworks/Dotnet",
+    "Frameworks/Flutter/Dotnet",
     "Assets/Screenshot 2024-04-05 at 6.06.22 PM.png",
     "Assets/SQL Cheatsheet.jpeg",
-    "Courses/Trigonometry.md",
-    "Electronics Engineering.md",
-    "Circuit Board.md",
-    "Courses/Prerequisites/PHY 2048C - General Physics 1.md",
-    "Electrical Power.md",
-    "Concepts/OOP/Object Oriented Programming.md",
-    "Courses/Computer Science.md",
     "Assets/Circuit Board Cheat Sheet.jpeg",
     "Assets/Ohms_law_wheel_WVOA.png",
-    "Electrical Engineering.md",
-    "coding_qual_input.txt",
-    "encoded.txt",
-    "input.txt",
-    "Flutter.md",
     "SQL Cheatsheet.webp",
-    "Concepts/Databases/Databases.md",
-    "Courses/Prerequisites/MAC 2312 - Calculus 2.md",
-    "DSA.md",
-    "Concepts/Networking/Networking.md",
-    "TurboshipTeaches/Lessons/0. Title.md",
-    "Dart.md",
     "Assets/Screenshot 2024-04-03 at 4.39.30 PM.png",
     "Assets/Screenshot 2024-04-04 at 3.15.46 PM.png",
     "Assets/Screenshot 2024-04-04 at 2.49.59 PM.png",
     "Assets/Screenshot 2024-04-04 at 2.43.40 PM.png",
     "Assets/Screenshot 2024-04-04 at 2.43.06 PM.png",
     "Courses/Calculus/Calculus.canvas",
-    "Courses/Calculus/CheatSheets/Calculus_Cheat_Sheet_All.pdf",
-    "Docs/Logarithmic.pdf",
-    "Courses/DSA",
-    "test.py",
-    "Courses/Calculus/Sections",
     "Untitled 1.canvas",
     "Overview.canvas"
   ]

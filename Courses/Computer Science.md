@@ -19,7 +19,7 @@ tags:
 	[[1. Overview]]
 	[[Postgres]]
 [[Data Structures & Algorithms]]
-	[[Big O]]
+	[[1.Big O]]
 [[Networking]]
 	[[Infosec]]
 [[Object Oriented Programming]]
