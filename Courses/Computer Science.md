@@ -16,7 +16,7 @@ tags:
 [[Electronics Engineering]]
 
 [[Databases]]
-	[[SQL]]
+	[[1. Overview]]
 	[[Postgres]]
 [[Data Structures & Algorithms]]
 	[[Big O]]
