@@ -2,7 +2,6 @@
 tags:
   - oop
 ---
-
 [[Encapsulation]]
 [[Inheritance]]
 [[Polymorphism]]
@@ -15,3 +14,9 @@ tags:
 [[Class Constructor]]
 [[Reusability]]
 [[Constructors]]
+
+
+
+## [[Dart]]
+## [[C]]
+

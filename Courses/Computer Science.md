@@ -3,12 +3,10 @@ tags:
   - calculus
 ---
 ### Courses
-
 - [[MAC 2311 - Calculus 1]]
 - [[MAC 2312 - Calculus 2]]
 - [[PHY 2048C - General Physics 1]]
 - [[PHY X049C - General Physics 2]]
-
 ### Major
 
 - [[DSA]]

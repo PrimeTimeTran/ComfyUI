@@ -21,3 +21,10 @@ Parrallelism
 	- Throughput:
 		- Amount of tasks that can complete during a given interval of time.
 
+Order & Search
+- Much faster to find items in sorted lists
+	- Binary search
+	- Sorted in useful way though, like title, not left word in the book.
+- Indexes:
+	- Store related info in a different sort
+	- 

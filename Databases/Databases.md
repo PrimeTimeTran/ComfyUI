@@ -11,3 +11,6 @@
 ## [[MongoDB]]
 ## [[SQLServer]]
 ## TSQL
+
+## [[Redis]]
+
