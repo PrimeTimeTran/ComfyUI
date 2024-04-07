@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Electronic Components.md",
+                "file": "SQL.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -89,7 +89,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 275.5
+    "width": 275.5,
+    "collapsed": true
   },
   "right": {
     "id": "a25c65a9be484658",
@@ -177,8 +178,11 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "93cbd1431b8f6fae",
+  "active": "1e3c8be763e04e7c",
   "lastOpenFiles": [
+    "SQL.md",
+    "LC SQL 50.md",
+    "Electronic Components.md",
     "Life Goals.md",
     "Ohmz.md",
     "Assets/Screenshot 2024-04-05 at 6.06.22 PM.png",
@@ -186,7 +190,6 @@
     "Courses/Trigonometry.md",
     "Electronics Engineering.md",
     "Circuit Board.md",
-    "Electronic Components.md",
     "Courses/Prerequisites/PHY 2048C - General Physics 1.md",
     "Electrical Power.md",
     "Concepts/OOP/Object Oriented Programming.md",
@@ -194,12 +197,10 @@
     "Assets/Circuit Board Cheat Sheet.jpeg",
     "Assets/Ohms_law_wheel_WVOA.png",
     "Electrical Engineering.md",
-    "SQL.md",
     "coding_qual_input.txt",
     "encoded.txt",
     "input.txt",
     "Flutter.md",
-    "LC SQL 50.md",
     "SQL Cheatsheet.webp",
     "Concepts/Databases/Databases.md",
     "Courses/Prerequisites/MAC 2312 - Calculus 2.md",

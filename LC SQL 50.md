@@ -5,15 +5,19 @@ tags:
 # LC SQL 50
 
 - Select:
-  - 1
+	- 2
 - Basic Joins:
-  - 1
+	- 2
 - Basic Aggregate Functions:
-  - 1
+	- 2
 - Sorting and Grouping:
+	- 1
 - Advanced Select and Joins:
+	- 
 - Subqueries:
+	- 
 - Advanced String Functions / Regex / Clause:
+	- 
 
 ## Select
 
@@ -161,7 +165,6 @@ How to flatten our results into a few rows?
   	on s.user_id = c.user_id
   	group by user_id
   ```
-
 ## Basic Aggregate Functions
 
 ### 620. Not Boring Movies

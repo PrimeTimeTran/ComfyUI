@@ -18,30 +18,77 @@ tags:
 	- if null
 	- isnull
 	- case when
+### Select
+- Return all with `*`.
+- Specify fields to return by naming.
+- Alias fields with `as`.
+- Remove duplicates with `distinct`.
+- Create fields with `as` and aggregates.
+### From
+- Identify which table we want to pull data from
+- Can alias from
+- Can select from multiple tables
 ### Join
-
+- Grab fields from any table.
+- Combine records of multiple tables.
+- Can join & join again:
+	- First join then left join
 #### On
-- Specify which fields to match with one another.
+- Specify field to match records of differing tables with.
 - If not used then SQL will map all records from right table to each record in left table.
 #### Inner
-- By default all joins are inner joins
+- Default type
+	- Returns records if there's a match in both tables.
 #### Left Join
-- Keep all values from left table regardless of match found in right table
+- Keep all records of left/first table regardless of missing companion record in right/second table.
+#### Right Join
+- Keep all records of right/second table regardless of missing companion record in left/first table.
+#### Outer Join
+- 
+### Where
+- Filter select results
+- Use `is` when searching for null specifically
+- Length can be used to check length of string
+- Comparison Operators
+	- =
+	- >
+	- <
+	- >=
+	- <=
+	- <>
+- Logical Operators
+	- And
+	- Or
+	- Not
+	- Between
+	- Exists
+	- Like
+	- ILike
+	- In
+- "Before" aggregation:
+	- Similar to `having` but acts before.
+### Group By
+- Create summary rows.
+- Return single values for each group of records.
+### Having
+- Filter/where clause of `group by`.
+- 
+### Aggregates
+- Count
+	- Must be used with `group by`.
+- Min
+- Max
+- Avg
+- Sum
+
+### Subqueries
 
 
+### Unions
 
 
-
-
-### Where vs Having
-- Both Filter
-- Where is before aggregate
-- Having is after aggregate group by has been applied
-
-### Flavors
-
+## Flavors
 [[Postgres]]
-
 ### Practice
 
 [[LC SQL 50]]
