@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "20beacb2055c53f9",
+        "id": "d510d5bdb13bdceb",
         "type": "tabs",
         "children": [
           {
-            "id": "b20e87c57da9010d",
+            "id": "f3387095096c9894",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Electrical/1. Electrical Engineering.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Electrical/1. Electrical Engineering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Electrical/1. Electrical Engineering.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Electrical/1. Electrical Engineering.md"
+              }
             }
           },
           {
@@ -150,8 +159,10 @@
       "dbfolder:Create a new database table": false
     }
   },
-  "active": "b20e87c57da9010d",
+  "active": "93cbd1431b8f6fae",
   "lastOpenFiles": [
+    "Courses/Computer Science.md",
+    "Electrical/1. Electrical Engineering.md",
     "Docs/latex-example.pdf",
     "Docs/Logarithmic.pdf",
     "Courses/Calculus/Sections/1. Calculus Study.md",
@@ -168,7 +179,6 @@
     "Courses/Calculus/Problems - Integration.md",
     "Courses/Calculus/Fundamental Theorem of Calculus.md",
     "Courses/Calculus/Derivatives.md",
-    "Courses/Computer Science.md",
     "Courses/Calculus/Analytically.md",
     "Vectors.md",
     "Obsidian/Obsidian Cheatsheet.md",
@@ -187,7 +197,6 @@
     "Frameworks/DotNET",
     "Frameworks/Flutter/Dart",
     "Frameworks/Dotnet",
-    "Frameworks/Flutter/Dotnet",
     "Assets/Screenshot 2024-04-05 at 6.06.22 PM.png",
     "Assets/SQL Cheatsheet.jpeg",
     "Assets/Circuit Board Cheat Sheet.jpeg",

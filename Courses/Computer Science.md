@@ -13,7 +13,7 @@ tags:
 
 - [[DSA]]
 ### Concepts
-[[Electronics Engineering]]
+[[1. Electrical Engineering|Electrical Engineering]]
 
 [[Databases]]
 	[[1. Overview]]
