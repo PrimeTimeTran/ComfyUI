@@ -13,9 +13,8 @@ tags:
 
 - [[DSA]]
 ### Concepts
-[[Frameworks]]
-	[[Flutter]]
-	[[DotNET]]
+[[Electronics Engineering]]
+
 [[Databases]]
 	[[SQL]]
 	[[Postgres]]
@@ -24,13 +23,14 @@ tags:
 [[Networking]]
 	[[Infosec]]
 [[Object Oriented Programming]]
+[[Frameworks]]
+	[[Flutter]]
+	[[DotNET]]
 ### Tooling
 [[Overview]]
 	[[Tmux]]
 	[[OhMyZsh]]
 	[[Vim Shortcuts]]
-
-
 ### Resources
 
 - [UF CS Degree Requirements](https://catalog.ufl.edu/UGRD/colleges-schools/UGENG/CPS_BSCS/)

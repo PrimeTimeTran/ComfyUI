@@ -10,9 +10,20 @@ The parts that give a circuit board life.
 	- Store & release electrical charge to even out flow of current
 - Inductors
 - Diodes
-	- Conduct electricity in one direction. Lights
+	- Signal
+	- LED:
+		- Specific for illumination
+	- Rectifier:
+	- Zener:
+		- Voltage regulation
+		- Provide voltage reference
+	- Function: 
+		- Allow current to flow in one direction but not the other(within specification/rating)
+		- Positive to negative
+		- A -> K
 - Transistors
-	- Amplify, switches,
+	- Amplify, switches
+
 ### Types
 
 - Active

@@ -112,7 +112,6 @@ To solve for something bigger than 360
 ![[Screenshot 2024-04-04 at 3.15.46 PM.png | 500]]
 
 ### Graphed Trig Functions
-
 ![[Screenshot 2024-04-05 at 6.06.22 PM.png]]
 - Reciprocals:
 	- $\sin(θ) = 0$
@@ -142,4 +141,3 @@ To solve for something bigger than 360
 		- $\cos(-θ) = \cos(θ)$
 	- $\tan(θ)$ is odd
 		- $\tan(-θ) = -\tan(θ)$
-	- 

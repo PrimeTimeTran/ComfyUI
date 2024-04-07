@@ -35,17 +35,18 @@ Key concepts of physics
     - Electric current and resistance
     - Magnetic fields and forces
     - Electromagnetic induction
-4. **Optics**: The study of light and its behavior.
+	- [[Electronics Engineering]]
+1. **Optics**: The study of light and its behavior.
     - Reflection and refraction
     - Ray optics and lens systems
     - Wave optics (interference, diffraction)
     - Polarization
-5. **Modern Physics**: This includes topics beyond classical physics.
+2. **Modern Physics**: This includes topics beyond classical physics.
     - Special relativity (time dilation, length contraction)
     - [[Quantum mechanics]] (particle-wave duality, uncertainty principle)
     - Atomic physics (structure of atoms, atomic spectra)
     - Nuclear physics (radioactivity, nuclear reactions)
-6. **Mathematical Methods**: A solid understanding of mathematical tools used in physics is crucial.
+3. **Mathematical Methods**: A solid understanding of mathematical tools used in physics is crucial.
     - Algebra and trigonometry
     - Calculus (differentiation, integration)
     - Vector calculus

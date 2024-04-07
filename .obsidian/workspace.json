@@ -4,32 +4,42 @@
     "type": "split",
     "children": [
       {
-        "id": "8f5a0d1603925da7",
+        "id": "d186b0db38ac6637",
         "type": "tabs",
         "children": [
           {
-            "id": "e93568d6e2828504",
+            "id": "1e3c8be763e04e7c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Electronics Engineering.md",
+                "file": "LC SQL 50.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "36e2271d9072f7ca",
+        "type": "tabs",
+        "children": [
           {
-            "id": "a85ac6d6072a4d90",
+            "id": "dde57143f42a4586",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Electronic Components.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -95,6 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "LC SQL 50.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,6 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "LC SQL 50.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +144,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "LC SQL 50.md"
+              }
             }
           },
           {
@@ -163,25 +177,30 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "a85ac6d6072a4d90",
+  "active": "93cbd1431b8f6fae",
   "lastOpenFiles": [
-    "Electronic Components.md",
-    "Electrical Power.md",
+    "Life Goals.md",
     "Ohmz.md",
+    "Assets/Screenshot 2024-04-05 at 6.06.22 PM.png",
+    "Assets/SQL Cheatsheet.jpeg",
+    "Courses/Trigonometry.md",
     "Electronics Engineering.md",
+    "Circuit Board.md",
+    "Electronic Components.md",
+    "Courses/Prerequisites/PHY 2048C - General Physics 1.md",
+    "Electrical Power.md",
+    "Concepts/OOP/Object Oriented Programming.md",
+    "Courses/Computer Science.md",
+    "Assets/Circuit Board Cheat Sheet.jpeg",
     "Assets/Ohms_law_wheel_WVOA.png",
     "Electrical Engineering.md",
     "SQL.md",
-    "Courses/Trigonometry.md",
     "coding_qual_input.txt",
     "encoded.txt",
     "input.txt",
-    "Screenshot 2024-04-05 at 6.06.22 PM.png",
     "Flutter.md",
     "LC SQL 50.md",
-    "SQL Cheatsheet.jpeg",
     "SQL Cheatsheet.webp",
-    "Courses/Computer Science.md",
     "Concepts/Databases/Databases.md",
     "Courses/Prerequisites/MAC 2312 - Calculus 2.md",
     "DSA.md",
@@ -194,16 +213,11 @@
     "JSO.md",
     "Concepts/Physics/Bosons.md",
     "Courses/Prerequisites/0. Prerequisites.md",
-    "Concepts/OOP/Object Oriented Programming.md",
-    "Concepts/Networking/DNS.md",
-    "Concepts/Networking/DHCP.md",
-    "Concepts/Networking/Network Accessing Services.md",
     "Assets/Screenshot 2024-04-03 at 4.39.30 PM.png",
     "Assets/Screenshot 2024-04-04 at 3.15.46 PM.png",
     "Assets/Screenshot 2024-04-04 at 2.49.59 PM.png",
     "Assets/Screenshot 2024-04-04 at 2.43.40 PM.png",
     "Assets/Screenshot 2024-04-04 at 2.43.06 PM.png",
-    "Assets/Screenshot 2024-04-04 at 2.41.34 PM.png",
     "Courses/Calculus/Calculus.canvas",
     "Courses/Calculus/CheatSheets/Calculus_Cheat_Sheet_All.pdf",
     "Docs/Logarithmic.pdf",

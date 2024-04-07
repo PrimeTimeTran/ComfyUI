@@ -1,4 +1,8 @@
-## [[Electrical Power]]
+## Overview 
+- [[Electrical Power]]
+- [[Electronic Components]]
+- [[Circuit Board]]
+### [[Electrical Power]]
 How do we calculate electrical power?
 
 - Volts
@@ -9,9 +13,10 @@ How do we calculate electrical power?
 	- Measure of power
 - Hertz
 	- Is rate of change in the directional flow of electricity, or how quickly it changes directional flow.
+- [[Ohmz]]
+	- Resistance or friction
 
-## [[Electronic Components]]
-
+### [[Electronic Components]]
 
 - Resisters
 	- Pressurizes voltage / reduces current
@@ -22,6 +27,11 @@ How do we calculate electrical power?
 	- Store & release electrical charge to even out flow of current
 - Inductors
 - Diodes
-	- Conduct electricity in one direction. Lights
+	- Conduct electricity in one direction
+	- Signal, LEDs, Rectifier, Zener
+	- 
 - Transistors
-	- Amplify, switches,
+	- Amplify, switches
+
+### [[Circuit Board]]
+
