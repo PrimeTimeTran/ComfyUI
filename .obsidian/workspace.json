@@ -4,24 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a93e93120601cfc1",
+        "id": "bb51b6da64c9a6cb",
         "type": "tabs",
         "children": [
           {
-            "id": "e5b84ed3fa79c7c5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Databases/SQL/6. Advanced Select & Joins.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ad81a364d448e8bc",
+            "id": "48ae5924b3e565ec",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,35 +19,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "440786f5adbb393d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Databases/SQL/6. Advanced Select & Joins.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6bd14dc96cdf61c7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Databases/SQL/1. SQL.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 317.5
+    "width": 317.5,
+    "collapsed": true
   },
   "right": {
     "id": "a25c65a9be484658",
@@ -199,13 +160,13 @@
       "dbfolder:Create a new database table": false
     }
   },
-  "active": "ad81a364d448e8bc",
+  "active": "48ae5924b3e565ec",
   "lastOpenFiles": [
-    "Databases/SQL/6. Advanced Select & Joins.md",
     "Databases/SQL/1. SQL.md",
+    "Databases/SQL/6. Advanced Select & Joins.md",
+    "Databases/SQL/7. Subqueries.md",
     "Databases/SQL/SQL Overview.md",
     "Databases/Databases.md",
-    "Databases/SQL/7. Subqueries.md",
     "Databases/SQL/4. Aggregates.md",
     "Databases/SQL/5. Sorting & Grouping.md",
     "Concepts/OOP/Object Oriented Programming.md",
