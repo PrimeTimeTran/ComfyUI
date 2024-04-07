@@ -16,10 +16,10 @@ tags:
 [[1. Electrical Engineering|Electrical Engineering]]
 
 [[Databases]]
-	[[1. SQL]]
+	[[1. SQL |SQL]] 
 	[[Postgres]]
 [[Data Structures & Algorithms]]
-	[[1.Big O]]
+	[[1.Big O |Big O]]
 [[Networking]]
 	[[Infosec]]
 [[Object Oriented Programming]]

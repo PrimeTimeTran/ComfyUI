@@ -4,24 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "de5a1cf40db60bf0",
+        "id": "4f989a3bc06255cf",
         "type": "tabs",
         "children": [
           {
-            "id": "911f70d9c9e1170d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Databases/Databases.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fb707601d0b2875f",
+            "id": "8aadfd0d6eebb4b1",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d3fd70468aced454",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Courses/Prerequisites/MAC 2311 - Calculus 1.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -99,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Databases/Databases.md",
+                "file": "Courses/Prerequisites/MAC 2311 - Calculus 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Databases/Databases.md",
+                "file": "Courses/Prerequisites/MAC 2311 - Calculus 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Databases/Databases.md"
+                "file": "Courses/Prerequisites/MAC 2311 - Calculus 1.md"
               }
             }
           },
@@ -172,21 +173,21 @@
       "dbfolder:Create a new database table": false
     }
   },
-  "active": "911f70d9c9e1170d",
+  "active": "d3fd70468aced454",
   "lastOpenFiles": [
-    "Databases/SQL/SQL Overview.md",
+    "Courses/Computer Science.md",
     "Databases/SQL/1. SQL.md",
-    "Databases/SQL/0. SQL Study.md",
+    "Databases/SQL/6. Advanced Select & Joins.md",
+    "Databases/SQL/0. Study.md",
+    "Databases/SQL/SQL Overview.md",
+    "Databases/SQL/2. Select.md",
+    "Databases/SQL/3. Joins.md",
     "Databases/Databases.md",
     "Databases/Postgres.md",
-    "Courses/Computer Science.md",
     "Databases/SQL/8. Advanced String Functions, Regex, Clause.md",
     "Databases/SQL/7. Subqueries.md",
-    "Databases/SQL/6. Advanced Select & Joins.md",
     "Databases/SQL/5. Sorting & Grouping.md",
     "Databases/SQL/4. Aggregates.md",
-    "Databases/SQL/3. Joins.md",
-    "Databases/SQL/2. Select.md",
     "Databases/SQL/LC SQL 50.md",
     "Untitled",
     "Electrical/1. Electrical Engineering.md",

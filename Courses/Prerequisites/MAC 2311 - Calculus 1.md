@@ -64,13 +64,11 @@ Adding up tiny bits. The opposite of derivatives. Finding the original function 
 	- Jump
 	- Infinite
 		- Asymptotes force it to diverge
-
 ## [[Infinite Sums]]
 Solve differential equations, resolve logical paradoxes, computer areas, and they even appear in quantum physics.
 $$
 \sum_{n=1}^{\infty}
 $$
-
 ## [[Continuity]]
 
 ## Problems
@@ -79,10 +77,7 @@ $$
 	1. [[Mia's Soccer]]
 3. Integrals
 	1. [[Problems - Integration]]
-
-
 ## [[Final Exam - Cal 1]]
-
 
 # Excalidraw
 To ensure drawing experience is good 
