@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d79fad57b85448e9",
+        "id": "de5a1cf40db60bf0",
         "type": "tabs",
         "children": [
           {
-            "id": "1d3e5910d786d8d9",
+            "id": "911f70d9c9e1170d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Databases/SQL/4. Aggregates.md",
+                "file": "Databases/Databases.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,32 +21,12 @@
             }
           },
           {
-            "id": "cbe4dfdad1f63935",
+            "id": "fb707601d0b2875f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Databases/SQL/LC SQL 50.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "86745feb2b507a2e",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "60b6e22331ff41e7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Databases/SQL/1. Overview.md",
+                "file": "Databases/SQL/1. SQL.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -103,8 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 437.5,
-    "collapsed": true
+    "width": 437.5
   },
   "right": {
     "id": "a25c65a9be484658",
@@ -120,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Databases/SQL/1. Overview.md",
+                "file": "Databases/Databases.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Databases/SQL/1. Overview.md",
+                "file": "Databases/Databases.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Databases/SQL/1. Overview.md"
+                "file": "Databases/Databases.md"
               }
             }
           },
@@ -193,14 +172,24 @@
       "dbfolder:Create a new database table": false
     }
   },
-  "active": "60b6e22331ff41e7",
+  "active": "911f70d9c9e1170d",
   "lastOpenFiles": [
-    "Databases/SQL/LC SQL 50.md",
-    "Databases/SQL/4. Aggregates.md",
+    "Databases/SQL/SQL Overview.md",
+    "Databases/SQL/1. SQL.md",
     "Databases/SQL/0. SQL Study.md",
-    "Databases/SQL/1. Overview.md",
-    "Electrical/1. Electrical Engineering.md",
+    "Databases/Databases.md",
+    "Databases/Postgres.md",
     "Courses/Computer Science.md",
+    "Databases/SQL/8. Advanced String Functions, Regex, Clause.md",
+    "Databases/SQL/7. Subqueries.md",
+    "Databases/SQL/6. Advanced Select & Joins.md",
+    "Databases/SQL/5. Sorting & Grouping.md",
+    "Databases/SQL/4. Aggregates.md",
+    "Databases/SQL/3. Joins.md",
+    "Databases/SQL/2. Select.md",
+    "Databases/SQL/LC SQL 50.md",
+    "Untitled",
+    "Electrical/1. Electrical Engineering.md",
     "Docs/latex-example.pdf",
     "Docs/Logarithmic.pdf",
     "Courses/Calculus/Sections/1. Calculus Study.md",
@@ -214,23 +203,13 @@
     "Courses/Calculus/Sections/6.3 Integrals - Volumes of Solids of Revolution & Methods of Rings.md",
     "Courses/Calculus/Sections/6.4 Integrals - Volumes of Solids of Revolution & Methods of Cylinders.md",
     "Courses/Calculus/Sections/6.5 Integrals - More Volume.md",
-    "Courses/Calculus/Problems - Integration.md",
-    "Courses/Calculus/Fundamental Theorem of Calculus.md",
-    "Courses/Calculus/Derivatives.md",
-    "Courses/Calculus/Analytically.md",
-    "Vectors.md",
-    "Obsidian/Obsidian Cheatsheet.md",
     "Obsidian",
-    "Personal/OutPatient - Treatment Today.md",
-    "DSA/Array.md",
-    "DSA/Graph.md",
     "Brilliant",
     "Personal",
     "Courses/Trigonometry",
     "Frameworks/DOTNet",
     "Frameworks/DotNET",
     "Frameworks/Flutter/Dart",
-    "Frameworks/Dotnet",
     "Assets/Screenshot 2024-04-05 at 6.06.22 PM.png",
     "Assets/SQL Cheatsheet.jpeg",
     "Assets/Circuit Board Cheat Sheet.jpeg",
