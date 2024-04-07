@@ -8,22 +8,25 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2d412bdddc085f60",
-            "type": "leaf",
-            "state": {
-              "type": "database-plugin",
-              "state": {
-                "file": "Databases/SQL/0. SQL Study.md"
-              }
-            }
-          },
-          {
             "id": "1d3e5910d786d8d9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Databases/SQL/4. Aggregates.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cbe4dfdad1f63935",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Databases/SQL/LC SQL 50.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -117,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Databases/SQL/4. Aggregates.md",
+                "file": "Databases/SQL/1. Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Databases/SQL/4. Aggregates.md",
+                "file": "Databases/SQL/1. Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Databases/SQL/4. Aggregates.md"
+                "file": "Databases/SQL/1. Overview.md"
               }
             }
           },
@@ -190,12 +193,12 @@
       "dbfolder:Create a new database table": false
     }
   },
-  "active": "1d3e5910d786d8d9",
+  "active": "60b6e22331ff41e7",
   "lastOpenFiles": [
-    "Databases/SQL/1. Overview.md",
-    "Databases/SQL/4. Aggregates.md",
     "Databases/SQL/LC SQL 50.md",
+    "Databases/SQL/4. Aggregates.md",
     "Databases/SQL/0. SQL Study.md",
+    "Databases/SQL/1. Overview.md",
     "Electrical/1. Electrical Engineering.md",
     "Courses/Computer Science.md",
     "Docs/latex-example.pdf",
