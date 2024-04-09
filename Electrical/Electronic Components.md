@@ -22,7 +22,15 @@ The parts that give a circuit board life.
 		- Positive to negative
 		- A -> K
 - Transistors
-	- Amplify, switches
+	- Types
+		- Bipolar
+			- Biolar types main:
+				- NPN, PNP
+			- Bipolar Junction
+		- Field Effect
+	- Functions:
+		- Amplify, 
+		- Act as switch
 
 ### Types
 

@@ -4,23 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "bb51b6da64c9a6cb",
+        "id": "7fcbc016954178c1",
         "type": "tabs",
         "children": [
           {
-            "id": "48ae5924b3e565ec",
+            "id": "49d5d8389dbeb939",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Databases/SQL/7. Subqueries.md",
+                "file": "Brilliant/CS Fundamentals.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ef5eddd0ab85e7e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Data Analysis.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -70,8 +84,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 317.5,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "a25c65a9be484658",
@@ -87,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Databases/SQL/7. Subqueries.md",
+                "file": "Data Analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Databases/SQL/7. Subqueries.md",
+                "file": "Data Analysis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Databases/SQL/7. Subqueries.md"
+                "file": "Data Analysis.md"
               }
             }
           },
@@ -160,17 +173,20 @@
       "dbfolder:Create a new database table": false
     }
   },
-  "active": "48ae5924b3e565ec",
+  "active": "ef5eddd0ab85e7e1",
   "lastOpenFiles": [
+    "Brilliant/CS Fundamentals.md",
+    "Data Analysis.md",
+    "Data Analytics.md",
     "Databases/SQL/1. SQL.md",
-    "Databases/SQL/6. Advanced Select & Joins.md",
+    "Electrical/Electronic Components.md",
     "Databases/SQL/7. Subqueries.md",
+    "Databases/SQL/6. Advanced Select & Joins.md",
     "Databases/SQL/SQL Overview.md",
     "Databases/Databases.md",
     "Databases/SQL/4. Aggregates.md",
     "Databases/SQL/5. Sorting & Grouping.md",
     "Concepts/OOP/Object Oriented Programming.md",
-    "Brilliant/CS Fundamentals.md",
     "Frameworks/Flutter/Flutter.md",
     "Concepts/OOP/Dart/Dart.md",
     "Courses/Computer Science.md",
@@ -188,9 +204,6 @@
     "Electrical/1. Electrical Engineering.md",
     "Docs/latex-example.pdf",
     "Docs/Logarithmic.pdf",
-    "Courses/Calculus/Sections/1. Calculus Study.md",
-    "Courses/Calculus/Sections/2.5 Limits - Computing Limits - Practice(Answers).md",
-    "Courses/Calculus/Sections/2.5 Limits - Computing Limits - Practice.md",
     "Obsidian",
     "Brilliant",
     "Personal",

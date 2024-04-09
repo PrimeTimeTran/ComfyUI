@@ -28,3 +28,17 @@ Order & Search
 - Indexes:
 	- Store related info in a different sort
 	- 
+
+Naming:
+- Key & Value
+- DNS
+
+Abstraction
+- Manage Complexity
+- Resource tradeoff(sometimes)
+- Grouping systems
+	- Humans
+	- Computers
+- Multi layer design is slower
+- Abstraction has costs
+	- 
