@@ -99,7 +99,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -149,7 +149,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "a25c65a9be484658",
@@ -165,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Databases/SQL/4. Aggregates.md",
+                "file": "Databases/SQL/5. Sorting & Grouping.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Databases/SQL/4. Aggregates.md",
+                "file": "Databases/SQL/5. Sorting & Grouping.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Databases/SQL/4. Aggregates.md"
+                "file": "Databases/SQL/5. Sorting & Grouping.md"
               }
             }
           },
@@ -238,11 +239,11 @@
       "dbfolder:Create a new database table": false
     }
   },
-  "active": "34d19935669b6625",
+  "active": "153aa09a64f64746",
   "lastOpenFiles": [
+    "Databases/SQL/4. Aggregates.md",
     "Databases/SQL/3. Joins.md",
     "Databases/SQL/2. Select.md",
-    "Databases/SQL/4. Aggregates.md",
     "Databases/SQL/5. Sorting & Grouping.md",
     "Databases/SQL/6. Advanced Select & Joins.md",
     "Databases/SQL/7. Subqueries.md",
