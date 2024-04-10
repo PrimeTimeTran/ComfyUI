@@ -62,7 +62,6 @@ $$
 To solve for something bigger than 360
 
 1. Find the angle in radians that is coterminal with $795^{\degree}$
-   
 	- Subtract 360 until it's between 0 & 360
 	- Multiply by 2 + degree/360 we want
 	- Convert from degree to radians by multiplying by 
@@ -75,6 +74,7 @@ To solve for something bigger than 360
 - arccosine
   
 ## Laws of Trig Functions
+Find missing side lengths & degrees of non right triangles.
 ### Law of Cosines
 - Need 2 side lengths
 - Find 3rd side length.

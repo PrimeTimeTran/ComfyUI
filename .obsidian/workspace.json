@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "89270f966bc2baaf",
+        "id": "f1c8b7ede0b5cfd1",
         "type": "tabs",
         "children": [
           {
-            "id": "07fc70a8d3b18429",
+            "id": "34d19935669b6625",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/DataAnalysis/Data Analysis.md",
+                "file": "Courses/Trigonometry/Trigonometry.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Courses/DataAnalysis/Data Analysis.md",
+                "file": "Courses/Trigonometry/Trigonometry.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Courses/DataAnalysis/Data Analysis.md",
+                "file": "Courses/Trigonometry/Trigonometry.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Courses/DataAnalysis/Data Analysis.md"
+                "file": "Courses/Trigonometry/Trigonometry.md"
               }
             }
           },
@@ -159,22 +159,24 @@
       "dbfolder:Create a new database table": false
     }
   },
-  "active": "07fc70a8d3b18429",
+  "active": "34d19935669b6625",
   "lastOpenFiles": [
-    "Courses/MachineLearning",
-    "Data Analysis.md",
+    "Courses/Trigonometry/Derivatives of Angles.md",
+    "Courses/DataAnalysis/Data Visualization.md",
+    "index.html",
+    "Screenshot 2024-04-10 at 12.37.52 AM.png",
     "Courses/DataAnalysis/Data Analysis.md",
-    "Courses/DataAnalysis/degrees-that-pay-back.csv",
-    "Courses/DataAnalysis/temp_df.txt",
-    "Courses/DataAnalysis/app.py",
-    "Courses/DataAnalysis",
-    "Code/DataAnalysis/temp_df.txt",
-    "Code/DataAnalysis/degrees-that-pay-back.csv",
-    "Code/DataAnalysis/app.py",
-    "Code/DataAnalysis",
-    "Code/f_paginated_table/README.md",
-    "Code/f_paginated_table/build/macos/Logs/Build/4CD9AAC0-D187-4AF7-B0D4-0E9822EADF67.xcactivitylog",
     "Code/f_paginated_table/build/macos/Build/Products/Debug/f_paginated_table.app/Contents/Frameworks/FlutterMacOS.framework/Versions/A/FlutterMacOS.cstemp",
+    "Code/f_paginated_table/build/macos/Build/Products/Debug/f_paginated_table.app/Contents/Frameworks/App.framework/Versions/A/_CodeSignature/CodeResources",
+    "Code/f_paginated_table/build/macos/Build/Products/Debug/f_paginated_table.app/Contents/Frameworks/App.framework/Versions/A/_CodeSignature",
+    "Code/f_paginated_table/build/macos/Build/Intermediates.noindex/XCBuildData/83e659ec5f845a9e6c590b6211285b40.xcbuilddata/build-request.json",
+    "Code/f_paginated_table/build/macos/Build/Intermediates.noindex/XCBuildData/83e659ec5f845a9e6c590b6211285b40.xcbuilddata/target-graph.txt",
+    "Code/f_paginated_table/build/macos/Build/Intermediates.noindex/XCBuildData/build.db-journal",
+    "Code/f_paginated_table/build/macos/Build/Intermediates.noindex/XCBuildData/83e659ec5f845a9e6c590b6211285b40.xcbuilddata/task-store.msgpack",
+    "Code/f_paginated_table/build/macos/Build/Intermediates.noindex/XCBuildData/83e659ec5f845a9e6c590b6211285b40.xcbuilddata/description.msgpack",
+    "Code/f_paginated_table/build/macos/Build/Intermediates.noindex/XCBuildData/83e659ec5f845a9e6c590b6211285b40.xcbuilddata/manifest.json",
+    "Data Analysis.md",
+    "Code/f_paginated_table/README.md",
     "Code/f_paginated_table/lib/README.md",
     "Code/f_paginated_table/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png",
     "Code/f_paginated_table/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png",
@@ -185,7 +187,6 @@
     "Code/f_paginated_table/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_512.png",
     "Code/f_paginated_table/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_32.png",
     "Code/f_paginated_table/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_256.png",
-    "Code/f_paginated_table/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_16.png",
     "Code/f_paginated_table/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md",
     "Code/CryptoExchange/venv/lib/python3.11/site-packages/werkzeug/debug/shared/ICON_LICENSE.md",
     "Code/CryptoExchange/venv/lib/python3.11/site-packages/flask/sansio/README.md",
@@ -206,7 +207,6 @@
     "Concepts/OOP/Dart/Dart.md",
     "Courses/Computer Science.md",
     "Courses/Cheat sheets.md",
-    "Courses/C.md",
     "Courses/Calculus/Calculus.canvas",
     "Untitled 1.canvas",
     "Overview.canvas"
