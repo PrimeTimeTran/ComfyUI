@@ -199,8 +199,16 @@ plt.xlabel('MPG')
 plt.ylabel('Car Name')
 ```
 
-###### Crash
+###### Advanced
+
+- Filter DF on a field expression
+- Sort on a field
+- Parse only on field
 
 ```python
-
+def findHeavyAnimals(data: pd.DataFrame) -> pd.DataFrame:
+    df = pd.DataFrame(data)
+    filtered_df = df[df['weight'] > 100]
+    sorted_df = filtered_df.sort_values(by='weight', ascending=False)
+    return sorted_df[['name']]
 ```
