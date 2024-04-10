@@ -53,16 +53,16 @@ employees.head(3)
 print(df.info())
 ```
 
-###### Print as Markdown
-
-```python
-print(df.to_markdown())
-```
-
 ###### Print column names
 
 ```python
 print(df.columns.to_list())
+```
+
+###### Print as Markdown Table
+
+```python
+print(df.to_markdown())
 ```
 
 #### Select Data
@@ -76,16 +76,6 @@ print(df.columns.to_list())
 def selectData(students: pd.DataFrame) -> pd.DataFrame:
     row = students[students['student_id'] == 101]
     return row[['name', 'age']]
-```
-
-###### Create New Column
-
-- Create column bonus by doubling column salary
-
-```python
-def createBonusColumn(df: pd.DataFrame) -> pd.DataFrame:
-    df['bonus'] = df['salary'] * 2
-    return df
 ```
 
 #### Data Cleaning
@@ -159,6 +149,16 @@ def changeDatatype(df: pd.DataFrame) -> pd.DataFrame:
 
 ##### Reshape Data
 
+###### Create New Column
+
+- Create column bonus by doubling column salary
+
+```python
+def createBonusColumn(df: pd.DataFrame) -> pd.DataFrame:
+    df['bonus'] = df['salary'] * 2
+    return df
+```
+
 ###### Concatenate Multiple DataFrames into One
 
 ```python
@@ -199,7 +199,7 @@ plt.xlabel('MPG')
 plt.ylabel('Car Name')
 ```
 
-###### Advanced
+##### Advanced
 
 - Filter DF on a field expression
 - Sort on a field
