@@ -8,19 +8,98 @@
         "type": "tabs",
         "children": [
           {
+            "id": "5b32387a7111731f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Databases/SQL/2. Select.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "46231ccfad2e558e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Databases/SQL/3. Joins.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "34d19935669b6625",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/Trigonometry/Trigonometry.md",
+                "file": "Databases/SQL/4. Aggregates.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "153aa09a64f64746",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Databases/SQL/5. Sorting & Grouping.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3753ddf4077015a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Databases/SQL/6. Advanced Select & Joins.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e33108da6e6bb5e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Databases/SQL/7. Subqueries.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "adc57d5909a84bb5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Databases/SQL/8. Advanced String Functions, Regex, Clause.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -86,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Courses/Trigonometry/Trigonometry.md",
+                "file": "Databases/SQL/4. Aggregates.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Courses/Trigonometry/Trigonometry.md",
+                "file": "Databases/SQL/4. Aggregates.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Courses/Trigonometry/Trigonometry.md"
+                "file": "Databases/SQL/4. Aggregates.md"
               }
             }
           },
@@ -161,6 +240,14 @@
   },
   "active": "34d19935669b6625",
   "lastOpenFiles": [
+    "Databases/SQL/3. Joins.md",
+    "Databases/SQL/2. Select.md",
+    "Databases/SQL/4. Aggregates.md",
+    "Databases/SQL/5. Sorting & Grouping.md",
+    "Databases/SQL/6. Advanced Select & Joins.md",
+    "Databases/SQL/7. Subqueries.md",
+    "Databases/SQL/8. Advanced String Functions, Regex, Clause.md",
+    "Courses/Trigonometry/Trigonometry.md",
     "Courses/Trigonometry/Derivatives of Angles.md",
     "Courses/DataAnalysis/Data Visualization.md",
     "index.html",
@@ -196,17 +283,9 @@
     "Data Analytics.md",
     "Databases/SQL/1. SQL.md",
     "Electrical/Electronic Components.md",
-    "Databases/SQL/7. Subqueries.md",
-    "Databases/SQL/6. Advanced Select & Joins.md",
     "Databases/SQL/SQL Overview.md",
     "Databases/Databases.md",
-    "Databases/SQL/4. Aggregates.md",
-    "Databases/SQL/5. Sorting & Grouping.md",
     "Concepts/OOP/Object Oriented Programming.md",
-    "Frameworks/Flutter/Flutter.md",
-    "Concepts/OOP/Dart/Dart.md",
-    "Courses/Computer Science.md",
-    "Courses/Cheat sheets.md",
     "Courses/Calculus/Calculus.canvas",
     "Untitled 1.canvas",
     "Overview.canvas"
