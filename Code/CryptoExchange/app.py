@@ -1,4 +1,3 @@
-# B
 from flask import Flask, request, jsonify
 import hashlib
 import time
@@ -11,7 +10,7 @@ class Block:
         self.index = index
         self.previous_hash = previous_hash
         self.timestamp = timestamp
-        self.data = data  # This would contain transactions
+        self.data = data
         self.hash = hash
 
 class Blockchain:
@@ -39,7 +38,6 @@ class Transaction:
         self.receiver = receiver
         self.amount = amount
 
-# Basic order matching
 class OrderBook:
     def __init__(self):
         self.buy_orders = []
@@ -47,11 +45,6 @@ class OrderBook:
 
     def add_order(self, order):
         print('soso')
-        # ... (matching logic)
-
-
-
-
 
 @app.route('/')
 def home():
@@ -64,7 +57,7 @@ def register():
     print('Register')
     data = request.json
     username = data.get('username')
-    password = data.get('password')  # You should hash + salt passwords in a real app
+    password = data.get('password')
     if username in users:
         return jsonify({'message': 'Username already exists'}), 400
     users[username] = password
