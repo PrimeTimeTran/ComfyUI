@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "KnStod/JspKkys6hMtFrwg2yLlNXr3VGzDtpHCz9Rgs=",
+  "Source": "dotnet-template-webapi",
+  "BasePath": "_content/dotnet-template-webapi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
