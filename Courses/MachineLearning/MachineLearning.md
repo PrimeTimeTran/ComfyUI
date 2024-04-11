@@ -11,6 +11,7 @@
   - Structure
 
     - Recognizing Numbers
+
       - Layers
       - Uses Convolutional
       - "Lines, loops, edges"
@@ -19,19 +20,30 @@
           - Classify given image as digit.
           - Neuron holds number
             - "Holds number" between 0 & 1
-          - Activation:
-            - Activations in one layer determine the activations in the next layer/
-            - "Heart of the network",
-            - "Info processing mechanism",
-            - "Exactly how those activations from one layer bring about activations in the next layer."
+            - Vector
+      - Activation:
+        - Activations in one layer determine the activations in the next layer.
+        - "Heart of the network".
+        - "Info processing mechanism".
+        - "Exactly how those activations from one layer bring about activations in the next layer."
+        - Which parameters should exist?
+          - Assign a weight to each connection between neurons to each neuron in previous layer
+            - w1a1 + w2a2 + w3a3 + w4a4 + ...
+          - Compute weighted sum
+            - Activations become some value between 0 & 1
+            - Pump weighted sum into Sigmoid Function/logistics curve.
+              σ (x) = 1 / (1+e^(-x))
+            - Bias
+              - Sometimes we ant it to be active when it's +10 or -10 not just 1.
+              - Add a weighted value
+              - "How high it needs to be before the neuron starts getting meaningful active".
       - "Hidden" layers
+
         - 2 x 16:
-        - Sigmoid Functions
-          a^(1) = σ(Wa^(0)+ b)
         - Find "patterns":
           - Loops, lines, edges.
           - Hopefully a neuron will be set off or learn
-        - Bias
+
       - Last Layer:
         - 10 neurons(for each number)
       - Sigmoid function
