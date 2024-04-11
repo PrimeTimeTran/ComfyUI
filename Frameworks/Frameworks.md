@@ -4,3 +4,4 @@ tags:
 
 [[Flutter]]
 [[DotNET]]
+[[Django]]

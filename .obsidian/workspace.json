@@ -11,9 +11,12 @@
             "id": "2868f3faae258bfa",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Assets/Screenshot 2024-04-10 at 12.37.52 AM.png"
+                "file": "Sorting.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -83,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Assets/Screenshot 2024-04-10 at 12.37.52 AM.png",
+                "file": "Sorting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Assets/Screenshot 2024-04-10 at 12.37.52 AM.png",
+                "file": "Sorting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Assets/Screenshot 2024-04-10 at 12.37.52 AM.png"
+                "file": "Sorting.md"
               }
             }
           },
@@ -156,8 +159,17 @@
       "dbfolder:Create a new database table": false
     }
   },
-  "active": "93cbd1431b8f6fae",
+  "active": "2868f3faae258bfa",
   "lastOpenFiles": [
+    "dataannotation.py",
+    "test copy.py",
+    "Courses/Core/Data Structures & Algorithms.md",
+    "Sorting.md",
+    "Assets/Screenshot 2024-04-10 at 12.37.52 AM.png",
+    "Linux/Linux.md",
+    "Linux/Linux",
+    "Linux",
+    "AI/AI & Machine Learning.md",
     "Projects/django-backend/mysite/__pycache__/urls.cpython-311.pyc",
     "Projects/django-backend/mysite/__pycache__/wsgi.cpython-311.pyc",
     "Projects/django-backend/mysite/__pycache__/__init__.cpython-311.pyc",
@@ -165,10 +177,6 @@
     "Projects/django-backend/mysite/wsgi.py",
     "Projects/django-backend/mysite/urls.py",
     "Projects/django-backend/mysite/settings.py",
-    "Projects/django-backend/mysite/asgi.py",
-    "Projects/django-backend/mysite/__pycache__",
-    "Projects/django-backend/mysite/__init__.py",
-    "Projects/django-backend/mysite",
     "Frameworks/DotNET/CLI.md",
     "Frameworks/DotNET/Setup.md",
     "Frameworks/DotNET/DotNET.md",
@@ -190,12 +198,7 @@
     "Calculus/Sections/5.8 Integrals - Substitution Rule for Definite Integrals.md",
     "Calculus/Sections/5.7 Integrals - Computing Definite Integrals.md",
     "Calculus/Sections/5.6 Integrals - Definition of The Definite Integral.md",
-    "Calculus/Sections/5.5 Integrals - Area Problem.md",
-    "Calculus/Sections/5.4 Integrals - More Substitution Rule.md",
-    "Calculus/Sections/5.3 Integrals - Substitution Rule for Indefinite Integrals.md",
-    "Calculus/Sections/5.2 Integrals - Computing Indefinite Integrals.md",
     "Calculus/Calculus.canvas",
-    "Assets/Screenshot 2024-04-10 at 12.37.52 AM.png",
     "Code/f_paginated_table/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png",
     "Code/f_paginated_table/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png",
     "Code/f_paginated_table/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png",
