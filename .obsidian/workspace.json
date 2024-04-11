@@ -47,7 +47,7 @@
             }
           },
           {
-            "id": "153aa09a64f64746",
+            "id": "3d31d0d7e2449264",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -97,9 +97,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "16bb472690e100d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Courses/MachineLearning/MachineLearning.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -166,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Databases/SQL/5. Sorting & Grouping.md",
+                "file": "Courses/MachineLearning/MachineLearning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Databases/SQL/5. Sorting & Grouping.md",
+                "file": "Courses/MachineLearning/MachineLearning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +219,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Databases/SQL/5. Sorting & Grouping.md"
+                "file": "Courses/MachineLearning/MachineLearning.md"
               }
             }
           },
@@ -239,8 +252,10 @@
       "dbfolder:Create a new database table": false
     }
   },
-  "active": "153aa09a64f64746",
+  "active": "16bb472690e100d8",
   "lastOpenFiles": [
+    "Databases/SQL/5. Sorting & Grouping.md",
+    "Databases/SQL/4. Aggregates.md",
     "Projects/HedgeFund/Plan.md",
     "Projects/HedgeFund/Models.md",
     "Projects/HedgeFund/NAV.md",
@@ -249,10 +264,8 @@
     "Projects/HedgeFund",
     "Projects",
     "Courses/DataAnalysis/Pandas.md",
-    "Databases/SQL/4. Aggregates.md",
     "Databases/SQL/3. Joins.md",
     "Databases/SQL/2. Select.md",
-    "Databases/SQL/5. Sorting & Grouping.md",
     "Databases/SQL/6. Advanced Select & Joins.md",
     "Databases/SQL/7. Subqueries.md",
     "Databases/SQL/8. Advanced String Functions, Regex, Clause.md",

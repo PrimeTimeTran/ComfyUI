@@ -22,6 +22,7 @@
             - "Holds number" between 0 & 1
             - Vector
       - Activation:
+
         - Activations in one layer determine the activations in the next layer.
         - "Heart of the network".
         - "Info processing mechanism".
@@ -37,8 +38,13 @@
               - Sometimes we ant it to be active when it's +10 or -10 not just 1.
               - Add a weighted value
               - "How high it needs to be before the neuron starts getting meaningful active".
-      - "Hidden" layers
 
+      - Learning: Finding the right weights & biases
+        - Notation
+          - $a_{0}^{(1)} = σ(w_{0}0 \ a_{0}0 + w_{}1 \ a_{1}0 + w_{0}2 \ a_{2}0 + \dots + w_{0}n \ a_{n}0 + b_{0})$
+          - Simplifies to 
+          - $a^{(1)} = σ(Wa^{0}+ b)$
+      - "Hidden" layers 
         - 2 x 16:
         - Find "patterns":
           - Loops, lines, edges.
