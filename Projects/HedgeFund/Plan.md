@@ -1,0 +1,7 @@
+- Design DB
+- Design background workers
+  - Calculate NAV everyday
+  -
+- Design UI
+  - Index page for trades
+  - NAV page with charts for historic values
