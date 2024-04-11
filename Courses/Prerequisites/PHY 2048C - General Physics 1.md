@@ -35,7 +35,7 @@ Key concepts of physics
     - Electric current and resistance
     - Magnetic fields and forces
     - Electromagnetic induction
-	- [[Electronics Engineering]]
+	- [[1. Electrical Engineering |Electrical Engineering]]
 1. **Optics**: The study of light and its behavior.
     - Reflection and refraction
     - Ray optics and lens systems

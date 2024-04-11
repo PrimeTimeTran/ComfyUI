@@ -11,8 +11,10 @@
             "id": "2868f3faae258bfa",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "image",
+              "state": {
+                "file": "Assets/Screenshot 2024-04-10 at 12.37.52 AM.png"
+              }
             }
           }
         ]
@@ -81,6 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Assets/Screenshot 2024-04-10 at 12.37.52 AM.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Assets/Screenshot 2024-04-10 at 12.37.52 AM.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +122,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Assets/Screenshot 2024-04-10 at 12.37.52 AM.png"
+              }
             }
           },
           {
@@ -150,45 +156,46 @@
       "dbfolder:Create a new database table": false
     }
   },
-  "active": "2868f3faae258bfa",
+  "active": "93cbd1431b8f6fae",
   "lastOpenFiles": [
-    "Frameworks/Flutter/Flutter.md",
-    "Courses/Data Analysis/Data Visualization.md",
-    "Databases/SQL/1. SQL.md",
-    "Courses/Computer Science.md",
-    "AI.md",
-    "Software/CLI/Overview.md",
-    "Courses/Data Analysis/Data Analysis.md",
-    "Courses/Data Analysis/Chart Types.md",
-    "Courses/Data Analysis/Pandas.md",
-    "Courses/Cheat sheets.md",
-    "Courses/Data Analysis/charts.ipynb",
-    "Courses/C.md",
-    "Courses/Machine Learning/Machine Learning.md",
-    "Databases/SQL/8. Advanced String Functions, Regex, Clause.md",
-    "Databases/SQL/7. Subqueries.md",
-    "Databases/SQL/6. Advanced Select & Joins.md",
-    "Databases/SQL/5. Sorting & Grouping.md",
-    "Databases/SQL/4. Aggregates.md",
-    "Databases/SQL/3. Joins.md",
-    "Databases/SQL/2. Select.md",
-    "Projects/HedgeFund/Plan.md",
-    "Projects/HedgeFund/Models.md",
-    "Projects/HedgeFund/NAV.md",
-    "Projects/HedgeFund/Intro.md",
-    "Projects/Foo",
-    "Projects/HedgeFund",
-    "Projects",
-    "Courses/Trigonometry/Trigonometry.md",
-    "Courses/Trigonometry/Derivatives of Angles.md",
-    "index.html",
-    "Screenshot 2024-04-10 at 12.37.52 AM.png",
-    "Code/f_paginated_table/build/macos/Build/Products/Debug/f_paginated_table.app/Contents/Frameworks/FlutterMacOS.framework/Versions/A/FlutterMacOS.cstemp",
-    "Code/f_paginated_table/build/macos/Build/Products/Debug/f_paginated_table.app/Contents/Frameworks/App.framework/Versions/A/_CodeSignature/CodeResources",
-    "Code/f_paginated_table/build/macos/Build/Products/Debug/f_paginated_table.app/Contents/Frameworks/App.framework/Versions/A/_CodeSignature",
-    "Code/f_paginated_table/build/macos/Build/Intermediates.noindex/XCBuildData/83e659ec5f845a9e6c590b6211285b40.xcbuilddata/build-request.json",
-    "Code/f_paginated_table/build/macos/Build/Intermediates.noindex/XCBuildData/83e659ec5f845a9e6c590b6211285b40.xcbuilddata/target-graph.txt",
-    "Code/f_paginated_table/README.md",
+    "Projects/django-backend/mysite/__pycache__/urls.cpython-311.pyc",
+    "Projects/django-backend/mysite/__pycache__/wsgi.cpython-311.pyc",
+    "Projects/django-backend/mysite/__pycache__/__init__.cpython-311.pyc",
+    "Projects/django-backend/mysite/__pycache__/settings.cpython-311.pyc",
+    "Projects/django-backend/mysite/wsgi.py",
+    "Projects/django-backend/mysite/urls.py",
+    "Projects/django-backend/mysite/settings.py",
+    "Projects/django-backend/mysite/asgi.py",
+    "Projects/django-backend/mysite/__pycache__",
+    "Projects/django-backend/mysite/__init__.py",
+    "Projects/django-backend/mysite",
+    "Frameworks/DotNET/CLI.md",
+    "Frameworks/DotNET/Setup.md",
+    "Frameworks/DotNET/DotNET.md",
+    "Frameworks/DOTNet/DotNET.md",
+    "Frameworks/DOTNet/CLI.md",
+    "Frameworks/DOTNet/Setup copy.md",
+    "Projects/dotnet-template-mvc/wwwroot/lib/jquery-validation/LICENSE.md",
+    "Frameworks/DOTNet/Setup.md",
+    "Frameworks/DOTNet/DOTNet copy.md",
+    "Frameworks/Django.md",
+    "Projects/Django Admin.md",
+    "Calculus/Calculus.md",
+    "Calculus/Sections/6.6 Integrals - Work.md",
+    "Calculus/Sections/6.5 Integrals - More Volume.md",
+    "Calculus/Sections/6.4 Integrals - Volumes of Solids of Revolution & Methods of Cylinders.md",
+    "Calculus/Sections/6.3 Integrals - Volumes of Solids of Revolution & Methods of Rings.md",
+    "Calculus/Sections/6.2 Integrals - Area Between Curves.md",
+    "Calculus/Sections/6.1 Integrals - Average Function Value.md",
+    "Calculus/Sections/5.8 Integrals - Substitution Rule for Definite Integrals.md",
+    "Calculus/Sections/5.7 Integrals - Computing Definite Integrals.md",
+    "Calculus/Sections/5.6 Integrals - Definition of The Definite Integral.md",
+    "Calculus/Sections/5.5 Integrals - Area Problem.md",
+    "Calculus/Sections/5.4 Integrals - More Substitution Rule.md",
+    "Calculus/Sections/5.3 Integrals - Substitution Rule for Indefinite Integrals.md",
+    "Calculus/Sections/5.2 Integrals - Computing Indefinite Integrals.md",
+    "Calculus/Calculus.canvas",
+    "Assets/Screenshot 2024-04-10 at 12.37.52 AM.png",
     "Code/f_paginated_table/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png",
     "Code/f_paginated_table/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png",
     "Code/f_paginated_table/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png",
