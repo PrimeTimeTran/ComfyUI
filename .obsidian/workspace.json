@@ -4,115 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "f1c8b7ede0b5cfd1",
+        "id": "829e7d43939ffe4b",
         "type": "tabs",
         "children": [
           {
-            "id": "5b32387a7111731f",
+            "id": "2868f3faae258bfa",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Databases/SQL/2. Select.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "46231ccfad2e558e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Databases/SQL/3. Joins.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "34d19935669b6625",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Databases/SQL/4. Aggregates.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3d31d0d7e2449264",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Databases/SQL/5. Sorting & Grouping.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3753ddf4077015a4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Databases/SQL/6. Advanced Select & Joins.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e33108da6e6bb5e2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Databases/SQL/7. Subqueries.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "adc57d5909a84bb5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Databases/SQL/8. Advanced String Functions, Regex, Clause.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "16bb472690e100d8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Courses/MachineLearning/MachineLearning.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -162,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 283.5
   },
   "right": {
     "id": "a25c65a9be484658",
@@ -179,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Courses/MachineLearning/MachineLearning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Courses/MachineLearning/MachineLearning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Courses/MachineLearning/MachineLearning.md"
-              }
+              "state": {}
             }
           },
           {
@@ -252,10 +150,28 @@
       "dbfolder:Create a new database table": false
     }
   },
-  "active": "16bb472690e100d8",
+  "active": "2868f3faae258bfa",
   "lastOpenFiles": [
+    "Frameworks/Flutter/Flutter.md",
+    "Courses/Data Analysis/Data Visualization.md",
+    "Databases/SQL/1. SQL.md",
+    "Courses/Computer Science.md",
+    "AI.md",
+    "Software/CLI/Overview.md",
+    "Courses/Data Analysis/Data Analysis.md",
+    "Courses/Data Analysis/Chart Types.md",
+    "Courses/Data Analysis/Pandas.md",
+    "Courses/Cheat sheets.md",
+    "Courses/Data Analysis/charts.ipynb",
+    "Courses/C.md",
+    "Courses/Machine Learning/Machine Learning.md",
+    "Databases/SQL/8. Advanced String Functions, Regex, Clause.md",
+    "Databases/SQL/7. Subqueries.md",
+    "Databases/SQL/6. Advanced Select & Joins.md",
     "Databases/SQL/5. Sorting & Grouping.md",
     "Databases/SQL/4. Aggregates.md",
+    "Databases/SQL/3. Joins.md",
+    "Databases/SQL/2. Select.md",
     "Projects/HedgeFund/Plan.md",
     "Projects/HedgeFund/Models.md",
     "Projects/HedgeFund/NAV.md",
@@ -263,27 +179,16 @@
     "Projects/Foo",
     "Projects/HedgeFund",
     "Projects",
-    "Courses/DataAnalysis/Pandas.md",
-    "Databases/SQL/3. Joins.md",
-    "Databases/SQL/2. Select.md",
-    "Databases/SQL/6. Advanced Select & Joins.md",
-    "Databases/SQL/7. Subqueries.md",
-    "Databases/SQL/8. Advanced String Functions, Regex, Clause.md",
     "Courses/Trigonometry/Trigonometry.md",
     "Courses/Trigonometry/Derivatives of Angles.md",
-    "Courses/DataAnalysis/Data Visualization.md",
     "index.html",
     "Screenshot 2024-04-10 at 12.37.52 AM.png",
-    "Courses/DataAnalysis/Data Analysis.md",
     "Code/f_paginated_table/build/macos/Build/Products/Debug/f_paginated_table.app/Contents/Frameworks/FlutterMacOS.framework/Versions/A/FlutterMacOS.cstemp",
     "Code/f_paginated_table/build/macos/Build/Products/Debug/f_paginated_table.app/Contents/Frameworks/App.framework/Versions/A/_CodeSignature/CodeResources",
     "Code/f_paginated_table/build/macos/Build/Products/Debug/f_paginated_table.app/Contents/Frameworks/App.framework/Versions/A/_CodeSignature",
     "Code/f_paginated_table/build/macos/Build/Intermediates.noindex/XCBuildData/83e659ec5f845a9e6c590b6211285b40.xcbuilddata/build-request.json",
     "Code/f_paginated_table/build/macos/Build/Intermediates.noindex/XCBuildData/83e659ec5f845a9e6c590b6211285b40.xcbuilddata/target-graph.txt",
-    "Code/f_paginated_table/build/macos/Build/Intermediates.noindex/XCBuildData/build.db-journal",
-    "Data Analysis.md",
     "Code/f_paginated_table/README.md",
-    "Code/f_paginated_table/lib/README.md",
     "Code/f_paginated_table/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png",
     "Code/f_paginated_table/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png",
     "Code/f_paginated_table/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png",
@@ -293,13 +198,6 @@
     "Code/f_paginated_table/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_512.png",
     "Code/f_paginated_table/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_32.png",
     "Code/f_paginated_table/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_256.png",
-    "Code/f_paginated_table/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md",
-    "Code/CryptoExchange/venv/lib/python3.11/site-packages/werkzeug/debug/shared/ICON_LICENSE.md",
-    "Code/CryptoExchange/venv/lib/python3.11/site-packages/flask/sansio/README.md",
-    "Code/venv/lib/python3.11/site-packages/flask/sansio/README.md",
-    "Code/venv/lib/python3.11/site-packages/werkzeug/debug/shared/ICON_LICENSE.md",
-    "Brilliant/CS Fundamentals.md",
-    "Data Analytics.md",
     "Courses/Calculus/Calculus.canvas",
     "Untitled 1.canvas",
     "Overview.canvas"

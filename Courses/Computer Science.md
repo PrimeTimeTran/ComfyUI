@@ -24,6 +24,12 @@ tags:
 [[Frameworks]]
 	[[Flutter]]
 	[[DotNET]]
+[[AI]]
+	[[Machine Learning]]
+[[Data Analysis]]
+	[[Data Visualization]]
+	[[Pandas]]
+	[[Chart Types]]
 ### Tooling
 [[Overview]]
 	[[Tmux]]
