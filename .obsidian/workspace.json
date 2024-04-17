@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "829e7d43939ffe4b",
+        "id": "d32c89cca2da7026",
         "type": "tabs",
         "children": [
           {
-            "id": "2868f3faae258bfa",
+            "id": "a4ef9d7b3960e6cc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sorting.md",
+                "file": "Flutter CLI.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -70,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 283.5
+    "width": 200
   },
   "right": {
     "id": "a25c65a9be484658",
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sorting.md",
+                "file": "Flutter CLI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sorting.md",
+                "file": "Flutter CLI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sorting.md"
+                "file": "Flutter CLI.md"
               }
             }
           },
@@ -159,55 +159,55 @@
       "dbfolder:Create a new database table": false
     }
   },
-  "active": "2868f3faae258bfa",
+  "active": "a4ef9d7b3960e6cc",
   "lastOpenFiles": [
-    "dataannotation.py",
-    "test copy.py",
-    "Courses/Core/Data Structures & Algorithms.md",
-    "Sorting.md",
-    "Assets/Screenshot 2024-04-10 at 12.37.52 AM.png",
-    "Linux/Linux.md",
-    "Linux/Linux",
-    "Linux",
-    "AI/AI & Machine Learning.md",
-    "Projects/django-backend/mysite/__pycache__/urls.cpython-311.pyc",
-    "Projects/django-backend/mysite/__pycache__/wsgi.cpython-311.pyc",
-    "Projects/django-backend/mysite/__pycache__/__init__.cpython-311.pyc",
-    "Projects/django-backend/mysite/__pycache__/settings.cpython-311.pyc",
-    "Projects/django-backend/mysite/wsgi.py",
-    "Projects/django-backend/mysite/urls.py",
-    "Projects/django-backend/mysite/settings.py",
-    "Frameworks/DotNET/CLI.md",
-    "Frameworks/DotNET/Setup.md",
-    "Frameworks/DotNET/DotNET.md",
-    "Frameworks/DOTNet/DotNET.md",
-    "Frameworks/DOTNet/CLI.md",
-    "Frameworks/DOTNet/Setup copy.md",
-    "Projects/dotnet-template-mvc/wwwroot/lib/jquery-validation/LICENSE.md",
-    "Frameworks/DOTNet/Setup.md",
-    "Frameworks/DOTNet/DOTNet copy.md",
-    "Frameworks/Django.md",
-    "Projects/Django Admin.md",
-    "Calculus/Calculus.md",
-    "Calculus/Sections/6.6 Integrals - Work.md",
-    "Calculus/Sections/6.5 Integrals - More Volume.md",
-    "Calculus/Sections/6.4 Integrals - Volumes of Solids of Revolution & Methods of Cylinders.md",
-    "Calculus/Sections/6.3 Integrals - Volumes of Solids of Revolution & Methods of Rings.md",
-    "Calculus/Sections/6.2 Integrals - Area Between Curves.md",
-    "Calculus/Sections/6.1 Integrals - Average Function Value.md",
-    "Calculus/Sections/5.8 Integrals - Substitution Rule for Definite Integrals.md",
-    "Calculus/Sections/5.7 Integrals - Computing Definite Integrals.md",
-    "Calculus/Sections/5.6 Integrals - Definition of The Definite Integral.md",
+    "payroll_by_sales_id_modified.csv",
+    "Projects/f_dsa/build/web/flutter_service_worker.js",
+    "Projects/f_dsa/build/web/manifest.json",
+    "Projects/f_dsa/build/web/icons/Icon-512.png",
+    "Projects/f_dsa/build/web/icons/Icon-maskable-512.png",
+    "Projects/f_dsa/build/web/icons/Icon-maskable-192.png",
+    "Projects/f_dsa/build/web/icons/Icon-192.png",
+    "Projects/f_dsa/build/web/worker.dart",
+    "Projects/f_dsa/build/web/drift_worker.js",
+    "Projects/f_dsa/build/web/favicon.png",
+    "Projects/f_dsa/build/web/sqlite3.wasm",
+    "Projects/f_dsa/build/web/assets/fonts/MaterialIcons-Regular.otf",
+    "Projects/f_dsa/build/web/assets/packages/cupertino_icons/assets/CupertinoIcons.ttf",
+    "Projects/f_dsa/build/web/assets/shaders/ink_sparkle.frag",
+    "Projects/f_dsa/build/web/assets/NOTICES",
+    "Projects/f_dsa/build/web/assets/FontManifest.json",
+    "Projects/f_dsa/notes/Sorting.md",
+    "Projects/f_dsa/notes/SQL.md",
+    "Projects/f_dsa/notes/NOTES copy.md",
+    "Courses/Prerequisites/PHY 2048C - General Physics 1.md",
+    "Flutter CLI.md",
+    "Projects/f_dsa/notes/web.md",
+    "Projects/f_dsa/notes/Plan.md",
+    "Projects/drift/sqlparser/README.md",
+    "Projects/drift/sqlparser/CHANGELOG.md",
+    "Projects/drift/extras/integration_tests/ffi_on_flutter/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png",
+    "Projects/drift/extras/integration_tests/ffi_on_flutter/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png",
+    "Projects/drift/extras/integration_tests/ffi_on_flutter/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png",
+    "Projects/drift/extras/integration_tests/ffi_on_flutter/android/app/src/main/res/mipmap-mdpi/ic_launcher.png",
+    "Projects/drift/extras/integration_tests/ffi_on_flutter/android/app/src/main/res/mipmap-hdpi/ic_launcher.png",
+    "Projects/drift/extras/integration_tests/ffi_on_flutter/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md",
+    "Projects/drift/extras/integration_tests/web_wasm/README.md",
+    "Projects/drift/extras/integration_tests/ffi_on_flutter/README.md",
+    "Projects/drift/extras/integration_tests/drift_testcases/README.md",
+    "Projects/drift/extras/assets/old_moor_package/README.md",
+    "Projects/drift/extras/assets/old_moor_flutter_package/README.md",
+    "Projects/drift/extras/encryption/README.md",
+    "Projects/drift/extras/integration_tests/README.md",
+    "Projects/drift/extras/drift_postgres/README.md",
+    "Projects/drift/extras/drift_postgres/CHANGELOG.md",
+    "Projects/drift/extras/drift_mariadb/README.md",
+    "Projects/drift/extras/drift_devtools_extension/README.md",
+    "Projects/drift/examples/encryption/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md",
+    "Projects/drift/examples/app/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md",
+    "Projects/drift/examples/web_worker_example/README.md",
+    "Projects/drift/examples/multi_package/README.md",
     "Calculus/Calculus.canvas",
-    "Code/f_paginated_table/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png",
-    "Code/f_paginated_table/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png",
-    "Code/f_paginated_table/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png",
-    "Code/f_paginated_table/android/app/src/main/res/mipmap-mdpi/ic_launcher.png",
-    "Code/f_paginated_table/android/app/src/main/res/mipmap-hdpi/ic_launcher.png",
-    "Code/f_paginated_table/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_64.png",
-    "Code/f_paginated_table/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_512.png",
-    "Code/f_paginated_table/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_32.png",
-    "Code/f_paginated_table/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_256.png",
     "Courses/Calculus/Calculus.canvas",
     "Untitled 1.canvas",
     "Overview.canvas"

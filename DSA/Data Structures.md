@@ -1,0 +1,42 @@
+![[Common DS.png | 500]]
+
+- [[Array]]
+- [[Stack]]
+	- Last in, first out
+- [[Queue]]
+	- First in, first out
+- [[Tree]]
+	- Nodes with vals
+	- Traversal:
+		- Preorder
+			- Start from root going counter clockwise.
+			- Shout when you cross the left of the node.
+		- Inorder
+			- Start from root going counter clockwise.
+			- Shout when you cross the bottom of the node.
+		- Postorder
+			- Start from root going counter clockwise.
+			- Shout when you cross the left of the node.
+	- Parent
+	- Child
+	- Types
+	- Binary:
+	    - Only two children, left and right
+	- Leafs:
+		- Nodes with no children
+- [[Matrix]]
+	- Rows
+	- Columns
+- [[Graph]]
+	- Nodes connected by edges
+	- Directed vs Undirected
+	- Weighted vs Unweighted
+- [[Linked List]]
+	- Node's with pointer to next & value
+- [[Heap]]
+- [[Stack]]
+- [[Trie]]
+- [[HashMap]]
+- [[HashSet]]
+
+![[Screenshot 2024-04-11 at 6.51.02 PM.png]]

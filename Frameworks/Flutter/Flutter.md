@@ -1,6 +1,7 @@
 ---
 tags:
 ---
+
 # Flutter
 
 ### [[Dart]]
@@ -27,7 +28,7 @@ tags:
   - constructors
   -
 
-### CLI
+### [[Flutter CLI]]
 
 #### Initiliaze project
 
