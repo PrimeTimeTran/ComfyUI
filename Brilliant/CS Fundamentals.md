@@ -27,7 +27,6 @@ Order & Search
 	- Sorted in useful way though, like title, not left word in the book.
 - Indexes:
 	- Store related info in a different sort
-	- 
 
 Naming:
 - Key & Value

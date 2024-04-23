@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Flutter CLI.md",
+                "file": "Courses/Trigonometry/Trigonometry.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Flutter CLI.md",
+                "file": "Courses/Trigonometry/Trigonometry.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Flutter CLI.md",
+                "file": "Courses/Trigonometry/Trigonometry.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Flutter CLI.md"
+                "file": "Courses/Trigonometry/Trigonometry.md"
               }
             }
           },
@@ -161,6 +161,7 @@
   },
   "active": "a4ef9d7b3960e6cc",
   "lastOpenFiles": [
+    "Flutter CLI.md",
     "payroll_by_sales_id_modified.csv",
     "Projects/f_dsa/build/web/flutter_service_worker.js",
     "Projects/f_dsa/build/web/manifest.json",
@@ -176,12 +177,10 @@
     "Projects/f_dsa/build/web/assets/packages/cupertino_icons/assets/CupertinoIcons.ttf",
     "Projects/f_dsa/build/web/assets/shaders/ink_sparkle.frag",
     "Projects/f_dsa/build/web/assets/NOTICES",
-    "Projects/f_dsa/build/web/assets/FontManifest.json",
     "Projects/f_dsa/notes/Sorting.md",
     "Projects/f_dsa/notes/SQL.md",
     "Projects/f_dsa/notes/NOTES copy.md",
     "Courses/Prerequisites/PHY 2048C - General Physics 1.md",
-    "Flutter CLI.md",
     "Projects/f_dsa/notes/web.md",
     "Projects/f_dsa/notes/Plan.md",
     "Projects/drift/sqlparser/README.md",
