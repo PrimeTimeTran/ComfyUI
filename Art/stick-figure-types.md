@@ -1,0 +1,23 @@
+- Stickman
+- Skeleton
+  - Rib cage & pelvic bone
+- Classical Disney approach
+  - Full torso top & body. Fat torso. Flower sack
+- Flower sacks & Sausage limbs
+  - Can/can't taper the limbs
+- Quick & Loose
+  - Don't care how animation looks
+- Building block approach
+  - Everything is block, cylinder,sphere, cube
+  - Torso three parts
+    - Top: Arm, head, torso meet
+    - Middle: Belly
+    - Bottom: Legs & pelic
+- Human anatomy approach
+  - Highly technical
+    - Bones, muscles, flesh
+    - Grasp of human anatomy.
+    - Complex shapes must be redone again and again.
+- Contour & Uniform body pass
+  - Single Entity
+  -
