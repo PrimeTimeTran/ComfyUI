@@ -2,8 +2,8 @@
 
 Ideas that are scalable, repeatable.
 
-| Date | Name                                           | Type          | Type                                                                                                                                       | Url |
-| ---- | ---------------------------------------------- | ------------- | ------------------------------------------------------------------------------------------------------------------------------------------ | --- |
+| Date | Name                                           | Type          | Url                                                                                                                                        |
+| ---- | ---------------------------------------------- | ------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 |      | JS                                             | Intro         |                                                                                                                                            |
 |      | TS                                             | Intro         |                                                                                                                                            |
 |      | Python                                         | Intro         |                                                                                                                                            |
@@ -16,6 +16,7 @@ Ideas that are scalable, repeatable.
 |      |                                                |               |                                                                                                                                            |
 |      | CRUD Crash Course                              | Intro         |                                                                                                                                            |
 |      | REST Crash Course                              | Intro         |                                                                                                                                            |
+|      | What is a mono repo                            | Intro         |                                                                                                                                            |
 |      |                                                |               |                                                                                                                                            |
 |      | Create word puzzle(Flutter)                    | Tutorial      | https://codelabs.developers.google.com/codelabs/flutter-word-puzzle?utm_source=twitter&utm_medium=organicsocial&utm_campaign&utm_content#2 |
 |      | How to create custom Icon package(Flutter)     | Tutorial      |                                                                                                                                            |
