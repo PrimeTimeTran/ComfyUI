@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "d32c89cca2da7026",
+        "id": "28217dde8029efe0",
         "type": "tabs",
         "children": [
           {
-            "id": "a4ef9d7b3960e6cc",
+            "id": "bbb2c352c416dbb5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Courses/Trigonometry/Trigonometry.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Courses/Trigonometry/Trigonometry.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Courses/Trigonometry/Trigonometry.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Courses/Trigonometry/Trigonometry.md"
-              }
+              "state": {}
             }
           },
           {
@@ -159,8 +150,9 @@
       "dbfolder:Create a new database table": false
     }
   },
-  "active": "a4ef9d7b3960e6cc",
+  "active": "bbb2c352c416dbb5",
   "lastOpenFiles": [
+    "Courses/Trigonometry/Trigonometry.md",
     "Flutter CLI.md",
     "payroll_by_sales_id_modified.csv",
     "Projects/f_dsa/build/web/flutter_service_worker.js",
