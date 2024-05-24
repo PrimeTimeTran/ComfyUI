@@ -11,12 +11,9 @@
             "id": "bbb2c352c416dbb5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "database-plugin",
               "state": {
-                "file": "YouTube/content-ideas.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "Databases/SQL/0. Study.md"
               }
             }
           }
@@ -86,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "YouTube/content-ideas.md",
+                "file": "Databases/SQL/0. Study.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "YouTube/content-ideas.md",
+                "file": "Databases/SQL/0. Study.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "YouTube/content-ideas.md"
+                "file": "Databases/SQL/0. Study.md"
               }
             }
           },
@@ -161,44 +158,45 @@
   },
   "active": "bbb2c352c416dbb5",
   "lastOpenFiles": [
-    "YouTube/upload-checklist.md",
-    "YouTube/list-vlog-preflight-todos.md",
-    "Startups/tell-me-about-yourself.md",
-    "Startups/questions-co-founder.md",
-    "YouTube/livestream.md",
+    "YouTube/content-ideas.md",
+    "Film/YouTube/content/code/sql/5.aggregate.md",
+    "Film/YouTube/content/code/sql/2.where.md",
+    "Film/YouTube/content/code/sql/4.order by.md",
+    "Film/YouTube/content/code/sql/3.filter.md",
+    "Film/YouTube/content/code/sql/1.select.md",
+    "Film/YouTube/content/code/snippets/graphs.md",
+    "Film/YouTube/content/code/snippets/tree-treversals.md",
+    "Film/YouTube/content/code/snippets/sliding-window.md",
+    "Film/YouTube/content/code/snippets/flutter.md",
+    "Film/YouTube/content/top-ten-mastery/vue.md",
+    "Film/YouTube/content/top-ten-mastery/sql.md",
+    "Film/YouTube/content/top-ten-mastery/react-native.md",
+    "Film/YouTube/content/top-ten-mastery/python.md",
+    "Film/YouTube/content/top-ten-mastery/node.md",
+    "Film/YouTube/content/top-ten-mastery/mongo.md",
+    "Film/YouTube/content/top-ten-mastery/machine-learning.md",
+    "Film/YouTube/content/top-ten-mastery/js.md",
+    "Film/YouTube/content/top-ten-mastery/html.md",
+    "Film/YouTube/content/top-ten-mastery/flutter.md",
+    "Film/YouTube/content/top-ten-mastery/data-analytics.md",
+    "Film/YouTube/content/top-ten-mastery/css.md",
+    "Film/YouTube/content/top-ten-foundation/vue.md",
+    "Film/YouTube/content/top-ten-foundation/sql.md",
+    "Film/YouTube/content/top-ten-foundation/react-native.md",
+    "Film/YouTube/content/top-ten-foundation/python.md",
+    "Film/YouTube/content/code/sql",
+    "Film/YouTube/content/code/snippets",
+    "Film/YouTube/content/top-ten-mastery",
+    "Film/YouTube/content/top-ten-foundation",
+    "Film/YouTube/content/python",
+    "Film/YouTube/content/flutter",
+    "Film/YouTube/content/finance",
+    "Film/YouTube/content/code",
+    "Film/YouTube/thumbnail-ideas.png",
+    "Film/YouTube/content",
+    "Film/YouTube",
     "YouTube/thumbnail-ideas.png",
     "YouTube/Screenshot 2024-05-24 at 4.10.20 PM.png",
-    "YouTube/playbook.md",
-    "YouTube/content/top-10-illustrator.md",
-    "YouTube/content/code/sql/4.order by.md",
-    "YouTube/content/code/sql/5.aggregate.md",
-    "YouTube/content/code/sql/3.filter.md",
-    "YouTube/content/code/sql/2.where.md",
-    "YouTube/content/code/sql/1.select.md",
-    "YouTube/content/code/snippets/flutter.md",
-    "YouTube/content/code/snippets/graphs.md",
-    "YouTube/content/code/snippets/tree-treversals.md",
-    "YouTube/content/code/snippets/sliding-window.md",
-    "YouTube/content/top-ten-mastery/vue.md",
-    "YouTube/content/top-ten-mastery/sql.md",
-    "YouTube/content/top-ten-mastery/react-native.md",
-    "YouTube/content/top-ten-mastery/python.md",
-    "YouTube/content/top-ten-mastery/node.md",
-    "YouTube/content/top-ten-mastery/mongo.md",
-    "YouTube/content/top-ten-mastery/machine-learning.md",
-    "YouTube/content/top-ten-mastery/js.md",
-    "YouTube/content/top-ten-mastery/html.md",
-    "YouTube/content/top-ten-mastery/flutter.md",
-    "YouTube/content/code/sql",
-    "YouTube/content/code/snippets",
-    "YouTube/content/top-ten-mastery",
-    "YouTube/content/top-ten-foundation",
-    "YouTube/content/python",
-    "YouTube/content/flutter",
-    "YouTube/content/code",
-    "YouTube/content/finance",
-    "YouTube/content",
-    "Startups/videos",
     "DSA/big-o-cheatsheet.png",
     "big-o-cheatsheet.png",
     "Projects/f_dsa/build/web/icons/Icon-512.png",
@@ -206,7 +204,6 @@
     "Projects/f_dsa/build/web/icons/Icon-maskable-192.png",
     "Projects/f_dsa/build/web/icons/Icon-192.png",
     "Projects/f_dsa/build/web/favicon.png",
-    "Projects/drift/extras/integration_tests/ffi_on_flutter/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png",
     "Calculus/Calculus.canvas",
     "Courses/Calculus/Calculus.canvas",
     "Untitled 1.canvas",
