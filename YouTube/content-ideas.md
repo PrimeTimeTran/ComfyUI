@@ -1,8 +1,17 @@
-Review Reflex
-https://github.com/reflex-dev/reflex
+## Content ideas for a YouTube Channel
 
-Boot.dev
-https://www.boot.dev/tracks/backend
+Ideas that are scalable, repeatable.
 
-Create word puzzle Flutter
-https://codelabs.developers.google.com/codelabs/flutter-word-puzzle?utm_source=twitter&utm_medium=organicsocial&utm_campaign&utm_content#2
+| Date | Name                       | Type     | Url                                                                                                                                        |
+| ---- | -------------------------- | -------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
+|      | Create word puzzle Flutter | Tutorial | https://codelabs.developers.google.com/codelabs/flutter-word-puzzle?utm_source=twitter&utm_medium=organicsocial&utm_campaign&utm_content#2 |
+|      | Boot.dev                   | Review   | https://www.boot.dev/tracks/backend                                                                                                        |
+|      | Reflex                     | Review   | https://github.com/reflex-dev/reflex                                                                                                       |
+|      |                            |          |                                                                                                                                            |
+|      |                            |          |                                                                                                                                            |
+|      |                            |          |                                                                                                                                            |
+|      |                            |          |                                                                                                                                            |
+|      |                            |          |                                                                                                                                            |
+|      |                            |          |                                                                                                                                            |
+|      |                            |          |                                                                                                                                            |
+|      |                            |          |                                                                                                                                            |

@@ -11,8 +11,13 @@
             "id": "bbb2c352c416dbb5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "YouTube/content-ideas.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "YouTube/content-ideas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "YouTube/content-ideas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "YouTube/content-ideas.md"
+              }
             }
           },
           {
@@ -152,52 +161,52 @@
   },
   "active": "bbb2c352c416dbb5",
   "lastOpenFiles": [
-    "Courses/Trigonometry/Trigonometry.md",
-    "Flutter CLI.md",
-    "payroll_by_sales_id_modified.csv",
-    "Projects/f_dsa/build/web/flutter_service_worker.js",
-    "Projects/f_dsa/build/web/manifest.json",
+    "YouTube/content/top-ten-mastery/vue.md",
+    "YouTube/content/top-ten-mastery/sql.md",
+    "YouTube/content/top-ten-mastery/react-native.md",
+    "YouTube/content/top-ten-mastery/python.md",
+    "YouTube/content/top-ten-mastery/node.md",
+    "YouTube/content/top-ten-mastery/mongo.md",
+    "YouTube/content/top-ten-mastery/machine-learning.md",
+    "YouTube/content/top-ten-mastery/js.md",
+    "YouTube/content/top-ten-mastery/html.md",
+    "YouTube/content/top-ten-mastery/flutter.md",
+    "YouTube/content/top-ten-mastery/data-analytics.md",
+    "YouTube/content/top-ten-mastery/css.md",
+    "YouTube/content/top-ten-mastery",
+    "YouTube/content/top-ten-foundation/vue.md",
+    "YouTube/content/top-ten-foundation/sql.md",
+    "YouTube/content/top-ten-foundation/react-native.md",
+    "YouTube/content/top-ten-foundation/python.md",
+    "YouTube/content/top-ten-foundation/node.md",
+    "YouTube/content/top-ten-foundation/mongo.md",
+    "YouTube/content/top-ten-foundation/machine-learning.md",
+    "YouTube/content/top-ten-foundation/flutter.md",
+    "YouTube/content/top-ten-foundation/data-analytics.md",
+    "YouTube/content/top-ten-foundation/3-js.md",
+    "YouTube/content/top-ten-foundation/2-css.md",
+    "YouTube/content/top-ten-foundation/1-html.md",
+    "YouTube/content/top-ten-foundation",
+    "YouTube/content/top-ten-datasets.md",
+    "YouTube/content/sqlite.md",
+    "YouTube/content/python",
+    "YouTube/content/flutter",
+    "YouTube/content/code/sql",
+    "YouTube/content/code/snippets",
+    "YouTube/content/finance",
+    "YouTube/content/code",
+    "YouTube/content",
+    "Film/ae-skills",
     "Projects/f_dsa/build/web/icons/Icon-512.png",
     "Projects/f_dsa/build/web/icons/Icon-maskable-512.png",
     "Projects/f_dsa/build/web/icons/Icon-maskable-192.png",
     "Projects/f_dsa/build/web/icons/Icon-192.png",
-    "Projects/f_dsa/build/web/worker.dart",
-    "Projects/f_dsa/build/web/drift_worker.js",
     "Projects/f_dsa/build/web/favicon.png",
-    "Projects/f_dsa/build/web/sqlite3.wasm",
-    "Projects/f_dsa/build/web/assets/fonts/MaterialIcons-Regular.otf",
-    "Projects/f_dsa/build/web/assets/packages/cupertino_icons/assets/CupertinoIcons.ttf",
-    "Projects/f_dsa/build/web/assets/shaders/ink_sparkle.frag",
-    "Projects/f_dsa/build/web/assets/NOTICES",
-    "Projects/f_dsa/notes/Sorting.md",
-    "Projects/f_dsa/notes/SQL.md",
-    "Projects/f_dsa/notes/NOTES copy.md",
-    "Courses/Prerequisites/PHY 2048C - General Physics 1.md",
-    "Projects/f_dsa/notes/web.md",
-    "Projects/f_dsa/notes/Plan.md",
-    "Projects/drift/sqlparser/README.md",
-    "Projects/drift/sqlparser/CHANGELOG.md",
     "Projects/drift/extras/integration_tests/ffi_on_flutter/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png",
     "Projects/drift/extras/integration_tests/ffi_on_flutter/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png",
     "Projects/drift/extras/integration_tests/ffi_on_flutter/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png",
     "Projects/drift/extras/integration_tests/ffi_on_flutter/android/app/src/main/res/mipmap-mdpi/ic_launcher.png",
     "Projects/drift/extras/integration_tests/ffi_on_flutter/android/app/src/main/res/mipmap-hdpi/ic_launcher.png",
-    "Projects/drift/extras/integration_tests/ffi_on_flutter/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md",
-    "Projects/drift/extras/integration_tests/web_wasm/README.md",
-    "Projects/drift/extras/integration_tests/ffi_on_flutter/README.md",
-    "Projects/drift/extras/integration_tests/drift_testcases/README.md",
-    "Projects/drift/extras/assets/old_moor_package/README.md",
-    "Projects/drift/extras/assets/old_moor_flutter_package/README.md",
-    "Projects/drift/extras/encryption/README.md",
-    "Projects/drift/extras/integration_tests/README.md",
-    "Projects/drift/extras/drift_postgres/README.md",
-    "Projects/drift/extras/drift_postgres/CHANGELOG.md",
-    "Projects/drift/extras/drift_mariadb/README.md",
-    "Projects/drift/extras/drift_devtools_extension/README.md",
-    "Projects/drift/examples/encryption/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md",
-    "Projects/drift/examples/app/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md",
-    "Projects/drift/examples/web_worker_example/README.md",
-    "Projects/drift/examples/multi_package/README.md",
     "Calculus/Calculus.canvas",
     "Courses/Calculus/Calculus.canvas",
     "Untitled 1.canvas",
