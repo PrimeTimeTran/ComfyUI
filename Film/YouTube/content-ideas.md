@@ -48,9 +48,6 @@ Ideas that are scalable, repeatable.
 |      | Top 10 Docker                                  | Tips & Tricks |                                                                                                                                            |
 |      | Docker Kitchen Sink                            | Tips & Tricks |                                                                                                                                            |
 |      |                                                |               |                                                                                                                                            |
-|      |                                                |               |                                                                                                                                            |
-|      |                                                |               |                                                                                                                                            |
-|      |                                                |               |                                                                                                                                            |
 |      | Top 10 Learn ML                                |               |                                                                                                                                            |
 |      | all learning algorithms                        |               |                                                                                                                                            |
 |      |                                                |               |                                                                                                                                            |
