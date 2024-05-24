@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "28217dde8029efe0",
+        "id": "e1200c7e03f7a52d",
         "type": "tabs",
         "children": [
           {
-            "id": "bbb2c352c416dbb5",
+            "id": "dc851e2838f0e538",
             "type": "leaf",
             "state": {
-              "type": "database-plugin",
-              "state": {
-                "file": "Databases/SQL/0. Study.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -83,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Databases/SQL/0. Study.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Databases/SQL/0. Study.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Databases/SQL/0. Study.md"
-              }
+              "state": {}
             }
           },
           {
@@ -156,8 +150,11 @@
       "dbfolder:Create a new database table": false
     }
   },
-  "active": "bbb2c352c416dbb5",
+  "active": "dc851e2838f0e538",
   "lastOpenFiles": [
+    "Startups/go-to-market-content-marketing.md",
+    "Film/steps-voiceover-local-audio-generation.md",
+    "Databases/SQL/0. Study.md",
     "YouTube/content-ideas.md",
     "Film/YouTube/content/code/sql/5.aggregate.md",
     "Film/YouTube/content/code/sql/2.where.md",
@@ -181,9 +178,6 @@
     "Film/YouTube/content/top-ten-mastery/data-analytics.md",
     "Film/YouTube/content/top-ten-mastery/css.md",
     "Film/YouTube/content/top-ten-foundation/vue.md",
-    "Film/YouTube/content/top-ten-foundation/sql.md",
-    "Film/YouTube/content/top-ten-foundation/react-native.md",
-    "Film/YouTube/content/top-ten-foundation/python.md",
     "Film/YouTube/content/code/sql",
     "Film/YouTube/content/code/snippets",
     "Film/YouTube/content/top-ten-mastery",
