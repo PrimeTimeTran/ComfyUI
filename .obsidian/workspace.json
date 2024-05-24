@@ -11,9 +11,12 @@
             "id": "bbb2c352c416dbb5",
             "type": "leaf",
             "state": {
-              "type": "database-plugin",
+              "type": "markdown",
               "state": {
-                "file": "Databases/SQL/0. Study.md"
+                "file": "YouTube/content-ideas.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -83,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Databases/SQL/0. Study.md",
+                "file": "YouTube/content-ideas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Databases/SQL/0. Study.md",
+                "file": "YouTube/content-ideas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Databases/SQL/0. Study.md"
+                "file": "YouTube/content-ideas.md"
               }
             }
           },
@@ -158,44 +161,44 @@
   },
   "active": "bbb2c352c416dbb5",
   "lastOpenFiles": [
-    "Languages/Go/modules.md",
-    "Projects/Go-Crud/README.md",
-    "Projects/Go-Crud/go.sum",
-    "Projects/Go-Crud/go.mod",
-    "Projects/Go-Crud/main",
-    "Projects/Go-Crud/main.go",
-    "Projects/Go-Crud",
-    "Projects/Go-Client copy/main.go",
-    "Projects/Go-Client copy/main",
-    "Projects/Go-Client copy",
-    "Projects/Go-HelloWorld/main",
-    "Projects/Go-HelloWorld/main.go",
-    "Languages/Go/http-client.md",
-    "Languages/Go/hello-world copy.md",
-    "Languages/Go/hello-world.md",
-    "AI/what-is-a-model.md",
-    "Calculus/Vectors.md",
+    "YouTube/content/code/sql/4.order by.md",
+    "YouTube/content/code/sql/5.aggregate.md",
+    "YouTube/content/code/sql/3.filter.md",
+    "YouTube/content/code/sql/2.where.md",
+    "YouTube/content/code/sql/1.select.md",
+    "YouTube/content/code/snippets/flutter.md",
+    "YouTube/content/code/snippets/graphs.md",
+    "YouTube/content/code/snippets/tree-treversals.md",
+    "YouTube/content/code/snippets/sliding-window.md",
+    "YouTube/content/top-ten-mastery/vue.md",
+    "YouTube/content/top-ten-mastery/sql.md",
+    "YouTube/content/top-ten-mastery/react-native.md",
+    "YouTube/content/top-ten-mastery/python.md",
+    "YouTube/content/top-ten-mastery/node.md",
+    "YouTube/content/top-ten-mastery/mongo.md",
+    "YouTube/content/top-ten-mastery/machine-learning.md",
+    "YouTube/content/top-ten-mastery/js.md",
+    "YouTube/content/top-ten-mastery/html.md",
+    "YouTube/content/top-ten-mastery/flutter.md",
+    "YouTube/content/top-ten-mastery/data-analytics.md",
+    "YouTube/content/top-ten-mastery/css.md",
+    "YouTube/content/top-ten-foundation/vue.md",
+    "YouTube/content/top-ten-foundation/sql.md",
+    "YouTube/content/top-ten-foundation/react-native.md",
+    "YouTube/content/top-ten-foundation/python.md",
+    "YouTube/content/top-ten-foundation/node.md",
+    "YouTube/content/code/sql",
+    "YouTube/content/code/snippets",
+    "YouTube/content/top-ten-mastery",
+    "YouTube/content/top-ten-foundation",
+    "YouTube/content/python",
+    "YouTube/content/flutter",
+    "YouTube/content/code",
+    "YouTube/content/finance",
+    "YouTube/content",
+    "Startups/videos",
     "DSA/big-o-cheatsheet.png",
     "big-o-cheatsheet.png",
-    "Databases/SQL/1. SQL.md",
-    "Databases/SQL/7. Subqueries.md",
-    "Databases/SQL/5. Sorting & Grouping.md",
-    "Databases/SQL/3. Joins.md",
-    "Databases/SQL/0. Study.md",
-    "Databases/Databases.md",
-    "Databases/Postgres.md",
-    "Frameworks/Django.md",
-    "YouTube/content-ideas.md",
-    "YouTube/content-ideas/code/sql/5.aggregate.md",
-    "YouTube/content-ideas/code/sql/4.order by.md",
-    "YouTube/content-ideas/code/sql/3.filter.md",
-    "YouTube/content-ideas/code/sql/2.where.md",
-    "YouTube/content-ideas/code/sql/1.select.md",
-    "YouTube/content-ideas/code/snippets/tree-treversals.md",
-    "YouTube/content-ideas/code/snippets/sliding-window.md",
-    "YouTube/content-ideas/code/snippets/graphs.md",
-    "YouTube/content-ideas/code/snippets/flutter.md",
-    "YouTube/content-ideas/top-ten-mastery/vue.md",
     "Projects/f_dsa/build/web/icons/Icon-512.png",
     "Projects/f_dsa/build/web/icons/Icon-maskable-512.png",
     "Projects/f_dsa/build/web/icons/Icon-maskable-192.png",

@@ -3,11 +3,21 @@
 - Fire Intro
 - Fire Exit
 
+## Visual Types
+
+- Screen recordings
+- Screen recordings, quote on top superimposed
+- Screen recordings, arrows pointing superimposed
+- Screen recording, meme superimposed
+- Old school chat with celebrities photos superimposed
+- Gifs with icons on top
+- Celebrity photo with superimposed text
+
 ## Effects
 
+- Shaking images
 - Arrows
 - Gifs
--
 
 ## Transitions
 
