@@ -51,6 +51,6 @@ Ideas that are scalable, repeatable.
 |      |                                                |               |                                                                                                                                            |
 |      |                                                |               |                                                                                                                                            |
 |      |                                                |               |                                                                                                                                            |
-|      |                                                |               |                                                                                                                                            |
-|      |                                                |               |                                                                                                                                            |
+|      | Top 10 Learn ML                                |               |                                                                                                                                            |
+|      | all learning algorithms                        |               |                                                                                                                                            |
 |      |                                                |               |                                                                                                                                            |
