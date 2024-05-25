@@ -10,3 +10,5 @@ Projects/content-generator
 
 
 **/venv/
+**/max-venv/
+**/mojo-venv/

@@ -6,6 +6,8 @@ from sklearn.datasets import load_iris
 
 iris = load_iris()
 
+# Print insights
+
 # print(iris.feature_names)
 # print(iris.target_names)
 # print(iris.data[0])
@@ -27,9 +29,6 @@ clf = clf.fit(train_data, train_target)
 print(test_target)
 print(clf.predict(test_data))
 
-# dot_data = tree.export_graphviz(clf, out_file=None) 
-# graph = graphviz.Source(dot_data) 
-# graph.render("iris") 
 dot_data = tree.export_graphviz(clf, out_file=None, 
                      feature_names=iris.feature_names,  
                      class_names=iris.target_names,  
@@ -37,4 +36,3 @@ dot_data = tree.export_graphviz(clf, out_file=None,
                      special_characters=True)  
 graph = graphviz.Source(dot_data)  
 graph.render("iris") 
-

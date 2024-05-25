@@ -11,8 +11,13 @@
             "id": "dc851e2838f0e538",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Film/calculus-in-a-nutshell.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Film/calculus-in-a-nutshell.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Film/calculus-in-a-nutshell.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Film/calculus-in-a-nutshell.md"
+              }
             }
           },
           {
@@ -152,17 +161,23 @@
   },
   "active": "dc851e2838f0e538",
   "lastOpenFiles": [
-    "Projects/ML-Flowers-Classifier/iris.pdf",
-    "Projects/ML-Flowers-Classifier/iris",
-    "Projects/ML-HelloWorld/venv/lib/python3.12/site-packages/graphviz-0.20.3.dist-info/top_level.txt",
-    "Projects/ML-HelloWorld/venv/lib/python3.12/site-packages/graphviz-0.20.3.dist-info/WHEEL",
-    "Projects/ML-HelloWorld/venv/lib/python3.12/site-packages/graphviz-0.20.3.dist-info/REQUESTED",
-    "Projects/ML-HelloWorld/venv/lib/python3.12/site-packages/graphviz-0.20.3.dist-info/RECORD",
-    "Projects/ML-HelloWorld/venv/lib/python3.12/site-packages/graphviz-0.20.3.dist-info/METADATA",
-    "Projects/ML-HelloWorld/venv/lib/python3.12/site-packages/graphviz-0.20.3.dist-info/INSTALLER",
-    "Projects/ML-HelloWorld/venv/lib/python3.12/site-packages/graphviz-0.20.3.dist-info/LICENSE.txt",
-    "Projects/ML-HelloWorld/venv/lib/python3.12/site-packages/graphviz-0.20.3.dist-info",
-    "Projects/ML-HelloWorld/venv/lib/python3.12/site-packages/graphviz/parameters/__pycache__/renderers.cpython-312.pyc",
+    "Projects/Mojo-HelloWorld/mojo.ipynb",
+    "Projects/Mojo-HelloWorld/mojo.pyl",
+    "Projects/Mojo-HelloWorld/hello",
+    "Projects/Mojo-HelloWorld/mojo-venv/bin/activate",
+    "Projects/Mojo-HelloWorld/mojo-venv/bin/Activate.ps1",
+    "Projects/Mojo-HelloWorld/mojo-venv/bin/activate.csh",
+    "Projects/Mojo-HelloWorld/mojo-venv/bin/activate.fish",
+    "Projects/Mojo-HelloWorld/mojo-venv/bin/pip3.11",
+    "Projects/Mojo-HelloWorld/mojo-venv/bin/pip3",
+    "Projects/Mojo-HelloWorld/mojo-venv/bin/pip",
+    "Projects/Mojo-HelloWorld/mojo-venv/lib/python3.11/site-packages/pip-23.2.1.dist-info/top_level.txt",
+    "Projects/Mojo-HelloWorld/README.md",
+    "Projects/Bend-HelloWorld/README.md",
+    "Frameworks/flutter-snippets.md",
+    "Film/calculus-in-a-nutshell.md",
+    "Film/calculus.md",
+    "Film/trigonometry.md",
     "Projects/ML-Flowers-Classifier/venv/lib/python3.12/site-packages/sklearn/datasets/images/flower.jpg",
     "Projects/ML-Flowers-Classifier/venv/lib/python3.12/site-packages/sklearn/datasets/images/china.jpg",
     "Projects/ML-Flowers-Classifier/venv/lib/python3.12/site-packages/scipy/ndimage/tests/dots.png",
@@ -191,12 +206,6 @@
     "Film/YouTube/all-learning-algorithms-explained.md",
     "Film/YouTube/content/top-10-photoshop.md",
     "Film/YouTube/content/top-10-datasets.md",
-    "Film/YouTube/content/top-10-ml.md",
-    "Film/YouTube/content/top-ten-ml.md",
-    "Film/YouTube/top-ten-ml.md",
-    "Startups/go-to-market-content-marketing.md",
-    "Film/steps-voiceover-local-audio-generation.md",
-    "Databases/SQL/0. Study.md",
     "Film/YouTube/thumbnail-ideas.png",
     "Calculus/Calculus.canvas",
     "Courses/Calculus/Calculus.canvas",
