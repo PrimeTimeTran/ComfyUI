@@ -2,6 +2,8 @@
 
 https://www.youtube.com/watch?v=lmR58_dqLxY
 
+- do the real thing scotthyoung
+
 ```js
 const story = {
     title: "First you learn, then you earn",

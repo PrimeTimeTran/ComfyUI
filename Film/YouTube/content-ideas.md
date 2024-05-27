@@ -51,7 +51,7 @@ Ideas that are scalable, repeatable.
 |      | Docker Kitchen Sink                            | Tips & Tricks |        |
 |      |                                                |               |        |
 |      | Top 10 Learn ML                                |               |        |
-|      | all learning algorithms                        |               |        |
+|      | All learning algorithms                        |               |        |
 |      |                                                |               |        |
 |      | Top 10 Python Packages                         |               |        |
 |      | Top 10 Python syntax beginners                 |               |        |
