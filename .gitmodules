@@ -4,3 +4,6 @@
 [submodule "Projects/compiler"]
 	path = Projects/compiler
 	url = git@github.com:PrimeTimeTran/testing.git
+[submodule "Projects/dotnet-template-webapi"]
+	path = Projects/dotnet-template-webapi
+	url = git@github.com:PrimeTimeTran/testing.git
