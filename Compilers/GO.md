@@ -1,36 +1,25 @@
+## Why
+
+https://docs.modular.com/engine/python/get-started
+https://github.com/HigherOrderCO/Bend?tab=readme-ov-file
+
 ## Intro
 
-- Create a C++ program
-  `touch one.cpp`
+## Study GCC/G++ Compiler
+
+Let's study another compiler to understand some of the steps involved.
+
+- Write code
 
   ```
-  #include <stdio.h>
-
   int main() {
       return 1;
   }
   ```
 
-- Use a compiler to build a program.
-  `gcc -Wall one.c -o one`
-  `g++ one.cpp -o one`
-
-  Just so you understand that when you use `gcc/g++` you're using a compiler.
-
-- Run the compiled program
-  `./one`
-
-  You have an executable that's run through your CPU.
-
-- View return of program
-  `echo $?`
-
-## Breaking it down
-
-Lets take the compilation process step by step to understand what'll happen.
+  We're going to use C++ because it's ubiquitous.
 
 - Create assembly file(machine code) from the `C` code.
-  `gcc -S -O3 -fno-asynchronous-unwind-tables one.c`
   `g++ -S -O3 -fno-asynchronous-unwind-tables one.cpp`
 
   The literal instructions the processor will follow can be viewed with.
@@ -60,7 +49,6 @@ Lets take the compilation process step by step to understand what'll happen.
   Object files have different extensions depending on the platform and compiler used. For example, on Unix-like systems, they often have a .o extension, while on Windows, they might have a .obj extension.
 
 - Link binary
-  `gcc one.o -o my_program`
   `g++ one.o -o my_program`
 
   Now we've created an executable, a file which will "run"
@@ -73,11 +61,14 @@ Lets take the compilation process step by step to understand what'll happen.
 
 Pat yourself on the back, you now understand the MVP compile process
 
-## Next UP
+### Conclusion
 
-In a real-world scenario, building a complete compiler involves several additional steps beyond compiling a single source file into assembly and then into an object file. You'll typically need to implement a lexer, parser, semantic analyzer, code generator, and possibly other components depending on the complexity of the language you're compiling. You'll also need to handle linking multiple object files together and generating an executable binary.
+We've observed how compilers are a multi step process. Going from a high level language such as C++ to low level machine readable binary
+includes several processes.
 
 ## Lexer
+
+In a real-world scenario, building a complete compiler involves several additional steps beyond compiling a single source file into assembly and then into an object file. You'll typically need to implement a lexer, parser, semantic analyzer, code generator, and possibly other components depending on the complexity of the language you're compiling. You'll also need to handle linking multiple object files together and generating an executable binary.
 
 - Define tokens
   `token_map.csv`
