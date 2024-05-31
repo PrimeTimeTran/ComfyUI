@@ -1,0 +1,11 @@
+- Sorta fast
+
+- Eye level
+- High angle
+- Low angle
+- Over the shoulder
+- Dolly shot
+- Crane shot
+- Tracking shot
+- Aerial View
+- Steadicam shot

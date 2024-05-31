@@ -12,3 +12,4 @@ Projects/content-generator
 **/venv/
 **/max-venv/
 **/mojo-venv/
+**/__pycache__/
