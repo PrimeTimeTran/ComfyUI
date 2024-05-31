@@ -1,3 +1,7 @@
+**/venv/
+**/node_modules/
+**/__pycache__/
+
 Code/CryptoExchange/venv
 Code/CryptoExchange/__pycache__
 Code/f_paginated_table/.dart_tool
@@ -6,13 +10,5 @@ Code/f_paginated_table/build
 Code/f_paginated_table/ios
 Projects/content-generator
 Projects/ml_dogs_cats/PetImages
-Projects/ml_svg_shape_classifier/pngs-sm
-Projects/ml_svg_shape_classifier/train-sm
-Projects/ml_svg_shape_classifier/pngs
-Projects/ml_svg_shape_classifier/train
-Projects/ml_svg_shape_classifier/manual-pngs
-Projects/ml_svg_shape_classifier/manual-testing
+Projects/ml_svg_shape_classifier/data
 Projects/ml_svg_shape_classifier/checkpoints
-**/venv/
-**/node_modules/
-**/__pycache__/
