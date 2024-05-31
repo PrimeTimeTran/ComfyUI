@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/future/Documents/CS/Projects/dotnet-template-webapi/dotnet-template-webapi.csproj": {}
+    "/Users/future/Documents/Work/CS/Projects/dotnet-template-webapi/dotnet-template-webapi.csproj": {}
   },
   "projects": {
-    "/Users/future/Documents/CS/Projects/dotnet-template-webapi/dotnet-template-webapi.csproj": {
+    "/Users/future/Documents/Work/CS/Projects/dotnet-template-webapi/dotnet-template-webapi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/future/Documents/CS/Projects/dotnet-template-webapi/dotnet-template-webapi.csproj",
+        "projectUniqueName": "/Users/future/Documents/Work/CS/Projects/dotnet-template-webapi/dotnet-template-webapi.csproj",
         "projectName": "dotnet-template-webapi",
-        "projectPath": "/Users/future/Documents/CS/Projects/dotnet-template-webapi/dotnet-template-webapi.csproj",
+        "projectPath": "/Users/future/Documents/Work/CS/Projects/dotnet-template-webapi/dotnet-template-webapi.csproj",
         "packagesPath": "/Users/future/.nuget/packages/",
-        "outputPath": "/Users/future/Documents/CS/Projects/dotnet-template-webapi/obj/",
+        "outputPath": "/Users/future/Documents/Work/CS/Projects/dotnet-template-webapi/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/future/.nuget/NuGet/NuGet.Config"

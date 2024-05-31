@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/future/Documents/CS/Projects/dotnet-template-mvc/dotnet-template-mvc.csproj": {}
+    "/Users/future/Documents/Work/CS/Projects/dotnet-template-mvc/dotnet-template-mvc.csproj": {}
   },
   "projects": {
-    "/Users/future/Documents/CS/Projects/dotnet-template-mvc/dotnet-template-mvc.csproj": {
+    "/Users/future/Documents/Work/CS/Projects/dotnet-template-mvc/dotnet-template-mvc.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/future/Documents/CS/Projects/dotnet-template-mvc/dotnet-template-mvc.csproj",
+        "projectUniqueName": "/Users/future/Documents/Work/CS/Projects/dotnet-template-mvc/dotnet-template-mvc.csproj",
         "projectName": "dotnet-template-mvc",
-        "projectPath": "/Users/future/Documents/CS/Projects/dotnet-template-mvc/dotnet-template-mvc.csproj",
+        "projectPath": "/Users/future/Documents/Work/CS/Projects/dotnet-template-mvc/dotnet-template-mvc.csproj",
         "packagesPath": "/Users/future/.nuget/packages/",
-        "outputPath": "/Users/future/Documents/CS/Projects/dotnet-template-mvc/obj/",
+        "outputPath": "/Users/future/Documents/Work/CS/Projects/dotnet-template-mvc/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/future/.nuget/NuGet/NuGet.Config"

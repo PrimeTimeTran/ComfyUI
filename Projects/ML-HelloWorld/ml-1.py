@@ -9,7 +9,6 @@ clf = clf.fit(features,labels)
 # Heavy, bumpy
 print (clf.predict([[150,0]]))
 
-
 # How much training data do we need?
 # How does this work in the real world?
 # How is the tree created?

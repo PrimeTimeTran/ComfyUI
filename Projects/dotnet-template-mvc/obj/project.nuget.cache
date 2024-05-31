@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zQrUv0C30/R6sceVNqVm2lFj1jlnjWaXZ+dgL7a2z/bVvC3X2FHDgEkofSxJnukh7nIjWFLu1SmKQWh9KhlZcQ==",
+  "dgSpecHash": "D0bOxAq2cnNCaG3FAih9E1+ckQib2Hiv+47yWjY3Jpd510QXJO9lRVb9YKfFa5WTa9P/hsaD3yOlDDplfSKv8w==",
   "success": true,
-  "projectFilePath": "/Users/future/Documents/CS/Projects/dotnet-template-mvc/dotnet-template-mvc.csproj",
+  "projectFilePath": "/Users/future/Documents/Work/CS/Projects/dotnet-template-mvc/dotnet-template-mvc.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
