@@ -2,56 +2,7 @@ import random
 import math
 import svgwrite
 import random
-
-html_named_colors = [
-    "AliceBlue", "AntiqueWhite", "Aqua", "Aquamarine", "Azure", "Beige", "Bisque",
-    "Black", "BlanchedAlmond", "Blue", "BlueViolet", "Brown", "BurlyWood", "CadetBlue",
-    "Chartreuse", "Chocolate", "Coral", "CornflowerBlue", "Cornsilk", "Crimson", "Cyan",
-    "DarkBlue", "DarkCyan", "DarkGoldenRod", "DarkGray", "DarkGreen", "DarkKhaki",
-    "DarkMagenta", "DarkOliveGreen", "DarkOrange", "DarkOrchid", "DarkRed", "DarkSalmon",
-    "DarkSeaGreen", "DarkSlateBlue", "DarkSlateGray", "DarkTurquoise", "DarkViolet",
-    "DeepPink", "DeepSkyBlue", "DimGray", "DodgerBlue", "FireBrick", "FloralWhite",
-    "ForestGreen", "Fuchsia", "Gainsboro", "GhostWhite", "Gold", "GoldenRod", "Gray",
-    "Green", "GreenYellow", "HoneyDew", "HotPink", "IndianRed", "Indigo", "Ivory", "Khaki",
-    "Lavender", "LavenderBlush", "LawnGreen", "LemonChiffon", "LightBlue", "LightCoral",
-    "LightCyan", "LightGoldenRodYellow", "LightGray", "LightGreen", "LightPink",
-    "LightSalmon", "LightSeaGreen", "LightSkyBlue", "LightSlateGray", "LightSteelBlue",
-    "LightYellow", "Lime", "LimeGreen", "Linen", "Magenta", "Maroon", "MediumAquaMarine",
-    "MediumBlue", "MediumOrchid", "MediumPurple", "MediumSeaGreen", "MediumSlateBlue",
-    "MediumSpringGreen", "MediumTurquoise", "MediumVioletRed", "MidnightBlue", "MintCream",
-    "MistyRose", "Moccasin", "NavajoWhite", "Navy", "OldLace", "Olive", "OliveDrab",
-    "Orange", "OrangeRed", "Orchid", "PaleGoldenRod", "PaleGreen", "PaleTurquoise",
-    "PaleVioletRed", "PapayaWhip", "PeachPuff", "Peru", "Pink", "Plum", "PowderBlue",
-    "Purple", "RebeccaPurple", "Red", "RosyBrown", "RoyalBlue", "SaddleBrown", "Salmon",
-    "SandyBrown", "SeaGreen", "SeaShell", "Sienna", "Silver", "SkyBlue", "SlateBlue",
-    "SlateGray", "Snow", "SpringGreen", "SteelBlue", "Tan", "Teal", "Thistle", "Tomato",
-    "Turquoise", "Violet", "Wheat", "White", "WhiteSmoke", "Yellow", "YellowGreen"
-]
-
-svg_safe = [
-    "AliceBlue", "AntiqueWhite", "Aqua", "Aquamarine", "Azure", "Beige", "Bisque",
-    "Black", "BlanchedAlmond", "Blue", "BlueViolet", "Brown", "BurlyWood", "CadetBlue",
-    "Chartreuse", "Chocolate", "Coral", "CornflowerBlue", "Cornsilk", "Crimson", "Cyan",
-    "DarkBlue", "DarkCyan", "DarkGoldenRod", "DarkGray", "DarkGreen", "DarkKhaki",
-    "DarkMagenta", "DarkOliveGreen", "DarkOrange", "DarkOrchid", "DarkRed", "DarkSalmon",
-    "DarkSeaGreen", "DarkSlateBlue", "DarkSlateGray", "DarkTurquoise", "DarkViolet",
-    "DeepPink", "DeepSkyBlue", "DimGray", "DodgerBlue", "FireBrick", "FloralWhite",
-    "ForestGreen", "Fuchsia", "Gainsboro", "GhostWhite", "Gold", "GoldenRod", "Gray",
-    "Green", "GreenYellow", "HoneyDew", "HotPink", "IndianRed", "Indigo", "Ivory", "Khaki",
-    "Lavender", "LavenderBlush", "LawnGreen", "LemonChiffon", "LightBlue", "LightCoral",
-    "LightCyan", "LightGoldenRodYellow", "LightGray", "LightGreen", "LightPink",
-    "LightSalmon", "LightSeaGreen", "LightSlateGray", "LightSteelBlue",
-    "LightYellow", "Lime", "LimeGreen", "Linen", "Magenta", "Maroon", "MediumAquaMarine",
-    "MediumBlue", "MediumOrchid", "MediumPurple", "MediumSeaGreen", "MediumSlateBlue",
-    "MediumSpringGreen", "MediumTurquoise", "MediumVioletRed", "MidnightBlue", "MintCream",
-    "Moccasin", "NavajoWhite", "Navy", "OldLace", "Olive", "OliveDrab",
-    "Orange", "OrangeRed", "Orchid", "PaleGoldenRod", "PaleGreen", "PaleTurquoise",
-    "PaleVioletRed", "PapayaWhip", "PeachPuff", "Peru", "Pink", "Plum", "PowderBlue",
-    "Purple", "Red", "RosyBrown", "RoyalBlue", "SaddleBrown", "Salmon",
-    "SandyBrown", "SeaGreen", "SeaShell", "Sienna", "Silver", "SkyBlue", "SlateBlue",
-    "SlateGray", "Snow", "SpringGreen", "SteelBlue", "Tan", "Teal", "Thistle", "Tomato",
-    "Turquoise", "Violet", "Wheat", "White", "WhiteSmoke", "Yellow", "YellowGreen"
-]
+from shared.colors import svg_safe
 
 
 def generate_cylinder(filename):
@@ -249,7 +200,6 @@ def generate_circle(filename):
     dwg.save()
 
 
-
 shapes = [
     'cylinder',
     'square',
@@ -272,19 +222,19 @@ def generate_shape(i, shape):
             return generate_cylinder(f'{generate_type}/cylinder/cylinder-{i}.svg')
         case 'square':
             return generate_square(
-                    f'{generate_type}/square/square-{i}.svg', width, height, min_shape_size, max_shape_size)
+                f'{generate_type}/square/square-{i}.svg', width, height, min_shape_size, max_shape_size)
         case 'circle':
             return generate_circle(f'{generate_type}/circle/circle-{i}.svg')
         case 'triangle':
             return generate_triangle(
-                    f'{generate_type}/triangle/triangle-{i}.svg', width, height, min_shape_size, max_shape_size)
+                f'{generate_type}/triangle/triangle-{i}.svg', width, height, min_shape_size, max_shape_size)
         case 'cube':
             return generate_cube(f'{generate_type}/cube/cube-{i}.svg')
         case 'sphere':
             return generate_sphere(
-                    f'{generate_type}/sphere/sphere-{i}.svg', width, height, min_shape_size, max_shape_size)
+                f'{generate_type}/sphere/sphere-{i}.svg', width, height, min_shape_size, max_shape_size)
         case 'pyramid':
             return generate_pyramid(
-                    f'{generate_type}/pyramid/pyramid-{i}.svg', width, height, min_shape_size, max_shape_size)
+                f'{generate_type}/pyramid/pyramid-{i}.svg', width, height, min_shape_size, max_shape_size)
         case _:
             return "Something's wrong with the internet"

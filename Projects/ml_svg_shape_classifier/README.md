@@ -1,7 +1,7 @@
 ## Goal
 
-Create a storyboarding app which creates 1920x1080 svgs beautifully.
-Discovered that there isn't a open source model that does that(renders SVGS)
+Create a story boarding app which creates 1920x1080 SVGs beautifully.
+Discovered that there isn't a open source model that does that(renders SVGs)
 
 Decided to create my own
 
