@@ -13,7 +13,8 @@
     "drift_schemas": true,
     "ios": true,
     "macos": true,
-    "tool": true
+    "tool": true,
+    ".obsidian": true
   },
   "workbench.colorCustomizations": {
     "titleBar.activeBackground": "#41b883",
