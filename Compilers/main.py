@@ -1,7 +1,7 @@
 from lexer_step1 import tokenize
 from parser_step2 import Parser
 from semantic_analyzer_step3 import SemanticAnalyzer
-from assemble import Assembler
+from Compilers.assemble_step3 import Assembler
 code = """
 int main() {
     return 10;
