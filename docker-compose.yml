@@ -2,11 +2,14 @@ version: '3.9'
 services:
   app:
     platform: linux/amd64
+    # Info: Use image if available
     # image: c1a5d4dc904f
     build: .
     ports:
-    # host:container
+    # Info: Port mapping host:container
       - 8080:80
+    # host:container
+    # Info: Example of injecting host volume into container
     volumes: 
       - ./app2:/app
       - ./models:/app/models
