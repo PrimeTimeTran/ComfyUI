@@ -19,13 +19,19 @@
 - [ ] Dockerize Comfy
 - [ ] Prompting
 
+  - to ignore a token "-word"
+
   - [ ] Generate designed content/style
         sequence
         scene
         shot
         style
 
+  - [ ] Textual Inversions
+        https://civitai.com/articles/3776/list-of-models-signed-by-hentaidigitalart-pdxl-sd15
   - [ ] Lora
+        https://github.com/hollowstrawberry/kohya-colab/blob/main/README.md
+        Lora Making
 
     - [x] Intro
     - [ ] Detailed Understanding
