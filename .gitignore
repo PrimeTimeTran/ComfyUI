@@ -18,3 +18,4 @@ venv/
 /user/
 .server-controller-port.log
 /NOTES
+.DS_STORE
