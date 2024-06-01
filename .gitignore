@@ -1,6 +1,9 @@
 **/venv/
 **/node_modules/
 **/__pycache__/
+**/.DS_STORE
+.DS_STORE
+
 
 Code/CryptoExchange/venv
 Code/CryptoExchange/__pycache__
@@ -12,3 +15,7 @@ Projects/content-generator
 Projects/ml_dogs_cats/PetImages
 Projects/ml_svg_shape_classifier/data
 Projects/ml_svg_shape_classifier/checkpoints
+
+**/training_data
+**/outputs_training
+**/outputs_predictions

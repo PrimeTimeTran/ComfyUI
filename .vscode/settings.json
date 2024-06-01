@@ -14,7 +14,9 @@
     "ios": true,
     "macos": true,
     "tool": true,
-    ".obsidian": true
+    ".obsidian": true,
+    "**/venv": true,
+    "**/__pycache__": true,
   },
   "workbench.colorCustomizations": {
     "titleBar.activeBackground": "#41b883",

@@ -11,13 +11,8 @@
             "id": "dc851e2838f0e538",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Film/calculus-in-a-nutshell.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Film/calculus-in-a-nutshell.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Film/calculus-in-a-nutshell.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Film/calculus-in-a-nutshell.md"
-              }
+              "state": {}
             }
           },
           {
@@ -153,14 +144,12 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "publish:Publish changes...": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-advanced-slides:Show Slide Preview": false,
-      "dbfolder:Create a new database table": false
+      "publish:Publish changes...": false
     }
   },
   "active": "dc851e2838f0e538",
   "lastOpenFiles": [
+    "Brilliant/1-integral-calculus.md",
     "Projects/content-generator/audios/nova/agreeing/red-blue-seven-8-ben-is-great-hong-kong-is-cool-i-wish-i-was-there.mp3",
     "Projects/content-generator/audios/nova/agreeing",
     "Projects/content-generator/audios/nova",
@@ -172,7 +161,6 @@
     "Projects/content-generator/audios/nova/agreeing/affirmative-i-share-your-viewpoint.mp3",
     "Projects/content-generator/audios/nova/agreeing/precisely-i-couldnt-have-said-it-better-myself.mp3",
     "Projects/content-generator/audios/nova/agreeing/yes-youre-absolutely-correct.mp3",
-    "Projects/content-generator/audios/nova/agreeing/yes-that-aligns-perfectly-with-my-thoughts.mp3",
     "Projects/content-generator/node_modules/dotenv/README.md",
     "Projects/content-generator/node_modules/dotenv/README-es.md",
     "Projects/content-generator/node_modules/dotenv/CHANGELOG.md",
