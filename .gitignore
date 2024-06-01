@@ -19,3 +19,5 @@ Projects/ml_svg_shape_classifier/checkpoints
 **/training_data
 **/outputs_training
 **/outputs_predictions
+
+Projects/ml_classifier_knn/MNIST_KNN.pickle

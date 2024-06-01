@@ -12,7 +12,7 @@
 	url = git@github.com:PrimeTimeTran/testing.git
 [submodule "Projects/ComfyUI"]
 	path = Projects/ComfyUI
-	url = git@github.com:PrimeTimeTran/testing.git
+	url = git@github.com:PrimeTimeTran/ComfyUI.git
 [submodule "Projects/AnimateDiff"]
 	path = Projects/AnimateDiff
 	url = git@github.com:PrimeTimeTran/testing.git
