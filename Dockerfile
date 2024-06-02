@@ -2,7 +2,7 @@ FROM --platform=linux/x86_64 continuumio/miniconda3
 
 WORKDIR /app
 COPY . .
-
+COPY entrypoint.sh .
 COPY requirements.txt .
 RUN pip install -r requirements.txt
 
