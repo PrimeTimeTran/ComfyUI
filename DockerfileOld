@@ -1,0 +1,30 @@
+FROM --platform=linux/x86_64 nvidia/cuda:11.8.0-devel-ubuntu22.04
+
+RUN apt-get update \
+    && apt-get install -y --no-install-recommends \
+        curl \
+    && rm -rf /var/lib/apt/lists/*
+
+RUN curl -O https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh \
+    && bash Miniconda3-latest-Linux-x86_64.sh -b -p /opt/miniconda \
+    && rm Miniconda3-latest-Linux-x86_64.sh
+
+ENV PATH="/opt/miniconda/bin:$PATH"
+
+RUN conda --version
+    
+
+# WORKDIR /app
+# # COPY . .
+# # COPY app2 .
+# # COPY entrypoint.sh .
+# # COPY requirements.txt .
+
+# # RUN pip install -r requirements.txt
+
+# # Info: Points host port 80 to container
+# # docker run -p 80:3000 image_id
+# # Container must have process running on port 3000 assuming that's how we start.
+# EXPOSE 80
+# RUN chmod +x /app/entrypoint.sh
+# ENTRYPOINT ["/bin/bash", "entrypoint.sh"]
