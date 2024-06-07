@@ -1,3 +1,10 @@
+### Journals
+
+6/6/24
+
+- [x] Run ComfyUI in Docker container WSL.
+- [x] Generate remotely from Mac
+
 ## Ideas
 
 - [ ] Train model to be able to make actual sequences/scenes/shots.
@@ -5,7 +12,7 @@
 ## Todo
 
 - [ ] Make Perfect Videos
-
+- [ ] Generate designed content/style
   - [ ] Fast
   - [ ] Style
   - [ ] High resolution(1920x1080)
@@ -13,38 +20,30 @@
     - [ ] Sequence
     - [ ] Scene
     - [ ] Shot
-
 - [ ] Make high resolution images
-
-- [ ] Dockerize Comfy
 - [ ] Prompting
 
-  - to ignore a token "-word"
-
-  - [ ] Generate designed content/style
-        sequence
-        scene
-        shot
-        style
-
+  - [x] to ignore a token "-word"
   - [ ] Textual Inversions
         https://civitai.com/articles/3776/list-of-models-signed-by-hentaidigitalart-pdxl-sd15
+
   - [ ] Lora
-        https://github.com/hollowstrawberry/kohya-colab/blob/main/README.md
-        Lora Making
 
     - [x] Intro
     - [ ] Detailed Understanding
+          https://github.com/hollowstrawberry/kohya-colab/blob/main/README.md
+          Lora Making
 
   - [ ] Embeddings
-        Resources
-        https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Textual-Inversion
-
     - [x] Intro
     - [ ] Detailed Understanding
+          Resources
+          https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Textual-Inversion
 
 ## Done
 
+- [x] Dockerize Comfy
+      6/6/26
 - [x] Must be super detailed
 - [x] Should use negation prompts
 - [x] A lot of tricky words

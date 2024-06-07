@@ -1,7 +1,7 @@
 # Integral Calculus
 
 - Calculating Distance
-- UsingRiemann Sums
+- Using Riemann Sums
 - The Definite Integral
 - First Calculations
 - The Fundamental Theorem of Calculus
@@ -32,9 +32,40 @@
 
 ## Calculating Distance
 
-## UsingRiemann Sums
+n-approximation
+
+$$
+S = \frac{n}{2} * (a+l)
+$$
+
+where
+
+- S is the sum of the series,
+- n is the number of terms,
+- a is the first term, and
+- l is the last term.
+
+Riemann Sum
+
+$$
+RS(f,a,b,n)
+$$
+
+## Using Riemann Sums
+
+Appears in
+
+- distance traveled,
+- average value of functions,
+- continuous probability
 
 ## The Definite Integral
+
+$$
+\int_{a}^{b} f(x) \space dt
+$$
+
+Gives a value
 
 ## First Calculations
 
