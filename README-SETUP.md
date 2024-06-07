@@ -11,6 +11,8 @@ conda install --file requirements-macos.txt
 python main.py
 ```
 
+---
+
 ## Setup(Windows/WSL with CUDA)
 
 ### 1.a Check Dev Environment is Ok
@@ -34,7 +36,11 @@ which python
 # -> /c/ProgramData/anaconda3/python
 ```
 
-### Check Cuda Drivers Installed & Versions
+### 1.b Find CUDA Version
+
+- Run in Git Bash.
+  - Powershell & Command Prompt has been observed to spit out stale results.
+- Print installed CUDA version on your machine.
 
 ```sh
 nvcc --version
@@ -51,11 +57,7 @@ nvcc --version
 nvidia-smi
 ```
 
-    - View the defined Cuda driver for your machine.
-    - Make sure to run in Git Bash.
-    - The Powershell & Command prompt has been observed to spit out stale results.
-
-### 1.b Install the CUDA built primary torch libs so other packages don't complain later.
+### 1.c Install the CUDA built primary torch libs so other packages don't complain later.
 
 Replace the url in the following `pip install` command with a url you find on the PyTorch [website](https://pytorch.org/get-started/locally/).
 
@@ -67,6 +69,8 @@ pip install torchsde
 pip install -r requirements.txt
 ```
 
+---
+
 ### 2. Install packages using both pip & conda.
 
 Some packages aren't available on conda so we have to install via pip. They're not mutually exclusive.
@@ -75,12 +79,6 @@ Some packages aren't available on conda so we have to install via pip. They're n
 pip install -r requirements-windows.txt
 conda env create comfy --file=environment-windows.yml -y
 conda activate comfy
-```
-
-### Run app
-
-```sh
-python main.py
 ```
 
 ### Check Torch Installation
@@ -108,6 +106,12 @@ python test-torch.py
 #         [0.2979, 0.7141, 0.9069],
 #         [0.1449, 0.1132, 0.1375],
 #         [0.4675, 0.3947, 0.1426]])
+```
+
+### Run app
+
+```sh
+python main.py
 ```
 
 ## Containerization
