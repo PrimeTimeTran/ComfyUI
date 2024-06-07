@@ -2,6 +2,8 @@ How to use Camera Positions
 Developing prompts
 Versions used
 
+![[./assets/shots.png|1000x700]]
+
 - Which Camera Positions do exist?
 
   - Eye level

@@ -1,5 +1,11 @@
 ### Journals
 
+6/7/24
+
+- [x] Prompting ChatGPT
+
+Docker containers[^1] are capsules for your applications. They're built using images[^2].
+
 6/6/24
 
 - [x] Run ComfyUI in Docker container WSL.
@@ -59,3 +65,6 @@
     - [x] Resize
   - [x] Generate Video/s
     - [x] Resize
+
+[^1]: Docker Containers.
+[^2]: Docker Images

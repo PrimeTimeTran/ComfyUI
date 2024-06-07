@@ -1,30 +1,99 @@
 # Docker
 
-- Run container using image 223c9ff3559d & expose port `8188` to host port `80`
+## Images
+
+### Create image using current directory's Dockerfile
 
 ```sh
-docker run 223c9ff3559d -p 80:8188
+docker build .
 ```
 
-- Build and immediately run
+### Build image with a name
 
 ```sh
+docker build . -t my-image
+```
+
+### Tag with repo name, image name, and version.
+
+```sh
+docker build . -t my-repo/my-image:1.0
+```
+
+### Tag an image and push it
+
+```sh
+docker -t my-image:tagname my-repo:tagname
+docker push my-repo:tagname
+```
+
+### Load zip file into Docker
+
+```sh
+docker save -o comfy_image.tar primetimetran/comfy:latest
+```
+
+## Containers
+
+### Run container using image IMAGE_ID & map container port `8188` to host port `80`
+
+```sh
+docker run IMAGE_ID -p 80:8188
+```
+
+### SSH into container IMAGE_ID
+
+```sh
+docker exec -it IMAGE_ID /bin/bash
+```
+
+### View logs of CONTAINER_ID
+
+```sh
+docker logs CONTAINER_ID
+```
+
+### View Docker Containers
+
+### Stop Container
+
+```sh
+docker stop my-container
+```
+
+### Start Container
+
+```sh
+docker start my-container
+```
+
+### CLI Arguments
+
+#### Detached mode
+
+```sh
+docker run IMAGE_ID -d
+```
+
+#### Running with NVIDIA
+
+```sh
+docker run IMAGE_ID --gpus all
+```
+
+## Workflows
+
+### Build & Immediately Run
+
+```sh
+docker build -t comfy .
+
+# One liner
 docker build -t comfy . && IMAGE_ID=$(docker images | awk 'NR==2 {print $3}') && docker run --platform=linux/amd64 -p 8080:80 $IMAGE_ID
 ```
 
-- SSH into container 223c9ff3559d
+### Stop containers & remove. remove images & builds.
 
-```sh
-docker exec -it 223c9ff3559d /bin/bash
-```
-
-- Stop containers & remove. remove images & builds.
-
-```sh
-docker rm -f $(docker ps -aq) && docker rmi -f $(docker images -aq) && docker builder prune -a -f && docker image prune -a -y
-```
-
-- Listed one at a time.
 ```sh
 docker container prune
 docker image prune
@@ -33,48 +102,7 @@ docker volume prune
 docker network prune
 docker system prune
 docker system prune -a --volumes
-```
 
-```sh
-docker save -o comfy_image.tar primetimetran/comfy:latest
-```
-
-### Images
-
-### Create Base NIVIDIA/Cuda/Conda Image
-- Base Image with Cuda & Conda
-```sh
-FROM --platform=linux/x86_64 nvidia/cuda:12.1.1-runtime-ubuntu22.04
-
-RUN apt-get update \
-    && apt-get install -y --no-install-recommends \
-        curl \
-    && rm -rf /var/lib/apt/lists/*
-
-RUN curl -O https://repo.anaconda.com/miniconda/Miniconda3-py311_24.4.0-0-Linux-x86_64.sh \
-    && bash Miniconda3-py311_24.4.0-0-Linux-x86_64.sh -b -p /opt/miniconda \
-    && rm Miniconda3-py311_24.4.0-0-Linux-x86_64.sh
-
-ENV PATH="/opt/miniconda/bin:$PATH"
-```
-
-- Pull image and build from Dockerfile
-```sh
-docker pull nvidia/cuda:12.1.1-runtime-ubuntu22.04 && docker build -t base-cuda-conda .
-# Cuda 12.1, Miniconda3, Python 3.11, Ubuntu22.04
-
-
-docker build -t base-cuda-conda .
-```
-
-- Tag an image and push it
-```sh
-docker tag local-image:tagname new-repo:tagname
-docker push new-repo:tagname
-```
-
-### Running with NVIDIA
-
-```sh
-docker run dd0de1e2e55b -p 80:8188 --gpus all
+# One liner
+docker rm -f $(docker ps -aq) && docker rmi -f $(docker images -aq) && docker builder prune -a -f && docker image prune -a -y
 ```

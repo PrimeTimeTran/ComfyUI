@@ -1,15 +1,9 @@
-[submodule "Projects/compiler"]
-	path = Projects/compiler
-	url = git@github.com:PrimeTimeTran/testing.git
-[submodule "Projects/dotnet-template-webapi"]
-	path = Projects/dotnet-template-webapi
-	url = git@github.com:PrimeTimeTran/testing.git
-[submodule "Projects/ai_pokemon"]
-	path = Projects/ai_pokemon
-	url = git@github.com:PrimeTimeTran/testing.git
-[submodule "Projects/ComfyUI"]
-	path = Projects/ComfyUI
+[submodule ".Projects/ComfyUI"]
+	path = .Projects/comfy_ui
 	url = git@github.com:PrimeTimeTran/ComfyUI.git
-[submodule "Projects/AnimateDiff"]
-	path = Projects/AnimateDiff
-	url = git@github.com:PrimeTimeTran/testing.git
+[submodule ".Projects/ai_pokemon"]
+	path = .Projects/ai_pokemon
+	url = git@github.com:PrimeTimeTran/ai_PokemonRedExperiments.git
+[submodule ".Projects/compiler"]
+	path = .Projects/compiler
+	url = git@github.com:PrimeTimeTran/compiler.git
