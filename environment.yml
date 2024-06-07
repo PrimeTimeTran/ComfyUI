@@ -1,8 +1,8 @@
-name: base
+name: comfy
 channels:
-  - pytorch
   - defaults
   - conda-forge
+  - pytorch
 dependencies:
   - _anaconda_depends=2024.02=py311_mkl_1
   - abseil-cpp=20211102.0=hd77b12b_0
@@ -586,4 +586,3 @@ dependencies:
       - wcwidth==0.2.13
       - websockets==12.0
       - yarg==0.1.9
-prefix: C:\ProgramData\anaconda3

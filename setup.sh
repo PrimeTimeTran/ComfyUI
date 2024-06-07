@@ -5,16 +5,18 @@ cd /app
 echo "Inside $(pwd)"
 ls 
 echo "Conda version: $(conda --version)"
-echo "Conda version: $(which conda)"
+echo "which Conda: $(which conda)"
 
 echo "Python version: $(python --version)"
-echo "Python version: $(which python)"
+echo "which Python: $(which python)"
 
 echo "pip version: $(pip --version)"
-echo "pip version: $(which pip)"
+echo "which pip: $(which pip)"
 
-python -m venv venv
-source venv/bin/activate
 pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121
-pip install torchsde
-pip install -r requirements.txt
+pip install torchsde scikit-image psutil einops aiohttp segment_anything cv spandrel kornia
+pip install opencv-python piexif ultralytics
+
+if [ -n "$ADDITIONAL_PACKAGES" ]; then
+    pip install $ADDITIONAL_PACKAGES
+fi
