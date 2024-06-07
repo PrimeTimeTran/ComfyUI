@@ -53,7 +53,19 @@ $$
 
 ## Using Riemann Sums
 
+Appears in
+
+- distance traveled,
+- average value of functions,
+- continuous probability
+
 ## The Definite Integral
+
+$$
+\int_{a}^{b} f(x) \space dt
+$$
+
+Gives a value
 
 ## First Calculations
 
