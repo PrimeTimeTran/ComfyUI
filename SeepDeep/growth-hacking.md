@@ -3,7 +3,21 @@
 https://www.descript.com/blog/article/how-to-get-sponsored-on-youtube-2023#:~:text=Statista%20found%20YouTube%20sponsorship%20deals,500%2C000%20subscribers%3A%20Up%20to%20%245%2C859
 
 https://grin.co/blog/the-ultimate-guide-to-youtube-influencer-marketing/
-https://docs.google.com/spreadsheets/d/1SGGYAN2EoQrCuaRsZxHRgjvwuULVagw5SWDPEaX2pHI/edit#gid=0
+
+- YouTuber Influencer Marketing
+  https://docs.google.com/spreadsheets/d/1SGGYAN2EoQrCuaRsZxHRgjvwuULVagw5SWDPEaX2pHI/edit#gid=0
+
+https://www.youtube.com/watch?v=09wcDevb1q4&t=224s
+
+- Thumbnail title set expectations
+- Learn from each other
+
+- Click through rate
+- Retention
+- Build trust, high effort
+- Do everything you can, no matter how much time energy it takes.
+
+### Phrases to ask during demos
 
 1. How does what you're currently doing compare to this?
 
