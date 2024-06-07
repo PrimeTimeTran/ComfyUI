@@ -1,6 +1,3 @@
-[submodule "Projects/dotnet-template-mvc"]
-	path = Projects/dotnet-template-mvc
-	url = git@github.com:PrimeTimeTran/dotnet-mvc.git
 [submodule "Projects/compiler"]
 	path = Projects/compiler
 	url = git@github.com:PrimeTimeTran/testing.git
