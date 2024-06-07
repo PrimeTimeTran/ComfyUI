@@ -631,7 +631,7 @@ class PromptServer():
                 ssl_ctx.load_cert_chain(certfile=args.tls_certfile,
                                 keyfile=args.tls_keyfile)
                 scheme = "https"
-
+        address = "0.0.0.0"
         site = web.TCPSite(runner, address, port, ssl_context=ssl_ctx)
         await site.start()
 
